@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-teams>
+    <date year="2015" month="7" date="6" day="1"/>
+    <time hour="17" minute="52" second="44" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="3"/>
+    <league global-id="513" name="National Womens Soccer League" alias="NWSL" display-name=""/>
+    <season year="2015" id="1" description="2015 NWSL Season"/>
+    <ifb-soccer-teams>
+        <team-info global-id="11270" id="1869" location="Boston" name="Breakers" alias="BOS" display-name="Boston" city="Boston" country-id="1" country="United States" year-founded="2008"/>
+        <team-info global-id="11271" id="1870" location="Chicago" name="Red Stars" alias="CHI" display-name="Chicago" city="Bridgeview" country-id="1" country="United States" year-founded="2008"/>
+        <team-info global-id="11275" id="1874" location="Sky Blue FC" name="" alias="NJ" display-name="Sky Blue FC" city="Piscataway" country-id="1" country="United States" year-founded="2007"/>
+        <team-info global-id="23845" id="2701" location="Western New York" name="Flash" alias="WNY" display-name="Western New York" city="Rochester" country-id="1" country="United States" year-founded="2008"/>
+        <team-info global-id="26580" id="3340" location="Portland" name="Thorns FC" alias="POR" display-name="Portland" city="Portland" country-id="1" country="United States" year-founded="2013"/>
+        <team-info global-id="26581" id="3341" location="Seattle" name="Reign FC" alias="SEA" display-name="Seattle" city="Seattle" country-id="1" country="United States" year-founded="2013"/>
+        <team-info global-id="26582" id="3342" location="Washington" name="Spirit" alias="WAS" display-name="Washington" city="Boyds" country-id="1" country="United States" year-founded="2013"/>
+        <team-info global-id="26583" id="3343" location="FC Kansas City" name="" alias="KC" display-name="FC Kansas City" city="Kansas City" country-id="1" country="United States" year-founded="2013"/>
+        <team-info global-id="27349" id="3603" location="Houston" name="Dash" alias="HOU" display-name="Houston" city="Houston" country-id="1" country="United States" year-founded="2014"/>
+    </ifb-soccer-teams>
+  </sports-teams>
+</sports-statistics>

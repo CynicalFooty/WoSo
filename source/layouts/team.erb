@@ -1,0 +1,14 @@
+<html>
+<head>
+  <% if defined? team_info and team_info.key?('@display_name') %>
+    <title><%= team_info['@display_name']%></title>
+  <% else %>
+    <title> NWSL Teams </title>
+  <% end %>
+
+  <%= stylesheet_link_tag "basscss.min" %>
+</head>
+<body>
+  <%= yield %>
+</body>
+</html>
