@@ -1,0 +1,2710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-roster>
+    <date year="2015" month="8" date="2" day="7"/>
+    <time hour="16" minute="22" second="51" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="4"/>
+    <league global-id="513" name="National Womens Soccer League" alias="NWSL" display-name=""/>
+    <season year="2015" id="1" description="2015 NWSL Season"/>
+    <ifb-soccer-roster>
+      <ifb-team-roster>
+        <team-info global-id="11270" id="1869" location="Boston" name="Breakers" alias="BOS" display-name="Boston"/>
+        <manager global-id="824956" first="Tom" last="Durkin"/>
+        <ifb-roster-player>
+          <name first-name="Amy" last-name="Barczuk" shirt-name="" full-first="Amy" full-last="Barczuk"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="11"/>
+          <player-code global-id="732090" id="135643"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="10" date="28"/>
+          <birth-loc city="Centennial" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="" last-name="Bia" shirt-name="" full-first="Beatriz" full-last="Vaz e Silva"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="21"/>
+          <player-code global-id="868985" id="159922"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="10" date="7"/>
+          <birth-loc city="Sao Paulo" city-id="" state="" country="Brazil" spanish_country="Brasil" birth_country_id="47"/>
+          <nationality id="47" name="Brazil"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Che" last-name="Brown" shirt-name="" full-first="Che" full-last="Brown"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="61"/>
+          <player-code global-id="871173" id="161175"/>
+          <height inches="68" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="5" date="8"/>
+          <birth-loc city="Manassas Park" city-id="" state="Virginia" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Elizabeth-Che" last-name="Brown" shirt-name="" full-first="Elizabeth-Che" full-last="Brown"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="61"/>
+          <player-code global-id="871196" id="161180"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="570" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Paige" last-name="Burnett" shirt-name="" full-first="Paige" full-last="Burnett"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="27"/>
+          <player-code global-id="870501" id="160808"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="10" date="22"/>
+          <birth-loc city="Placentia" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Bianca" last-name="Calderone" shirt-name="" full-first="Bianca" full-last="Calderone"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="42"/>
+          <player-code global-id="880840" id="163430"/>
+          <height inches="64" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="5" date="20"/>
+          <birth-loc city="Wellesley" city-id="" state="Massachusetts" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Maddy" last-name="Evans" shirt-name="" full-first="Maddy" full-last="Evans"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="18"/>
+          <player-code global-id="736519" id="137259"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="4" date="21"/>
+          <birth-loc city="Glenside" city-id="" state="Pennsylvania" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Nkem" last-name="Ezurike" shirt-name="" full-first="Nkemjika Natalie" full-last="Ezurike"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="22"/>
+          <player-code global-id="824954" id="148669"/>
+          <height inches="71" meters="1.8"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="3" date="19"/>
+          <birth-loc city="Halifax" city-id="" state="Nova Scotia" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Riley" last-name="Houle" shirt-name="" full-first="Riley" full-last="Houle"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="49"/>
+          <player-code global-id="878073" id="162406"/>
+          <height inches="61" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="11" date="25"/>
+          <birth-loc city="" city-id="" state="" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Chanel" last-name="Johnson" shirt-name="" full-first="Chanel" full-last="Johnson"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="58"/>
+          <player-code global-id="872240" id="161638"/>
+          <height inches="66" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="11" date="26"/>
+          <birth-loc city="New London" city-id="" state="Connecticut" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kassey" last-name="Kallman" shirt-name="" full-first="Kassey" full-last="Kallman"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="5"/>
+          <player-code global-id="824946" id="148661"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="5" date="6"/>
+          <birth-loc city="Woodbury" city-id="" state="Minnesota" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Julie" last-name="King" shirt-name="" full-first="Julie" full-last="O'Toole King"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="8"/>
+          <player-code global-id="716092" id="135647"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="10" date="21"/>
+          <birth-loc city="St. Louis" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jami" last-name="Kranich" shirt-name="" full-first="Jami" full-last="Kranich"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="2"/>
+          <player-code global-id="824952" id="148667"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="5" date="27"/>
+          <birth-loc city="New Haven" city-id="" state="Connecticut" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lauren" last-name="Lazo" shirt-name="" full-first="Lauren" full-last="Lazo"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="3"/>
+          <player-code global-id="871174" id="161176"/>
+          <height inches="69" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="5" date="5"/>
+          <birth-loc city="Scottsdale" city-id="" state="Arizona" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Samantha" last-name="Lofton" shirt-name="" full-first="Samantha" full-last="Lofton"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="46"/>
+          <player-code global-id="872239" id="161637"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="4" date="29"/>
+          <birth-loc city="Lock Haven" city-id="" state="Pennsylvania" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Morgan" last-name="Marlborough" shirt-name="" full-first="Morgan" full-last="Marlborough"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="15"/>
+          <player-code global-id="824951" id="148666"/>
+          <height inches="72" meters="1.83"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="12" date="3"/>
+          <birth-loc city="Lee's Summit" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Stephanie" last-name="McCaffrey" shirt-name="" full-first="Stephanie" full-last="McCaffrey"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="9"/>
+          <player-code global-id="868990" id="159927"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="2" date="18"/>
+          <birth-loc city="Winchester" city-id="" state="Massachusetts" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kristie" last-name="Mewis" shirt-name="" full-first="Kristen Anne" full-last="Mewis"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="19"/>
+          <player-code global-id="725483" id="133655"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="2" date="25"/>
+          <birth-loc city="Weymouth" city-id="" state="Massachusetts" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Alyssa" last-name="Naeher" shirt-name="" full-first="Alyssa Michele" full-last="Naeher"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="1"/>
+          <player-code global-id="537246" id="135462"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="4" date="20"/>
+          <birth-loc city="Bridgeport" city-id="" state="Connecticut" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Mollie" last-name="Pathman" shirt-name="" full-first="Mollie" full-last="Pathman"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="20"/>
+          <player-code global-id="824953" id="148668"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="7" date="1"/>
+          <birth-loc city="Chapel Hill" city-id="" state="North Carolina" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Suzane" last-name="Pires" shirt-name="" full-first="Suzane" full-last="Pires"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="7"/>
+          <player-code global-id="868994" id="159931"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="8" date="17"/>
+          <birth-loc city="Sao Paulo" city-id="" state="" country="Brazil" spanish_country="Brasil" birth_country_id="47"/>
+          <nationality id="67" name="Portugal"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="" last-name="Rafaela" shirt-name="" full-first="Rafaela" full-last="De Miranda Travalao"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="10"/>
+          <player-code global-id="868995" id="159932"/>
+          <height inches="61" meters="1.56"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="8" date="18"/>
+          <birth-loc city="Sao Paulo" city-id="" state="" country="Brazil" spanish_country="Brasil" birth_country_id="47"/>
+          <nationality id="47" name="Brazil"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Katie" last-name="Schoepfer" shirt-name="" full-first="Kathryn Theresa" full-last="Schoepfer"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="88"/>
+          <player-code global-id="537273" id="135465"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="11" date="10"/>
+          <birth-loc city="Waterford" city-id="" state="Connecticut" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Bianca" last-name="Sierra" shirt-name="" full-first="Bianca Elissa" full-last="Sierra Garcia"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="23"/>
+          <player-code global-id="755311" id="142105"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="6" date="25"/>
+          <birth-loc city="" city-id="" state="" country="Mexico" spanish_country="México" birth_country_id="30"/>
+          <nationality id="30" name="Mexico"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kyah" last-name="Simon" shirt-name="" full-first="Kyah Pam" full-last="Simon"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="17"/>
+          <player-code global-id="597678" id="111004"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="134" kg="61"/>
+          <birth-date year="1991" month="6" date="25"/>
+          <birth-loc city="Blacktown" city-id="" state="New South Wales" country="Australia" spanish_country="Australia" birth_country_id="8"/>
+          <nationality id="8" name="Australia"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Stephanie" last-name="Verdoia" shirt-name="" full-first="Stephanie" full-last="Verdoia"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="26"/>
+          <player-code global-id="868996" id="159933"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="1" date="2"/>
+          <birth-loc city="Salt Lake City" city-id="" state="Utah" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Cat" last-name="Whitehill" shirt-name="" full-first="Cat" full-last="Whitehill"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="4"/>
+          <player-code global-id="490196" id="88686"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1982" month="2" date="10"/>
+          <birth-loc city="Birmingham" city-id="" state="Alabama" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Rachel" last-name="Wood" shirt-name="" full-first="Rachel" full-last="Wood"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="24"/>
+          <player-code global-id="829324" id="149446"/>
+          <height inches="72" meters="1.83"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="5" date="10"/>
+          <birth-loc city="Long Beach" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+      </ifb-team-roster>
+      <ifb-team-roster>
+        <team-info global-id="11271" id="1870" location="Chicago" name="Red Stars" alias="CHI" display-name="Chicago"/>
+        <manager global-id="732059" first="Rory" last="Dames"/>
+        <ifb-roster-player>
+          <name first-name="Zakiya" last-name="Bywaters" shirt-name="" full-first="Zakiya" full-last="Bywaters"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="5"/>
+          <player-code global-id="732022" id="135594"/>
+          <height inches="61" meters="1.55"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="7" date="24"/>
+          <birth-loc city="Las Vegas" city-id="" state="Nevada" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lori" last-name="Chalupny" shirt-name="" full-first="Lori Christine" full-last="Chalupny"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="17"/>
+          <player-code global-id="370166" id="20305"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1984" month="1" date="29"/>
+          <birth-loc city="St. Louis" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Danielle" last-name="Colaprico" shirt-name="" full-first="Danielle" full-last="Colaprico"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="24"/>
+          <player-code global-id="869006" id="159943"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="5" date="6"/>
+          <birth-loc city="Freehold" city-id="" state="New Jersey" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Michele" last-name="Dalton" shirt-name="" full-first="Michele" full-last="Dalton"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="18"/>
+          <player-code global-id="869019" id="159947"/>
+          <height inches="68" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="11" date="5"/>
+          <birth-loc city="Mount Prospect" city-id="" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Vanessa" last-name="DiBernardo" shirt-name="" full-first="Vanessa Sue" full-last="DiBernardo"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="10"/>
+          <player-code global-id="767216" id="142312"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="5" date="15"/>
+          <birth-loc city="Naperville" city-id="" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Abby" last-name="Erceg" shirt-name="" full-first="Abby" full-last="Erceg"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="6"/>
+          <player-code global-id="597649" id="110975"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="11" date="20"/>
+          <birth-loc city="Whangarei" city-id="" state="" country="New Zealand" spanish_country="Nueva Zelanda" birth_country_id="83"/>
+          <nationality id="83" name="New Zealand"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jackie" last-name="Esterkamp" shirt-name="" full-first="Jackie" full-last="Esterkamp"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="26"/>
+          <player-code global-id="870185" id="160648"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="4" date="7"/>
+          <birth-loc city="Cincinnati" city-id="570" state="Ohio" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Arin" last-name="Gilliland" shirt-name="" full-first="Arin" full-last="Gilliland"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="3"/>
+          <player-code global-id="869004" id="159941"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="12" date="25"/>
+          <birth-loc city="Lexington" city-id="" state="Kentucky" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Monica" last-name="Gonyo" shirt-name="" full-first="Monica" full-last="Gonyo"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="30"/>
+          <player-code global-id="870502" id="160809"/>
+          <height inches="71" meters="1.8"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="New Berlin" city-id="570" state="Wisconsin" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Taryn" last-name="Hemmings" shirt-name="" full-first="Taryn" full-last="Hemmings"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="14"/>
+          <player-code global-id="537314" id="135483"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1986" month="4" date="25"/>
+          <birth-loc city="Greeley" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Natalie" last-name="Horner" shirt-name="" full-first="Natalie" full-last="Horner"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="32"/>
+          <player-code global-id="872482" id="161715"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="1" date="2"/>
+          <birth-loc city="Columbus" city-id="" state="Ohio" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jen" last-name="Hoy" shirt-name="" full-first="Jen" full-last="Hoy"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="2"/>
+          <player-code global-id="738830" id="138934"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="1" date="18"/>
+          <birth-loc city="North Wales" city-id="" state="Pennsylvania" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Sofia" last-name="Huerta" shirt-name="" full-first="Sofia Christine" full-last="Huerta Jensen"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="20"/>
+          <player-code global-id="755333" id="142110"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="12" date="14"/>
+          <birth-loc city="Boise" city-id="" state="Idaho" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Leigh" last-name="Jakes" shirt-name="" full-first="Leigh Ashley" full-last="Jakes"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="31"/>
+          <player-code global-id="870505" id="160812"/>
+          <height inches="67" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="3" date="24"/>
+          <birth-loc city="McDonough" city-id="570" state="Georgia" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Samantha" last-name="Johnson" shirt-name="" full-first="Samantha" full-last="Johnson"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="16"/>
+          <player-code global-id="825085" id="148743"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="6" date="10"/>
+          <birth-loc city="Palmdale" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Julie" last-name="Johnston" shirt-name="" full-first="Julie Beth" full-last="Johnston"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="8"/>
+          <player-code global-id="725481" id="133653"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="4" date="6"/>
+          <birth-loc city="Phoenix" city-id="" state="Arizona" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Karina" last-name="LeBlanc" shirt-name="" full-first="Karina Chenelle" full-last="LeBlanc"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="1"/>
+          <player-code global-id="362274" id="6198"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1980" month="3" date="30"/>
+          <birth-loc city="Atlanta" city-id="" state="Georgia" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Adriana" last-name="Leon" shirt-name="" full-first="Adriana Kristina" full-last="Leon"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="19"/>
+          <player-code global-id="732078" id="135631"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="10" date="2"/>
+          <birth-loc city="Mississauga" city-id="" state="Ontario" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Michelle" last-name="Lomnicki" shirt-name="" full-first="Michelle" full-last="Lomnicki"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="13"/>
+          <player-code global-id="495283" id="135493"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="5" date="3"/>
+          <birth-loc city="Aurora" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Giuleana" last-name="Lopez" shirt-name="" full-first="Giuleana" full-last="Lopez"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="27"/>
+          <player-code global-id="870506" id="160813"/>
+          <height inches="68" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="Beach Park" city-id="570" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Mary" last-name="Luba" shirt-name="" full-first="Mary" full-last="Luba"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="34"/>
+          <player-code global-id="871200" id="161184"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="570" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Alyssa" last-name="Mautz" shirt-name="" full-first="Alyssa" full-last="Mautz"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="4"/>
+          <player-code global-id="592091" id="135512"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="7" date="29"/>
+          <birth-loc city="St. Louis" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kelley" last-name="McCloskey" shirt-name="" full-first="Kelley" full-last="McCloskey"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="25"/>
+          <player-code global-id="829924" id="149457"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="4" date="1"/>
+          <birth-loc city="San Marino" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Christen" last-name="Press" shirt-name="" full-first="Christen Annemarie" full-last="Press"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="23"/>
+          <player-code global-id="593765" id="110024"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="12" date="29"/>
+          <birth-loc city="Los Angeles" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Rachel" last-name="Quon" shirt-name="" full-first="Rachel" full-last="Quon"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="11"/>
+          <player-code global-id="732024" id="135596"/>
+          <height inches="62" meters="1.57"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="5" date="21"/>
+          <birth-loc city="Lake Forest" city-id="" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Melissa" last-name="Tancredi" shirt-name="" full-first="Melissa" full-last="Tancredi"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="9"/>
+          <player-code global-id="490175" id="88665"/>
+          <height inches="70" meters="1.77"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1981" month="12" date="27"/>
+          <birth-loc city="Ancaster" city-id="" state="Ontario" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Rachel" last-name="Tejada" shirt-name="" full-first="Rachel" full-last="Tejada"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="28"/>
+          <player-code global-id="870503" id="160810"/>
+          <height inches="66" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="7" date="8"/>
+          <birth-loc city="Troy" city-id="570" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lillie" last-name="Toaspern" shirt-name="" full-first="Lillie" full-last="Toaspern"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="29"/>
+          <player-code global-id="870504" id="160811"/>
+          <height inches="68" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="Denver" city-id="570" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Cara" last-name="Walls" shirt-name="" full-first="Cara" full-last="Walls"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="12"/>
+          <player-code global-id="869018" id="159946"/>
+          <height inches="69" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="6" date="16"/>
+          <birth-loc city="Wauwatosa" city-id="" state="Wisconsin" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+      </ifb-team-roster>
+      <ifb-team-roster>
+        <team-info global-id="11275" id="1874" location="Sky Blue FC" name="" alias="NJ" display-name="Sky Blue FC"/>
+        <manager global-id="495573" first="Jim" last="Gabarra"/>
+        <ifb-roster-player>
+          <name first-name="Aubrey" last-name="Bledsoe" shirt-name="" full-first="Aubrey" full-last="Bledsoe"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="21"/>
+          <player-code global-id="869000" id="159937"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="11" date="20"/>
+          <birth-loc city="Cincinnati" city-id="" state="Ohio" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Rachel" last-name="Breton" shirt-name="" full-first="Rachel" full-last="Breton"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="11"/>
+          <player-code global-id="736515" id="137256"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="8" date="4"/>
+          <birth-loc city="Nutley" city-id="" state="New Jersey" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Brittany" last-name="Cameron" shirt-name="" full-first="Brittany" full-last="Cameron"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="1"/>
+          <player-code global-id="490933" id="135531"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1986" month="12" date="3"/>
+          <birth-loc city="San Leandro" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lindsi" last-name="Cutshall" shirt-name="" full-first="Lindsi" full-last="Lisonbee-Cutshall"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="18"/>
+          <player-code global-id="732029" id="135601"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="10" date="18"/>
+          <birth-loc city="Park City" city-id="" state="Utah" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kim" last-name="DeCesare" shirt-name="" full-first="Kim" full-last="DeCesare"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="12"/>
+          <player-code global-id="825075" id="148733"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="8" date="11"/>
+          <birth-loc city="Bethpage" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Theresa" last-name="Diederich" shirt-name="" full-first="Theresa" full-last="Diederich"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="44"/>
+          <player-code global-id="869832" id="160495"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="570" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jonelle" last-name="Filigno" shirt-name="" full-first="Jonelle" full-last="Filigno"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="16"/>
+          <player-code global-id="598352" id="111185"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="9" date="24"/>
+          <birth-loc city="Mississauga" city-id="" state="Ontario" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Caitlin" last-name="Foord" shirt-name="" full-first="Caitlin Jade" full-last="Foord"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="4"/>
+          <player-code global-id="597680" id="111006"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1994" month="11" date="11"/>
+          <birth-loc city="Shellharbour" city-id="" state="New South Wales" country="Australia" spanish_country="Australia" birth_country_id="8"/>
+          <nationality id="8" name="Australia"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Katy" last-name="Freels" shirt-name="" full-first="Katy" full-last="Freels"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="10"/>
+          <player-code global-id="640743" id="120100"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="4" date="8"/>
+          <birth-loc city="Homewood" city-id="" state="Alabama" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="CoCo" last-name="Goodson" shirt-name="" full-first="Courtney" full-last="Goodson"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="25"/>
+          <player-code global-id="640750" id="120102"/>
+          <height inches="71" meters="1.8"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="6" date="19"/>
+          <birth-loc city="San Diego" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Shawna" last-name="Gordon" shirt-name="" full-first="Shawna" full-last="Gordon"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="2"/>
+          <player-code global-id="738967" id="138983"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="1" date="18"/>
+          <birth-loc city="Rancho Cucamonga" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kristin" last-name="Grubka" shirt-name="" full-first="Kristin" full-last="Grubka"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="13"/>
+          <player-code global-id="869002" id="159939"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="12" date="17"/>
+          <birth-loc city="Melbourne" city-id="" state="Florida" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Hayley" last-name="Haagsma" shirt-name="" full-first="Hayley" full-last="Haagsma"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="17"/>
+          <player-code global-id="819336" id="147647"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="3" date="14"/>
+          <birth-loc city="Bellflower" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Maya" last-name="Hayes" shirt-name="" full-first="Maya" full-last="Hayes"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="5"/>
+          <player-code global-id="818417" id="147458"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="3" date="26"/>
+          <birth-loc city="West Orange" city-id="" state="New Jersey" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Samantha" last-name="Kerr" shirt-name="" full-first="Samantha May" full-last="Kerr"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="20"/>
+          <player-code global-id="597674" id="111000"/>
+          <height inches="66" meters="1.67"/>
+          <weight pounds="121" kg="55"/>
+          <birth-date year="1993" month="9" date="10"/>
+          <birth-loc city="Fremantle" city-id="" state="Western Australia" country="Australia" spanish_country="Australia" birth_country_id="8"/>
+          <nationality id="8" name="Australia"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Sarah" last-name="Killion" shirt-name="" full-first="Sarah Christine" full-last="Killion"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="14"/>
+          <player-code global-id="821394" id="148085"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="7" date="27"/>
+          <birth-loc city="Fort Wayne" city-id="" state="Indiana" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Cami" last-name="Levin" shirt-name="" full-first="Camille" full-last="Levin"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="22"/>
+          <player-code global-id="640708" id="135517"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="5" date="24"/>
+          <birth-loc city="Newport Coast" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Taylor" last-name="Lytle" shirt-name="" full-first="Taylor" full-last="Lytle"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="6"/>
+          <player-code global-id="732028" id="135600"/>
+          <height inches="61" meters="1.55"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="3" date="31"/>
+          <birth-loc city="Las Cruces" city-id="" state="New Mexico" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Nadia" last-name="Nadim" shirt-name="" full-first="Nadia" full-last="Nadim"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="9"/>
+          <player-code global-id="821422" id="148106"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="1" date="2"/>
+          <birth-loc city="Kabul" city-id="" state="" country="Afghanistan" spanish_country="Afganistán" birth_country_id="7"/>
+          <nationality id="18" name="Denmark"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kelley" last-name="O'Hara" shirt-name="" full-first="Kelley Maureen" full-last="O'Hara"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="19"/>
+          <player-code global-id="537236" id="135460"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="8" date="4"/>
+          <birth-loc city="Fayettville" city-id="" state="Georgia" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Monica" last-name="Ocampo" shirt-name="" full-first="Monica" full-last="Ocampo"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="8"/>
+          <player-code global-id="540989" id="99024"/>
+          <height inches="61" meters="1.56"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="1" date="4"/>
+          <birth-loc city="Jojutla" city-id="" state="Morelos" country="Mexico" spanish_country="México" birth_country_id="30"/>
+          <nationality id="30" name="Mexico"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Shade" last-name="Pratt" shirt-name="" full-first="Shade" full-last="Pratt"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="33"/>
+          <player-code global-id="878096" id="162425"/>
+          <height inches="67" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="Rosemount" city-id="" state="Minnesota" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Christie" last-name="Rampone" shirt-name="" full-first="Christie Patricia" full-last="Rampone"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="3"/>
+          <player-code global-id="362389" id="6433"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1975" month="6" date="24"/>
+          <birth-loc city="Ft. Lauderdale" city-id="" state="Florida" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Nikki" last-name="Stanton" shirt-name="" full-first="Nikki" full-last="Stanton"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="7"/>
+          <player-code global-id="826344" id="149081"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="North Bend" city-id="" state="Washington" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Mary" last-name="Wagner" shirt-name="" full-first="Mary" full-last="Wagner"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="15"/>
+          <player-code global-id="871199" id="161183"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="570" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Maruschka" last-name="Waldus" shirt-name="" full-first="Maruschka" full-last="Waldus"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="34"/>
+          <player-code global-id="871309" id="161212"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="31" name="Netherlands"/>
+        </ifb-roster-player>
+      </ifb-team-roster>
+      <ifb-team-roster>
+        <team-info global-id="23845" id="2701" location="Western New York" name="Flash" alias="WNY" display-name="Western New York"/>
+        <manager global-id="594171" first="Aaran" last="Lines"/>
+        <ifb-roster-player>
+          <name first-name="Lady" last-name="Andrade" shirt-name="" full-first="Lady" full-last="Andrade"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="21"/>
+          <player-code global-id="598397" id="111225"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="1" date="10"/>
+          <birth-loc city="Bogota" city-id="" state="" country="Colombia" spanish_country="Colombia" birth_country_id="14"/>
+          <nationality id="14" name="Colombia"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jordan" last-name="Angeli" shirt-name="" full-first="Jordan" full-last="Angeli"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="6"/>
+          <player-code global-id="537260" id="135463"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1986" month="5" date="31"/>
+          <birth-loc city="Englewood" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Halimatu" last-name="Ayinde" shirt-name="" full-first="Halimatu Ibrahim" full-last="Ayinde"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="10"/>
+          <player-code global-id="872196" id="161623"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1995" month="5" date="16"/>
+          <birth-loc city="Kaduna" city-id="" state="" country="Nigeria" spanish_country="Nigeria" birth_country_id="68"/>
+          <nationality id="68" name="Nigeria"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Annie" last-name="Brunner" shirt-name="" full-first="Annie" full-last="Burnner"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="21"/>
+          <player-code global-id="873748" id="161884"/>
+          <height inches="69" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="1" date="31"/>
+          <birth-loc city="Arvada" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Sabrina" last-name="D'Angelo" shirt-name="" full-first="Sabrina" full-last="D'Angelo"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="1"/>
+          <player-code global-id="868981" id="159920"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="5" date="11"/>
+          <birth-loc city="Welland" city-id="" state="Ontario" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Abby" last-name="Dahlkemper" shirt-name="" full-first="Abby" full-last="Dahlkemper"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="4"/>
+          <player-code global-id="868982" id="159921"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="5" date="13"/>
+          <birth-loc city="Menlo Park" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Elizabeth" last-name="Eddy" shirt-name="" full-first="Elizabeth" full-last="Eddy"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="20"/>
+          <player-code global-id="871933" id="161505"/>
+          <height inches="65" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="9" date="13"/>
+          <birth-loc city="Costa Mesa" city-id="570" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kristen" last-name="Edmonds" shirt-name="" full-first="Kristen" full-last="Edmonds"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="12"/>
+          <player-code global-id="825232" id="148817"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="5" date="22"/>
+          <birth-loc city="Metuchen" city-id="" state="New Jersey" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Becky" last-name="Edwards" shirt-name="" full-first="Becky" full-last="Edwards"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="14"/>
+          <player-code global-id="537247" id="135523"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="5" date="22"/>
+          <birth-loc city="Downington" city-id="" state="Pennsylvania" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Whitney" last-name="Engen" shirt-name="" full-first="Whitney Elizabeth" full-last="Engen"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="3"/>
+          <player-code global-id="537237" id="135521"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="11" date="28"/>
+          <birth-loc city="Torrance" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jamia" last-name="Fields" shirt-name="" full-first="Jamia" full-last="Fields"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="24"/>
+          <player-code global-id="870200" id="160660"/>
+          <height inches="65" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="9" date="24"/>
+          <birth-loc city="Alta Loma" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Amanda" last-name="Frisbie" shirt-name="" full-first="Amanda" full-last="Frisbie"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="7"/>
+          <player-code global-id="825239" id="148822"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="5" date="29"/>
+          <birth-loc city="North Richland Hills" city-id="" state="Texas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kristen" last-name="Hamilton" shirt-name="" full-first="Kristen" full-last="Hamilton"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="17"/>
+          <player-code global-id="825078" id="148736"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="4" date="17"/>
+          <birth-loc city="Littleton" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Michelle" last-name="Heyman" shirt-name="" full-first="Michelle" full-last="Heyman"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="23"/>
+          <player-code global-id="795603" id="144973"/>
+          <height inches="71" meters="1.8"/>
+          <weight pounds="154" kg="70"/>
+          <birth-date year="1988" month="7" date="4"/>
+          <birth-loc city="Shellharbour" city-id="" state="New South Wales" country="Australia" spanish_country="Australia" birth_country_id="8"/>
+          <nationality id="8" name="Australia"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jaelene" last-name="Hinkle" shirt-name="" full-first="Jaelene" full-last="Hinkle"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="16"/>
+          <player-code global-id="868991" id="159928"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="5" date="28"/>
+          <birth-loc city="Denver" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Robyn" last-name="Horner" shirt-name="" full-first="Robyn" full-last="Horner"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="39"/>
+          <player-code global-id="543506" id="99374"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="1" date="1"/>
+          <birth-loc city="" city-id="" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Chantel" last-name="Jones" shirt-name="" full-first="Chantel" full-last="Jones"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="18"/>
+          <player-code global-id="732074" id="135627"/>
+          <height inches="71" meters="1.8"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="7" date="20"/>
+          <birth-loc city="Midlothian" city-id="" state="Virginia" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Camilla" last-name="Kur Larsen" shirt-name="" full-first="Camilla" full-last="Kur Larsen"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="10"/>
+          <player-code global-id="821420" id="148104"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="4" date="3"/>
+          <birth-loc city="" city-id="" state="" country="Denmark" spanish_country="Dinamarca" birth_country_id="18"/>
+          <nationality id="18" name="Denmark"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Sydney" last-name="Leroux" shirt-name="" full-first="Sydney Rae" full-last="Leroux-Dwyer"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="22"/>
+          <player-code global-id="640700" id="120080"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="5" date="7"/>
+          <birth-loc city="Surrey" city-id="" state="British Columbia" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Samantha" last-name="Mewis" shirt-name="" full-first="Samantha June" full-last="Mewis"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="5"/>
+          <player-code global-id="816072" id="147234"/>
+          <height inches="71" meters="1.8"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="10" date="9"/>
+          <birth-loc city="Weymouth" city-id="" state="Massachusetts" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Ajara" last-name="Nchout" shirt-name="" full-first="Ajara" full-last="Nchout Njoya"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="11"/>
+          <player-code global-id="868987" id="159924"/>
+          <height inches="65" meters="1.64"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="1" date="12"/>
+          <birth-loc city="Njisse" city-id="" state="" country="Cameroon" spanish_country="Camerún" birth_country_id="127"/>
+          <nationality id="127" name="Cameroon"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Ashley" last-name="Nick" shirt-name="" full-first="Ashley" full-last="Nick"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="8"/>
+          <player-code global-id="490937" id="88958"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="10" date="27"/>
+          <birth-loc city="Monrovia" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jasmyne" last-name="Spencer" shirt-name="" full-first="Jasmyne" full-last="Spencer"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="15"/>
+          <player-code global-id="644262" id="120146"/>
+          <height inches="61" meters="1.55"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="8" date="27"/>
+          <birth-loc city="Bay Shore" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Brittany" last-name="Taylor" shirt-name="" full-first="Brittany" full-last="Taylor"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="13"/>
+          <player-code global-id="537240" id="135495"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="9" date="18"/>
+          <birth-loc city="Campbell Hall" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Megan" last-name="Tock" shirt-name="" full-first="Megan" full-last="Tock"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="23"/>
+          <player-code global-id="871931" id="161503"/>
+          <height inches="68" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="5" date="10"/>
+          <birth-loc city="Syracuse" city-id="570" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lynn" last-name="Williams" shirt-name="" full-first="Lynn" full-last="Williams"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="9"/>
+          <player-code global-id="868986" id="159923"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="5" date="21"/>
+          <birth-loc city="Fresno" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+      </ifb-team-roster>
+      <ifb-team-roster>
+        <team-info global-id="26580" id="3340" location="Portland" name="Thorns FC" alias="POR" display-name="Portland"/>
+        <manager global-id="543940" first="Paul" last="Riley"/>
+        <ifb-roster-player>
+          <name first-name="Nadine" last-name="Angerer" shirt-name="" full-first="Nadine" full-last="Angerer"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="1"/>
+          <player-code global-id="370261" id="20417"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="157" kg="71"/>
+          <birth-date year="1978" month="11" date="10"/>
+          <birth-loc city="Lohr" city-id="" state="" country="West Germany" spanish_country="Alemania Occidental" birth_country_id="44"/>
+          <nationality id="23" name="Germany"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Ayo" last-name="Anonma" shirt-name="" full-first="Genoveva" full-last="Anonman Nze"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="8"/>
+          <player-code global-id="598708" id="111341"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="4" date="19"/>
+          <birth-loc city="Kuso" city-id="" state="" country="Equatorial Guinea" spanish_country="Guinea Ecuatorial" birth_country_id="222"/>
+          <nationality id="222" name="Equatorial Guinea"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kate" last-name="Bennett" shirt-name="" full-first="Kate" full-last="Bennett"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="23"/>
+          <player-code global-id="870507" id="160814"/>
+          <height inches="64" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="Bellevue" city-id="570" state="Washington" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Michelle" last-name="Betos" shirt-name="" full-first="Michelle" full-last="Betos"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="18"/>
+          <player-code global-id="732073" id="135626"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="2" date="25"/>
+          <birth-loc city="Queens" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Stephanie" last-name="Catley" shirt-name="" full-first="Stephanie Elise" full-last="Catley"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="4"/>
+          <player-code global-id="795599" id="144969"/>
+          <height inches="67" meters="1.71"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1994" month="1" date="26"/>
+          <birth-loc city="Melbourne" city-id="" state="Victoria" country="Australia" spanish_country="Australia" birth_country_id="8"/>
+          <nationality id="8" name="Australia"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Taylor" last-name="Comeau" shirt-name="" full-first="Taylor" full-last="Comeau"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="26"/>
+          <player-code global-id="869963" id="160554"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Sinead" last-name="Farrelly" shirt-name="" full-first="Sinead" full-last="Farrelly"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="7"/>
+          <player-code global-id="592096" id="109406"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="11" date="16"/>
+          <birth-loc city="Havertown" city-id="" state="Pennsylvania" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kelsey" last-name="Haycook" shirt-name="" full-first="Kelsey" full-last="Haycook"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="29"/>
+          <player-code global-id="869636" id="160432"/>
+          <height inches="69" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="570" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Tobin" last-name="Heath" shirt-name="" full-first="Tobin Powell" full-last="Heath"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="17"/>
+          <player-code global-id="537234" id="135494"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="5" date="29"/>
+          <birth-loc city="Morristown" city-id="" state="New Jersey" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Sarah" last-name="Jackson" shirt-name="" full-first="Sarah" full-last="Jackson"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="20"/>
+          <player-code global-id="869962" id="160553"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kendall" last-name="Johnson" shirt-name="" full-first="Kendall" full-last="Johnson"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="15"/>
+          <player-code global-id="732027" id="135599"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="4" date="24"/>
+          <birth-loc city="Portland" city-id="" state="Oregon" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Alyssa" last-name="Kleiner" shirt-name="" full-first="Alyssa" full-last="Kleiner"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="30"/>
+          <player-code global-id="869787" id="160475"/>
+          <height inches="69" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="4" date="1"/>
+          <birth-loc city="Las Vegas" city-id="570" state="Nevada" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Emily" last-name="Kruger" shirt-name="" full-first="Emily" full-last="Kruger"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number=""/>
+          <player-code global-id="871293" id="161207"/>
+          <height inches="71" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="10" date="27"/>
+          <birth-loc city="Woodside" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kaylyn" last-name="Kyle" shirt-name="" full-first="Kaylyn McKenzie" full-last="Kyle"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="11"/>
+          <player-code global-id="598355" id="111188"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="10" date="6"/>
+          <birth-loc city="Saskatoon" city-id="" state="Saskatchewan" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Allie" last-name="Long" shirt-name="" full-first="Allie" full-last="Long"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="10"/>
+          <player-code global-id="490452" id="135501"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="8" date="13"/>
+          <birth-loc city="Huntington" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Emily" last-name="Menges" shirt-name="" full-first="Emily" full-last="Menges"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="2"/>
+          <player-code global-id="825079" id="148737"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="7" date="28"/>
+          <birth-loc city="Garden City" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Alex" last-name="Morgan" shirt-name="" full-first="Alexandra Patricia" full-last="Morgan-Carrasco"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="13"/>
+          <player-code global-id="593750" id="135541"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="7" date="2"/>
+          <birth-loc city="San Dimas" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Courtney" last-name="Niemiec" shirt-name="" full-first="Courtney" full-last="Niemiec"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="25"/>
+          <player-code global-id="825090" id="148747"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="4" date="13"/>
+          <birth-loc city="Philadelphia" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Clare" last-name="Polkinghorne" shirt-name="" full-first="Clare" full-last="Polkinghorne"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="9"/>
+          <player-code global-id="597668" id="110994"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="148" kg="67"/>
+          <birth-date year="1989" month="2" date="1"/>
+          <birth-loc city="Brisbane" city-id="" state="Queensland" country="Australia" spanish_country="Australia" birth_country_id="8"/>
+          <nationality id="8" name="Australia"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Sarah" last-name="Robbins" shirt-name="" full-first="Sarah" full-last="Robbins"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="21"/>
+          <player-code global-id="869014" id="159945"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="7" date="30"/>
+          <birth-loc city="Montreal" city-id="" state="Quebec" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Meleana" last-name="Shim" shirt-name="" full-first="Meleana" full-last="Shim"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="6"/>
+          <player-code global-id="732017" id="135589"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="9" date="25"/>
+          <birth-loc city="Honolulu" city-id="" state="Hawaii" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Christine" last-name="Sinclair" shirt-name="" full-first="Christine Margaret" full-last="Sinclair"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="12"/>
+          <player-code global-id="370200" id="135533"/>
+          <height inches="69" meters="1.76"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1983" month="6" date="12"/>
+          <birth-loc city="Burnaby" city-id="" state="British Columbia" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jodie" last-name="Taylor" shirt-name="" full-first="Jodie" full-last="Taylor"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="14"/>
+          <player-code global-id="824961" id="148675"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1986" month="5" date="17"/>
+          <birth-loc city="Birkenhead" city-id="" state="" country="England" spanish_country="Inglaterra" birth_country_id="20"/>
+          <nationality id="20" name="England"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Hanna" last-name="Terry" shirt-name="" full-first="Hanna" full-last="Terry"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="28"/>
+          <player-code global-id="829928" id="149459"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="11" date="29"/>
+          <birth-loc city="Park City" city-id="" state="Utah" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Rachel" last-name="Van Hollebeke" shirt-name="" full-first="Rachel Marie" full-last="Buehler-Van Hollebeke"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="16"/>
+          <player-code global-id="490150" id="135474"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="8" date="26"/>
+          <birth-loc city="Del Mar" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Rhian" last-name="Wilkinson" shirt-name="" full-first="Rhian Emily" full-last="Wilkinson"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="22"/>
+          <player-code global-id="370203" id="20344"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1982" month="5" date="12"/>
+          <birth-loc city="Pointe-Claire" city-id="" state="Quebec" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kat" last-name="Williamson" shirt-name="" full-first="Kathryn" full-last="Williamson"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="5"/>
+          <player-code global-id="732016" id="135588"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="8" date="1"/>
+          <birth-loc city="McKinney" city-id="" state="Texas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="McCall" last-name="Zerboni" shirt-name="" full-first="McCall" full-last="Zerboni"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="77"/>
+          <player-code global-id="490490" id="135530"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1986" month="12" date="13"/>
+          <birth-loc city="Camarillo" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+      </ifb-team-roster>
+      <ifb-team-roster>
+        <team-info global-id="26581" id="3341" location="Seattle" name="Reign FC" alias="SEA" display-name="Seattle"/>
+        <manager global-id="732062" first="Laura" last="Harvey"/>
+        <ifb-roster-player>
+          <name first-name="Lauren" last-name="Barnes" shirt-name="" full-first="Lauren" full-last="Barnes"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="3"/>
+          <player-code global-id="592092" id="109402"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="5" date="31"/>
+          <birth-loc city="Arcadia" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Amber" last-name="Brooks" shirt-name="" full-first="Amber" full-last="Brooks"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="22"/>
+          <player-code global-id="735931" id="136855"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="1" date="23"/>
+          <birth-loc city="Evansville" city-id="" state="Indiana" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Mariah" last-name="Bullock" shirt-name="" full-first="Mariah" full-last="Bullock"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="20"/>
+          <player-code global-id="732084" id="135637"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="2" date="21"/>
+          <birth-loc city="Westminster" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Rachel" last-name="Corsie" shirt-name="" full-first="Rachel Louis" full-last="Corsie"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="4"/>
+          <player-code global-id="869005" id="159942"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="8" date="17"/>
+          <birth-loc city="Aberdeenshire" city-id="" state="" country="Scotland" spanish_country="Escocia" birth_country_id="38"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Stephanie" last-name="Cox" shirt-name="" full-first="Stephanie Renee" full-last="Lopez-Cox"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="14"/>
+          <player-code global-id="490160" id="135476"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1986" month="4" date="3"/>
+          <birth-loc city="San Jose" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Michelle" last-name="Cruz" shirt-name="" full-first="Michelle" full-last="Cruz"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="21"/>
+          <player-code global-id="829926" id="149458"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="5" date="14"/>
+          <birth-loc city="Thousand Oaks" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kiersten" last-name="Dallstream" shirt-name="" full-first="Kiersten" full-last="Dallstream"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="25"/>
+          <player-code global-id="537244" id="135461"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="3" date="5"/>
+          <birth-loc city="Kirksville" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jessica" last-name="Fishlock" shirt-name="" full-first="Jessica" full-last="Fishlock"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="10"/>
+          <player-code global-id="732082" id="135635"/>
+          <height inches="62" meters="1.57"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="1" date="14"/>
+          <birth-loc city="Cardiff" city-id="1351" state="" country="Wales" spanish_country="Gales" birth_country_id="43"/>
+          <nationality id="43" name="Wales"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kendall" last-name="Fletcher" shirt-name="" full-first="Kendall" full-last="Fletcher"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="13"/>
+          <player-code global-id="490162" id="135506"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1984" month="11" date="11"/>
+          <birth-loc city="Raleigh" city-id="" state="North Carolina" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Danielle" last-name="Foxhoven" shirt-name="" full-first="Danielle" full-last="Foxhoven"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="18"/>
+          <player-code global-id="640768" id="120107"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="11" date="8"/>
+          <birth-loc city="Wheat Ridge" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Mele" last-name="French" shirt-name="" full-first="Mele" full-last="French"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="29"/>
+          <player-code global-id="490941" id="135532"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1984" month="6" date="15"/>
+          <birth-loc city="Mililani" city-id="" state="Hawaii" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Haley" last-name="Kopmeyer" shirt-name="" full-first="Haley" full-last="Kopmeyer"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="28"/>
+          <player-code global-id="732086" id="135639"/>
+          <height inches="71" meters="1.8"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="6" date="28"/>
+          <birth-loc city="Pontiac" city-id="" state="Michigan" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kim" last-name="Little" shirt-name="" full-first="Kim Alison" full-last="Little"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="8"/>
+          <player-code global-id="725494" id="133666"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="6" date="29"/>
+          <birth-loc city="Aberdeen" city-id="" state="" country="Scotland" spanish_country="Escocia" birth_country_id="38"/>
+          <nationality id="38" name="Scotland"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Merritt" last-name="Mathias" shirt-name="" full-first="Merritt" full-last="Mathias"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="9"/>
+          <player-code global-id="732012" id="135552"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="7" date="2"/>
+          <birth-loc city="Birmingham" city-id="" state="Alabama" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Megan" last-name="Rapinoe" shirt-name="" full-first="Megan Anna" full-last="Rapinoe"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="15"/>
+          <player-code global-id="490447" id="88735"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="7" date="5"/>
+          <birth-loc city="Redding" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Elli" last-name="Reed" shirt-name="" full-first="Elli" full-last="Reed"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="7"/>
+          <player-code global-id="593735" id="135480"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="8" date="10"/>
+          <birth-loc city="Salt Lake City" city-id="" state="Utah" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kendall" last-name="Romine" shirt-name="" full-first="Kendall" full-last="Romine"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="5"/>
+          <player-code global-id="870192" id="160655"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Havana" last-name="Solaun" shirt-name="" full-first="Havana" full-last="Solaun"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="19"/>
+          <player-code global-id="869007" id="159944"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="2" date="23"/>
+          <birth-loc city="Gainesville" city-id="" state="Florida" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Hope" last-name="Solo" shirt-name="" full-first="Hope Amelia" full-last="Solo-Stevens"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="1"/>
+          <player-code global-id="370177" id="20316"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1981" month="7" date="30"/>
+          <birth-loc city="Richland" city-id="" state="Washington" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Caroline" last-name="Stanley" shirt-name="" full-first="Caroline" full-last="Stanley"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="12"/>
+          <player-code global-id="870191" id="160654"/>
+          <height inches="70" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="3" date="16"/>
+          <birth-loc city="Kansas City" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Abigail" last-name="Steele" shirt-name="" full-first="Abigail" full-last="Steele"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="40"/>
+          <player-code global-id="882096" id="163766"/>
+          <height inches="71" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="9" date="18"/>
+          <birth-loc city="Santa Rosa" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Katrine" last-name="Veje" shirt-name="" full-first="Katrine" full-last="Veje"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="24"/>
+          <player-code global-id="821408" id="148095"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="6" date="19"/>
+          <birth-loc city="Fredericia" city-id="" state="" country="Denmark" spanish_country="Dinamarca" birth_country_id="18"/>
+          <nationality id="18" name="Denmark"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Keelin" last-name="Winters" shirt-name="" full-first="Keelin" full-last="Winters"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="11"/>
+          <player-code global-id="593736" id="135481"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="12" date="9"/>
+          <birth-loc city="Cleveland" city-id="" state="Ohio" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Beverly" last-name="Yanez" shirt-name="" full-first="Beverly" full-last="Yanez"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="17"/>
+          <player-code global-id="537274" id="135526"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="7" date="19"/>
+          <birth-loc city="Fontana" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+      </ifb-team-roster>
+      <ifb-team-roster>
+        <team-info global-id="26582" id="3342" location="Washington" name="Spirit" alias="WAS" display-name="Washington"/>
+        <manager global-id="740232" first="Mark" last="Parsons"/>
+        <ifb-roster-player>
+          <name first-name="Estefania" last-name="Banini" shirt-name="" full-first="Estefania Romina" full-last="Banini Ruiz"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="26"/>
+          <player-code global-id="868992" id="159929"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="6" date="21"/>
+          <birth-loc city="Mendoza" city-id="" state="" country="Argentina" spanish_country="Argentina" birth_country_id="64"/>
+          <nationality id="64" name="Argentina"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Josephine" last-name="Chukwunonye" shirt-name="" full-first="Josephine" full-last="Chukwunonye"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="12"/>
+          <player-code global-id="598539" id="111296"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="3" date="19"/>
+          <birth-loc city="" city-id="" state="" country="Nigeria" spanish_country="Nigeria" birth_country_id="68"/>
+          <nationality id="68" name="Nigeria"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Whitney" last-name="Church" shirt-name="" full-first="Whitney Marie" full-last="Church"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="5"/>
+          <player-code global-id="868977" id="159917"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="4" date="30"/>
+          <birth-loc city="Ashburn" city-id="" state="Virginia" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Amanda" last-name="Da Costa" shirt-name="" full-first="Amanda" full-last="Da Costa"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="13"/>
+          <player-code global-id="593762" id="110021"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="10" date="7"/>
+          <birth-loc city="Katonah" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Crystal" last-name="Dunn" shirt-name="" full-first="Crystal Alyssia" full-last="Dunn"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="19"/>
+          <player-code global-id="725480" id="133652"/>
+          <height inches="62" meters="1.57"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="7" date="2"/>
+          <birth-loc city="Rockville Centre" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Caprice" last-name="Dydasco" shirt-name="" full-first="Caprice Ka'anohikula" full-last="Dydasco"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="3"/>
+          <player-code global-id="868979" id="159919"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="8" date="19"/>
+          <birth-loc city="Honolulu" city-id="" state="Hawaii" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Ashlyn" last-name="Harris" shirt-name="" full-first="Ashlyn Michelle" full-last="Harris"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="1"/>
+          <player-code global-id="537263" id="135524"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="10" date="19"/>
+          <birth-loc city="Satellite Beach" city-id="" state="Florida" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lyndse" last-name="Hokanson" shirt-name="" full-first="Lyndse" full-last="Hokanson"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="30"/>
+          <player-code global-id="873747" id="161883"/>
+          <height inches="68" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="Crofton" city-id="" state="Maryland" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Tori" last-name="Huster" shirt-name="" full-first="Tori" full-last="Huster"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="23"/>
+          <player-code global-id="640736" id="135545"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="9" date="23"/>
+          <birth-loc city="Cincinnati" city-id="" state="Ohio" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Estelle" last-name="Johnson" shirt-name="" full-first="Estelle" full-last="Johnson"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="24"/>
+          <player-code global-id="537272" id="97780"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="7" date="21"/>
+          <birth-loc city="Fort Collins" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Ali" last-name="Krieger" shirt-name="" full-first="Alexandra Blaire" full-last="Krieger"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="11"/>
+          <player-code global-id="490191" id="88681"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1984" month="7" date="28"/>
+          <birth-loc city="Woodbridge" city-id="" state="Virginia" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Emily" last-name="Lillard" shirt-name="" full-first="Emily" full-last="Lillard"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="0"/>
+          <player-code global-id="870188" id="160651"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Joanna" last-name="Lohman" shirt-name="" full-first="Joanna" full-last="Lohman"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="15"/>
+          <player-code global-id="490174" id="88664"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1982" month="6" date="26"/>
+          <birth-loc city="Silver Springs" city-id="" state="Maryland" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Diana" last-name="Matheson" shirt-name="" full-first="Diana Beverly" full-last="Matheson"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="8"/>
+          <player-code global-id="370192" id="20333"/>
+          <height inches="60" meters="1.53"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1984" month="4" date="6"/>
+          <birth-loc city="Oakville" city-id="" state="Ontario" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Christine" last-name="Nairn" shirt-name="" full-first="Christine" full-last="Nairn"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="7"/>
+          <player-code global-id="732091" id="135644"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="9" date="25"/>
+          <birth-loc city="Annapolis" city-id="" state="Maryland" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Ngozi" last-name="Okobi" shirt-name="" full-first="Ngozi Sonia" full-last="Okobi"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number=""/>
+          <player-code global-id="872199" id="161624"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="12" date="14"/>
+          <birth-loc city="" city-id="" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="68" name="Nigeria"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Francisca" last-name="Ordega" shirt-name="" full-first="Francisca" full-last="Ordega"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="14"/>
+          <player-code global-id="598541" id="111298"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="10" date="19"/>
+          <birth-loc city="Gboko" city-id="" state="" country="Nigeria" spanish_country="Nigeria" birth_country_id="68"/>
+          <nationality id="68" name="Nigeria"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Megan" last-name="Oyster" shirt-name="" full-first="Megan Leigh" full-last="Oyster"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="4"/>
+          <player-code global-id="868978" id="159918"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="9" date="3"/>
+          <birth-loc city="Naperville" city-id="" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Veronica" last-name="Perez" shirt-name="" full-first="Veronica Raquel" full-last="Perez Murillo"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="17"/>
+          <player-code global-id="598417" id="111245"/>
+          <height inches="62" meters="1.57"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="5" date="18"/>
+          <birth-loc city="Hayward" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="30" name="Mexico"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Hayley" last-name="Raso" shirt-name="" full-first="Hayley" full-last="Raso"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="20"/>
+          <player-code global-id="870818" id="160973"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1994" month="9" date="5"/>
+          <birth-loc city="Brisbane" city-id="" state="Queensland" country="Australia" spanish_country="Australia" birth_country_id="8"/>
+          <nationality id="8" name="Australia"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Katherine" last-name="Reynolds" shirt-name="" full-first="Katherine" full-last="Reynolds"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="2"/>
+          <player-code global-id="537281" id="97789"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="9" date="14"/>
+          <birth-loc city="San Clemente" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Arianna" last-name="Romero" shirt-name="" full-first="Arianna Jeanette" full-last="Romero Tellez"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="22"/>
+          <player-code global-id="755319" id="142108"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="7" date="29"/>
+          <birth-loc city="Glendale" city-id="" state="Arizona" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="30" name="Mexico"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Angela" last-name="Salem" shirt-name="" full-first="Angela" full-last="Salem"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="6"/>
+          <player-code global-id="542220" id="99287"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="7" date="24"/>
+          <birth-loc city="Akron" city-id="" state="Ohio" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Alex" last-name="Singer" shirt-name="" full-first="Alex" full-last="Singer"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="21"/>
+          <player-code global-id="490453" id="88741"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="11" date="18"/>
+          <birth-loc city="Rye" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jennifer" last-name="Skogerboe" shirt-name="" full-first="Jennifer" full-last="Skogerboe"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="28"/>
+          <player-code global-id="829391" id="149448"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="6" date="8"/>
+          <birth-loc city="Leesburg" city-id="" state="Virginia" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Tiffany" last-name="Weimer" shirt-name="" full-first="Tiffany Marie" full-last="Weimer"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="16"/>
+          <player-code global-id="490462" id="88750"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1983" month="12" date="5"/>
+          <birth-loc city="Bridgeport" city-id="" state="Connecticut" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kelsey" last-name="Wys" shirt-name="" full-first="Kelsey" full-last="Wys"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="18"/>
+          <player-code global-id="825084" id="148742"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="2" date="4"/>
+          <birth-loc city="Coral Springs" city-id="" state="Florida" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Laura" last-name="del Rio" shirt-name="" full-first="Laura" full-last="del Rio"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="9"/>
+          <player-code global-id="540985" id="99020"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1983" month="2" date="5"/>
+          <birth-loc city="Madrid" city-id="" state="" country="Spain" spanish_country="España" birth_country_id="39"/>
+          <nationality id="39" name="Spain"/>
+        </ifb-roster-player>
+      </ifb-team-roster>
+      <ifb-team-roster>
+        <team-info global-id="26583" id="3343" location="FC Kansas City" name="" alias="KC" display-name="FC Kansas City"/>
+        <manager global-id="732060" first="Vlatko" last="Andonovski"/>
+        <ifb-roster-player>
+          <name first-name="Yael" last-name="Averbuch" shirt-name="" full-first="Yael Friedman" full-last="Averbuch"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="14"/>
+          <player-code global-id="490449" id="135527"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1986" month="11" date="3"/>
+          <birth-loc city="Upper Montclair" city-id="" state="New Jersey" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Nicole" last-name="Barnhart" shirt-name="" full-first="Nicole Renee" full-last="Barnhart"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="18"/>
+          <player-code global-id="380557" id="20536"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1981" month="10" date="10"/>
+          <birth-loc city="Pottstown" city-id="" state="Pennsylvania" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Liz" last-name="Bogus" shirt-name="" full-first="Liz" full-last="Bogus"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="5"/>
+          <player-code global-id="490149" id="135473"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1984" month="2" date="24"/>
+          <birth-loc city="Provo" city-id="" state="Utah" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jen" last-name="Buczkowski" shirt-name="" full-first="Jennifer" full-last="Buczkowski"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="6"/>
+          <player-code global-id="490484" id="88770"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="4" date="4"/>
+          <birth-loc city="Elk Grove" city-id="" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kaysie" last-name="Clark" shirt-name="" full-first="Kaysie" full-last="Clark"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="10"/>
+          <player-code global-id="868999" id="159936"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="1" date="31"/>
+          <birth-loc city="Liberty" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Shea" last-name="Groom" shirt-name="" full-first="Shea" full-last="Groom"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="2"/>
+          <player-code global-id="869001" id="159938"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="3" date="4"/>
+          <birth-loc city="Liberty" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Sarah" last-name="Hagen" shirt-name="" full-first="Sarah" full-last="Hagen"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="24"/>
+          <player-code global-id="640711" id="120086"/>
+          <height inches="71" meters="1.8"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="11" date="18"/>
+          <birth-loc city="Appleton" city-id="" state="Wisconsin" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lauren" last-name="Holiday" shirt-name="" full-first="Lauren Nicole" full-last="Cheney-Holiday"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="12"/>
+          <player-code global-id="537235" id="135459"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="9" date="30"/>
+          <birth-loc city="Indianapolis" city-id="" state="Indiana" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Caroline" last-name="Kastor" shirt-name="" full-first="Caroline" full-last="Kastor"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="23"/>
+          <player-code global-id="870189" id="160652"/>
+          <height inches="63" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="10" date="12"/>
+          <birth-loc city="Wichita" city-id="" state="Kansas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Mandy" last-name="Laddish" shirt-name="" full-first="Mandy" full-last="Laddish"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="25"/>
+          <player-code global-id="824948" id="148663"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="5" date="13"/>
+          <birth-loc city="Lee's Summitt" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Amy" last-name="LePeilbet" shirt-name="" full-first="Amy" full-last="LePeilbet"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="17"/>
+          <player-code global-id="490133" id="135469"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1982" month="3" date="12"/>
+          <birth-loc city="Crystal Lake" city-id="" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Meghan" last-name="Lisenby" shirt-name="" full-first="Meghan" full-last="Lisenby"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="7"/>
+          <player-code global-id="870190" id="160653"/>
+          <height inches="65" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="12" date="21"/>
+          <birth-loc city="McKinney" city-id="" state="Texas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Caroline" last-name="Miller" shirt-name="" full-first="Caroline" full-last="Miller"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="19"/>
+          <player-code global-id="732079" id="135632"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="7" date="16"/>
+          <birth-loc city="Rockville" city-id="" state="Maryland" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Becca" last-name="Moros" shirt-name="" full-first="Rebecca" full-last="Moros"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="3"/>
+          <player-code global-id="490481" id="135529"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="5" date="6"/>
+          <birth-loc city="New York" city-id="" state="New York" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Heather" last-name="O'Reilly" shirt-name="" full-first="Heather Ann" full-last="O'Reilly"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="9"/>
+          <player-code global-id="370174" id="135492"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="1" date="2"/>
+          <birth-loc city="East Brunswick" city-id="" state="New Jersey" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Domi" last-name="Richardson" shirt-name="" full-first="Dominique" full-last="Richardson"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="21"/>
+          <player-code global-id="825073" id="148731"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="10" date="18"/>
+          <birth-loc city="Brisbane" city-id="" state="" country="Australia" spanish_country="Australia" birth_country_id="8"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Leigh Ann" last-name="Robinson" shirt-name="" full-first="Leigh Ann" full-last="Robinson"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="13"/>
+          <player-code global-id="490485" id="88771"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1986" month="8" date="17"/>
+          <birth-loc city="San Diego" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Amy" last-name="Rodriguez" shirt-name="" full-first="Amy Joy" full-last="Rodriguez"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="8"/>
+          <player-code global-id="490446" id="88734"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="2" date="17"/>
+          <birth-loc city="Beverly Hills" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Katelyn" last-name="Rowland" shirt-name="" full-first="Katelyn" full-last="Rowland"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="0"/>
+          <player-code global-id="868993" id="159930"/>
+          <height inches="71" meters="1.8"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1994" month="3" date="16"/>
+          <birth-loc city="Vacaville" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Becky" last-name="Sauerbrunn" shirt-name="" full-first="Rebecca Elizabeth" full-last="Sauerbrunn"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="4"/>
+          <player-code global-id="490195" id="88685"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="6" date="6"/>
+          <birth-loc city="St. Louis" city-id="" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Frances" last-name="Silva" shirt-name="" full-first="Frances" full-last="Silva"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="11"/>
+          <player-code global-id="824950" id="148665"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="11" date="11"/>
+          <birth-loc city="Overland Park" city-id="" state="Kansas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Erika" last-name="Tymrak" shirt-name="" full-first="Erika" full-last="Tymrak"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="15"/>
+          <player-code global-id="732013" id="135585"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1991" month="8" date="7"/>
+          <birth-loc city="Detroit" city-id="" state="Michigan" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+      </ifb-team-roster>
+      <ifb-team-roster>
+        <team-info global-id="27349" id="3603" location="Houston" name="Dash" alias="HOU" display-name="Houston"/>
+        <manager global-id="811419" first="Randy" last="Waldrum"/>
+        <ifb-roster-player>
+          <name first-name="" last-name="Andressa" shirt-name="" full-first="Andressa" full-last="Cavalari Machry"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="2"/>
+          <player-code global-id="872110" id="161566"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1995" month="5" date="1"/>
+          <birth-loc city="Roque Gonzales" city-id="" state="" country="Brazil" spanish_country="Brasil" birth_country_id="47"/>
+          <nationality id="47" name="Brazil"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jazmyne" last-name="Avant" shirt-name="" full-first="Jazmyne" full-last="Avant"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="5"/>
+          <player-code global-id="732018" id="135590"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="1" date="30"/>
+          <birth-loc city="Dallas" city-id="" state="Texas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Rachael" last-name="Axon" shirt-name="" full-first="Rachael" full-last="Axon"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="40"/>
+          <player-code global-id="857561" id="155895"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="9" date="11"/>
+          <birth-loc city="London" city-id="" state="" country="England" spanish_country="Inglaterra" birth_country_id="20"/>
+          <nationality id="20" name="England"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Allie" last-name="Bailey" shirt-name="" full-first="Alexandra" full-last="Bailey"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="3"/>
+          <player-code global-id="870186" id="160649"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="9" date="4"/>
+          <birth-loc city="San Diego" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Brittany" last-name="Bock" shirt-name="" full-first="Brittany" full-last="Bock"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="11"/>
+          <player-code global-id="490450" id="135528"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1987" month="4" date="11"/>
+          <birth-loc city="Naperville" city-id="" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Morgan" last-name="Brian" shirt-name="" full-first="Morgan Paige" full-last="Brian"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="6"/>
+          <player-code global-id="737287" id="138636"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="2" date="26"/>
+          <birth-loc city="St Simons Island" city-id="" state="Georgia" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Ellie" last-name="Brush" shirt-name="" full-first="Ellie" full-last="Brush"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="24"/>
+          <player-code global-id="871937" id="161508"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="8" date="19"/>
+          <birth-loc city="Canberra" city-id="" state="" country="Australia" spanish_country="Australia" birth_country_id="8"/>
+          <nationality id="8" name="Australia"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="" last-name="Camila" shirt-name="" full-first="Camila Martins" full-last="Pereira"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="9"/>
+          <player-code global-id="873751" id="161885"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1994" month="10" date="10"/>
+          <birth-loc city="Sao Bento do Sul" city-id="570" state="" country="Brazil" spanish_country="Brasil" birth_country_id="47"/>
+          <nationality id="47" name="Brazil"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Allysha" last-name="Chapman" shirt-name="" full-first="Allysha Lyn" full-last="Chapman"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="15"/>
+          <player-code global-id="868997" id="159934"/>
+          <height inches="63" meters="1.6"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="1" date="25"/>
+          <birth-loc city="Oshawa" city-id="" state="Ontario" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Niki" last-name="Cross" shirt-name="" full-first="Niki" full-last="Cross"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="19"/>
+          <player-code global-id="490478" id="135477"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1985" month="5" date="30"/>
+          <birth-loc city="Brockton" city-id="" state="Massachusetts" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jordan" last-name="Day" shirt-name="" full-first="Jordan" full-last="Day"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="33"/>
+          <player-code global-id="870187" id="160650"/>
+          <height inches="72" meters="1.83"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1993" month="4" date="30"/>
+          <birth-loc city="Chandler" city-id="" state="Arizona" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Melissa" last-name="Henderson" shirt-name="" full-first="Melissa" full-last="Henderson"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="21"/>
+          <player-code global-id="640704" id="135516"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="8" date="23"/>
+          <birth-loc city="Garland" city-id="" state="Texas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Bianca" last-name="Henninger" shirt-name="" full-first="Bianca" full-last="Henninger"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="18"/>
+          <player-code global-id="640760" id="120104"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="10" date="22"/>
+          <birth-loc city="Los Gatos" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jordan" last-name="Jackson" shirt-name="" full-first="Jordan" full-last="Jackson"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="8"/>
+          <player-code global-id="824958" id="148672"/>
+          <height inches="67" meters="1.7"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="9" date="19"/>
+          <birth-loc city="Overland Park" city-id="" state="Kansas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Megan" last-name="Kinneman" shirt-name="" full-first="Megan" full-last="Kinneman"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="28"/>
+          <player-code global-id="829258" id="149445"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="6" date="10"/>
+          <birth-loc city="Missouri City" city-id="" state="Texas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Meghan" last-name="Klingenberg" shirt-name="" full-first="Meghan Elizabeth" full-last="Klingenberg"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="25"/>
+          <player-code global-id="593764" id="135482"/>
+          <height inches="62" meters="1.57"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="8" date="2"/>
+          <birth-loc city="Pittsburgh" city-id="" state="Pennsylvania" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jen" last-name="LaPonte" shirt-name="" full-first="Jennifer" full-last="LaPonte"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="13"/>
+          <player-code global-id="736518" id="137258"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="7" date="3"/>
+          <birth-loc city="Castro Valley" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Carli" last-name="Lloyd" shirt-name="" full-first="Carli Anne" full-last="Lloyd"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="10"/>
+          <player-code global-id="490142" id="88632"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1982" month="7" date="16"/>
+          <birth-loc city="Delran" city-id="" state="New Jersey" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Ella" last-name="Masar" shirt-name="" full-first="Ella" full-last="Masar"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="30"/>
+          <player-code global-id="490144" id="88634"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1986" month="4" date="3"/>
+          <birth-loc city="Urbana" city-id="" state="Illinois" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Tiffany" last-name="McCarty" shirt-name="" full-first="Tiffany" full-last="McCarty"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="12"/>
+          <player-code global-id="732077" id="135630"/>
+          <height inches="64" meters="1.63"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="12" date="14"/>
+          <birth-loc city="Laurel" city-id="" state="Maryland" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jessica" last-name="McDonald" shirt-name="" full-first="Jessica" full-last="McDonald"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="14"/>
+          <player-code global-id="537259" id="97767"/>
+          <height inches="72" meters="1.83"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="2" date="28"/>
+          <birth-loc city="Phoenix" city-id="" state="Arizona" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Erin" last-name="McLeod" shirt-name="" full-first="Erin Katrina" full-last="McLeod"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="1"/>
+          <player-code global-id="370194" id="20335"/>
+          <height inches="69" meters="1.74"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1983" month="2" date="26"/>
+          <birth-loc city="St. Albert" city-id="" state="Alberta" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Jordan" last-name="O'Brien" shirt-name="" full-first="Jordan" full-last="O'Brien"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="20"/>
+          <player-code global-id="871198" id="161182"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="570" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Stephanie" last-name="Ochs" shirt-name="" full-first="Stephanie" full-last="Ochs"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="22"/>
+          <player-code global-id="640706" id="135487"/>
+          <height inches="69" meters="1.75"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="8" date="29"/>
+          <birth-loc city="San Diego" city-id="" state="California" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Kealia" last-name="Ohai" shirt-name="" full-first="Kealia Mae" full-last="Ohai"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="7"/>
+          <player-code global-id="824959" id="148673"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1992" month="1" date="31"/>
+          <birth-loc city="Sandy" city-id="" state="Utah" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Toni" last-name="Pressley" shirt-name="" full-first="Toni" full-last="Pressley"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="5"/>
+          <player-code global-id="640754" id="120103"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="2" date="19"/>
+          <birth-loc city="Melbourne" city-id="" state="Florida" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="1" name="United States"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Cami" last-name="Privett" shirt-name="" full-first="Cami" full-last="Privett"/>
+          <player-position id="3" english="Midfielder" spanish="Medio"/>
+          <player-number number="23"/>
+          <player-code global-id="869600" id="160405"/>
+          <height inches="68" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Stephanie" last-name="Roche" shirt-name="" full-first="Stephanie" full-last="Roche"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="9"/>
+          <player-code global-id="868998" id="159935"/>
+          <height inches="70" meters="1.78"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1989" month="6" date="13"/>
+          <birth-loc city="Dublin" city-id="" state="" country="Ireland" spanish_country="Irlanda" birth_country_id="26"/>
+          <nationality id="26" name="Ireland"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lauren" last-name="Sesselmann" shirt-name="" full-first="Lauren Marie" full-last="Sesselmann"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="4"/>
+          <player-code global-id="490488" id="88774"/>
+          <height inches="68" meters="1.73"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1983" month="8" date="14"/>
+          <birth-loc city="Stevens Point" city-id="" state="Wisconsin" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lauren" last-name="Silver" shirt-name="" full-first="Lauren" full-last="Silver"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="17"/>
+          <player-code global-id="871197" id="161181"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="570" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Carleigh" last-name="Williams" shirt-name="" full-first="Carleigh" full-last="Williams"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="2"/>
+          <player-code global-id="869601" id="160406"/>
+          <height inches="" meters=""/>
+          <weight pounds="" kg=""/>
+          <birth-date year="" month="" date=""/>
+          <birth-loc city="" city-id="" state="" country="" spanish_country="" birth_country_id=""/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+      </ifb-team-roster>
+    </ifb-soccer-roster>
+  </sports-roster>
+</sports-statistics>
