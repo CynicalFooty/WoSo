@@ -1,5 +1,5 @@
 require 'nori'
-require 'scraper_settings'
+require 'settings'
 Dir[File.dirname(__FILE__) + '/models/*.rb'].each {|file| require file }
 #options
 

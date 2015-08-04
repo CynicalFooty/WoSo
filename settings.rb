@@ -1,4 +1,5 @@
 BASE_FILE_PATH = File.dirname(__FILE__)
+DB_PATH = 'sqlite://woso.db'
 
 NWSL = {
   team_info: {

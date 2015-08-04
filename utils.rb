@@ -1,6 +1,7 @@
 require 'nori'
 require 'open-uri'
 require 'sequel'
+require_relative 'settings'
 
 class utils
   def xml_file_to_hash(file_location)
@@ -17,6 +18,6 @@ class utils
   end
 
   def open_db
-    return Sequel.connect('sqlite://woso.db')
+    return Sequel.connect(DB_PATH)
   end
 end
