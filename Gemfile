@@ -15,3 +15,5 @@ gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 
 gem 'nokogiri'
 gem 'nori'
+gem 'sequel'
+gem 'sqlite3'

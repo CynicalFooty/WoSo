@@ -1,6 +1,6 @@
 require 'nori'
-require 'settings'
-
+require 'scraper_settings'
+Dir[File.dirname(__FILE__) + '/models/*.rb'].each {|file| require file }
 #options
 
 activate :automatic_image_sizes
@@ -9,14 +9,7 @@ set :js_dir, 'javascripts'
 set :images_dir, 'images'
 set :relative_links, true
 
-#Build out the site
-
-parser = Nori.new
-
-#Team Building (ha)
-team_info = File.read('./source/data/NWSL_TEAM_INFO.XML')
-team_hash = parser.parse(team_info)
-teams = team_hash['sports_statistics']['sports_teams']['ifb_soccer_teams']['team_info']
+teams = Teams.xml
 
 page "teams/*", :layout => :team
 teams.each do |team|
