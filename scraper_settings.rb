@@ -1,11 +1,14 @@
+BASE_FILE_PATH = File.dirname(__FILE__)
+
 NWSL = {
-  team_logs: {
-    url: "NWSL_TEAM_LOGS.XML",
+  team_info: {
+    file_name: "NWSL_TEAM_INFO.XML",
     description: "Each game's results from team's perspective."
   },
   roster: {
-    url: "NWSL_ROSTER.XML",
+    file_name: "NWSL_ROSTER.XML",
     description: "Players and current roster"
   },
-  url: "http://www.nwslsoccer.com/Stats/2015/pbp/"
+  url: "http://www.nwslsoccer.com/Stats/2015/pbp/",
+  file_path: "#{BASE_FILE_PATH}/source/data/"
 }
