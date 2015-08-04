@@ -15,7 +15,7 @@
 /.cache
 
 # Ignore Database
-.sqlite
+.db
 
 # Ignore .DS_store file
 .DS_Store
