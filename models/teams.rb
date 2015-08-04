@@ -1,6 +1,5 @@
-require_relative '../scraper_settings'
-
-class Teams
+DB ||= Utils.open_db
+class Teams < Sequel::Model
   def self.xml
     parser = Nori.new
 

@@ -1,5 +1,6 @@
 require 'nori'
 require 'settings'
+require 'utils'
 Dir[File.dirname(__FILE__) + '/models/*.rb'].each {|file| require file }
 #options
 
@@ -8,6 +9,7 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
 set :relative_links, true
+DB = Utils.open_db
 
 teams = Teams.xml
 rosters = Rosters.xml

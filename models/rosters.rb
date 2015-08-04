@@ -1,4 +1,6 @@
-class Rosters
+DB ||= Utils.open_db
+class Rosters < Sequel::Model
+
   def self.xml
     parser = Nori.new
 
