@@ -34,6 +34,12 @@ class Tasks
     #load backup info
   end
 
+  def self.get_hashes
+    return {
+      teams: Teams.hash
+    }
+  end
+
   def self.dump_info
     #if no database; return
     #dump backup info to csv

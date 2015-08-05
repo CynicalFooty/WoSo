@@ -12,20 +12,17 @@ set :images_dir, 'images'
 set :relative_links, true
 DB = Utils.open_db
 
-#build the site
-#Teams.create_table
+#Setup Info
 Tasks.load_schema
-#Teams.load_table
 Tasks.load_info
+build_hash = Tasks.get_hashes
 
-teams = Teams.hash
-rosters = Rosters.xml
-
+#build the site
 page "teams/*", :layout => :team
-teams.each do |team|
+build_hash[:teams].each do |team|
   proxy "/teams/#{team[:alias].downcase}/index.html", "/teams/single.html", :locals => { :team_info => team }, :ignore => true
 end
-proxy 'teams/index.html', '/teams/list.html', :locals => { :teams => teams}, :ignore => true
+proxy 'teams/index.html', '/teams/list.html', :locals => { :teams => build_hash[:teams]}, :ignore => true
 
 #rosters.each do |roster|
 #  players = roster['ifb_roster_player']
