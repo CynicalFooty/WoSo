@@ -4,6 +4,6 @@ title: NWSL Teams
 
 <ul>
 <% teams.each do |team| %>
-  <li><%= link_to team['@display_name'], "#{team['@alias'].downcase}" %></li>
+  <li><%= link_to team[:name], "#{team[:alias].downcase}" %></li>
 <% end %>
 </ul>

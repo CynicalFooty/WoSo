@@ -1,9 +1,10 @@
 require 'nori'
 require 'settings'
 require 'utils'
+require 'tasks'
 Dir[File.dirname(__FILE__) + '/models/*.rb'].each {|file| require file }
-#options
 
+#options
 activate :automatic_image_sizes
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
@@ -11,12 +12,18 @@ set :images_dir, 'images'
 set :relative_links, true
 DB = Utils.open_db
 
-teams = Teams.xml
+#build the site
+#Teams.create_table
+Tasks.load_schema
+#Teams.load_table
+Tasks.load_info
+
+teams = Teams.hash
 rosters = Rosters.xml
 
 page "teams/*", :layout => :team
 teams.each do |team|
-  proxy "/teams/#{team['@alias'].downcase}/index.html", "/teams/single.html", :locals => { :team_info => team }, :ignore => true
+  proxy "/teams/#{team[:alias].downcase}/index.html", "/teams/single.html", :locals => { :team_info => team }, :ignore => true
 end
 proxy 'teams/index.html', '/teams/list.html', :locals => { :teams => teams}, :ignore => true
 

@@ -1,17 +1,16 @@
 require 'rubygems'
 require 'open-uri'
-require 'sqlite-rb'
 require 'nori'
-require_relative 'settings'
-require_relative 'utils'
+require 'settings'
+require 'utils'
 
-class tasks
-  def download_nwsl
+class Tasks
+  def self.download_nwsl
     # parse the HTML document with all the links to the XML files.
     utils.write_xml_file(NWSL[:url]+NWSL[:roster][:file_name], NWSL[:file_path]+NWSL[:roster][:file_name])
   end
 
-  def process_xml(audit=false)
+  def self.process_xml(audit=false)
     roster_hash = utils.xml_file_to_hash(NWSL[:file_path]+NWSL[:roster][:file_name])
     rosters = roster_hash['sports_statistics']['sports_roster']['ifb_soccer_roster']['ifb_team_roster']
     rosters.each do |roster|
@@ -23,18 +22,19 @@ class tasks
     end
   end
 
-  def load_schema
+  def self.load_schema
+    Teams.create_table
     #if database does exist; return
     #create database
     #load schema
   end
 
-  def load_info
-    #if no database; return
+  def self.load_info
+    Teams.load_table
     #load backup info
   end
 
-  def dump_info
+  def self.dump_info
     #if no database; return
     #dump backup info to csv
   end
