@@ -7,7 +7,6 @@
 
 <div>
   <h1>NWSL Teams</h1>
-
   <ul>
     <% teams.each do |team| %>
     <li><%= link_to team[:full_name], "#{team[:alias].downcase}" %></li>
