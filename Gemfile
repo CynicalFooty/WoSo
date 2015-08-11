@@ -7,6 +7,7 @@ gem "middleman", "~>3.3.12"
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
 gem 'middleman-deploy', '~> 1.0'
+gem 'middleman-trailing_slashes'
 
 # For faster file watcher updates on Windows:
 gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]

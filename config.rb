@@ -5,6 +5,7 @@ require 'tasks'
 Dir[File.dirname(__FILE__) + '/models/*.rb'].each {|file| require file }
 
 #options
+#activate :trailing_slashes
 activate :relative_assets
 set :relative_links, true
 activate :automatic_image_sizes
