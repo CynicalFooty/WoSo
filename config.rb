@@ -9,7 +9,6 @@ activate :automatic_image_sizes
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
-set :relative_links, true
 DB = Utils.open_db
 
 #Setup Info
@@ -20,13 +19,8 @@ build_hash = Tasks.get_hashes
 #build the site
 page "teams/*", :layout => :team
 build_hash[:teams].each do |team|
-  proxy "/teams/#{team[:alias].downcase}/index.html", "/teams/single.html", :locals => { :team_info => team }, :ignore => true
+  roster = Rosters.hash(team[:id])
+  players = roster.map { |r| Players.find(id: r[:player_id]) }
+  proxy "/teams/#{team[:alias].downcase}/index.html", "/teams/single.html", :locals => { :team_info => team, :roster => players }, :ignore => true
 end
 proxy 'teams/index.html', '/teams/list.html', :locals => { :teams => build_hash[:teams]}, :ignore => true
-
-#rosters.each do |roster|
-#  players = roster['ifb_roster_player']
-#  players.each do |player|
-#    proxy "/players/#{player[]}"
-#  end
-#end

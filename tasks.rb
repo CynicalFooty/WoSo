@@ -24,14 +24,14 @@ class Tasks
 
   def self.load_schema
     Teams.create_table
-    #if database does exist; return
-    #create database
-    #load schema
+    Rosters.create_table
+    Players.create_table
   end
 
   def self.load_info
     Teams.load_table
-    #load backup info
+    Rosters.load_table
+    Players.load_table
   end
 
   def self.get_hashes

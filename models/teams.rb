@@ -13,20 +13,34 @@ class Teams < Sequel::Model
     return DB[:teams]
   end
 
+  def self.csv
+    teams = DB[:teams]
+    csv = File.open("#{NWSL[:file_path]+NWSL[:team_info][:file_name]}.csv",'w')
+    csv << teams.columns.map {|c| c.to_s}
+    #then split out each team
+  end
+
   def self.create_table
     DB.create_table? :teams do
       primary_key :id
       String      :name
       String      :location
+      String      :full_name
+      String      :city
       String      :alias
+      String      :country
+      Integer     :year
     end
   end
 
   def self.load_table
     team_hash = self.xml
     team_hash.each do |team|
-      team_sql = "INSERT or IGNORE INTO teams (id, name, location, alias)
-      VALUES (#{team['@global_id']}, '#{team['@display_name']}', '#{team['@city']}', '#{team['@alias']}')"
+      team_sql = "INSERT or IGNORE INTO teams
+      (id, name, location, full_name, city, alias, country, year)
+      VALUES (#{team['@global_id']}, '#{team['@name']}', '#{team['@name']}',
+      '#{team['@location']} #{team['@name']}', '#{team['@city']}', '#{team['@alias']}',
+      '#{team['@country']}', #{team['@year_founded']})"
       DB.run(team_sql)
     end
   end
