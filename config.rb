@@ -5,6 +5,7 @@ require 'tasks'
 Dir[File.dirname(__FILE__) + '/models/*.rb'].each {|file| require file }
 
 #options
+set :http_prefix, "/WoSo"
 activate :automatic_image_sizes
 set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
