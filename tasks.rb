@@ -36,7 +36,8 @@ class Tasks
 
   def self.get_hashes
     return {
-      teams: Teams.hash
+      teams: Teams.hash,
+      players: Players.hash
     }
   end
 

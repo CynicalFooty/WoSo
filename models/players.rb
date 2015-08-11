@@ -18,6 +18,7 @@ class Players < Sequel::Model
       primary_key :id
       String      :first_name
       String      :last_name
+      String      :full_name
       String      :country
     end
   end
@@ -28,8 +29,13 @@ class Players < Sequel::Model
       team['ifb_roster_player'].each do |player|
         first_name = player['name']['@first_name'].gsub("'","''")
         last_name = player['name']['@last_name'].gsub("'","''")
-        player_sql = "INSERT or IGNORE INTO players (id, first_name, last_name, country)
-        VALUES (#{player['player_code']['@global_id']}, '#{first_name}', '#{last_name}', '#{player['nationality']['@name']}' )"
+        full_name = "#{first_name} #{last_name}"
+        player_sql = "INSERT or IGNORE INTO players
+          (id, first_name, last_name, full_name, country)
+        VALUES
+          (#{player['player_code']['@global_id']}, '#{first_name}',
+          '#{last_name}', '#{full_name}', '#{player['nationality']['@name']}'
+          )"
         DB.run(player_sql)
       end
     end

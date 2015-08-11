@@ -1,5 +1,3 @@
-
-<h1><%= team_info[:full_name] %></h1>
 <div class="h5 mxn1">
   <a href="/" title="Home" class="btn compact btn-link p1">Home</a>
   <span class="">
@@ -11,30 +9,34 @@
   </span>
 </div>
 
-<h2>Team Info</h2>
-<p>Team Alias: <%= team_info[:alias] %>
-<br>Location: <%= team_info[:city] %>
-<br>Country: <%= team_info[:country] %>
-<br>Year Founded: <%= team_info[:year] %></p>
+<div>
+  <h1><%= team_info[:full_name] %></h1>
 
-<h2>Roster</h2>
-<table>
-  <thead>
-    <th>Name</th>
-    <th>Country<th>
-  </thead>
-  <tbody>
-  <% roster.each do |player| %>
-    <tr>
-      <td><%= player.first_name + ' ' + player.last_name %></td>
-      <td><%= player.country %></td>
-    </tr>
-  <% end %>
-  <tbody>
-  <tfoot>
-    <tr>
-      <td>Total:</td>
-      <td><%= roster.count %></td>
-    </tr>
-  </tfoot>
-</table>
+  <h2>Team Info</h2>
+  <p>Team Alias: <%= team_info[:alias] %>
+  <br>Location: <%= team_info[:city] %>
+  <br>Country: <%= team_info[:country] %>
+  <br>Year Founded: <%= team_info[:year] %></p>
+
+  <h2>Roster</h2>
+  <table>
+    <thead>
+      <th>Name</th>
+      <th>Country<th>
+    </thead>
+    <tbody>
+    <% roster.each do |player| %>
+      <tr>
+        <td><%= player.first_name + ' ' + player.last_name %></td>
+        <td><%= player.country %></td>
+      </tr>
+    <% end %>
+    <tbody>
+    <tfoot>
+      <tr>
+        <td>Total:</td>
+        <td><%= roster.count %></td>
+      </tr>
+    </tfoot>
+  </table>
+</div>
