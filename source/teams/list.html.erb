@@ -10,7 +10,7 @@
 
   <ul>
     <% teams.each do |team| %>
-    <li><%= link_to team[:full_name], "/teams/#{team[:alias].downcase}" %></li>
+    <li><%= link_to team[:full_name], "teams/#{team[:alias].downcase}" %></li>
     <% end %>
   </ul>
 </div>
