@@ -1,10 +1,10 @@
 <div class="h5 mxn1">
-  <%= link_to "Home", "..", class: "btn compact btn-link p1", title: "Home" %>
+  <%= link_to "Home", "../", class: "btn compact btn-link p1", title: "Home", :relative => false %>
   <span class="">
     <span class="muted"> / </span>
-    <%= link_to "Teams", ".", class: "btn compact btn-link p1", title: "Teams" %>
+    <%= link_to "Teams", "./", class: "btn compact btn-link p1", title: "Teams", :relative => false %>
     <span class="muted"> / </span>
-    <%= link_to team_info[:full_name], "#" , class: "btn compact btn-link p1", title: team_info[:full_name] %>
+    <%= link_to team_info[:full_name], "#" , class: "btn compact btn-link p1", title: team_info[:full_name], :relative => false %>
   </span>
 </div>
 
