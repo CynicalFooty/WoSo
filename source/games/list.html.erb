@@ -9,7 +9,7 @@
   <h1>Games</h1>
   <ul>
     <% games.each do |game| %>
-    <li><%= link_to game[:id], "NWSL#{game[:id]}/" %></li>
+    <li><%= link_to game[:full_name], "NWSL#{game[:id]}/" %></li>
     <% end %>
   </ul>
 </div>

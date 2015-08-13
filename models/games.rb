@@ -1,13 +1,16 @@
 DB ||= Utils.open_db
 class Games < Sequel::Model
-  def self.xml
+  def self.xml_to_hashes
     parser = Nori.new
 
-    #Team Building (ha)
-    #game_info = File.read(NWSL[:file_path]+NWSL[:game_info][:file_name])
-    #todo each do
-    #game_hash = parser.parse(game_info)
-    #return game_hash #todo xml
+    game_log_directory = NWSL[:file_path]+NWSL[:game_logs][:folder]
+    files = Dir["#{game_log_directory}/*.xml"]
+    game_hashes = []
+    files.each do |file|
+      game_hashes << parser.parse(File.read(file))['sports_statistics']['sports_play_by_play']['soccer_ifb_game']
+    end
+
+    return game_hashes
   end
 
   def self.hash
@@ -29,11 +32,15 @@ class Games < Sequel::Model
   end
 
   def self.load_table
-    game_hash = self.xml
-    game_hash.each do |game|
+    game_hashes = self.xml_to_hashes
+    game_hashes.each do |game|
+      visitor = game['visiting_team']['team_info']['@alias']
+      home = game['home_team']['team_info']['@alias']
+      game_name = "#{home} vs #{visitor}"
+      id = game['gamecode']['@global_code']
       game_sql = "INSERT or IGNORE INTO games
       (id, full_name)
-      VALUES (#{game['@global_id']}, '#{game['@name']}'"
+      VALUES (#{id}, '#{game_name}')"
       DB.run(game_sql)
     end
   end
