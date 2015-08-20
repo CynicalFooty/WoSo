@@ -15,5 +15,5 @@ NWSL = {
     description: "All of the games."
   },
   url: "http://www.nwslsoccer.com/Stats/2015/pbp/",
-  file_path: "#{BASE_FILE_PATH}/source/data/"
+  file_path: "#{BASE_FILE_PATH}/raw_data/"
 }

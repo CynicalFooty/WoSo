@@ -4,14 +4,16 @@
     <span class="muted"> / </span>
     <a href="../" title="Games" class="btn compact btn-link p1">Games</a>
     <span class="muted"> / </span>
-    <a href="#" title="<%= game[:full_name] %>"
-      class="btn compact btn-link p1"> <%= game[:full_name] %> </a>
+    <a href="#" title="<%= "#{game[:home]} vs #{game[:away]}: Week #{game[:week]}" %>"
+      class="btn compact btn-link p1">
+      <%= "#{game[:home]} vs #{game[:away]}: Week #{game[:week]}" %>
+    </a>
   </span>
 </div>
 
 <div>
-  <h1><%= game[:full_name] %></h1>
-  <h2></h2>
+  <h1><%= game[:home] %> vs <%= game[:away] %></h1>
+  <p>Week <%= game[:week] %> : <%= game[:date] %></p>
 
   <h2>Game Info</h2>
   <p></p>

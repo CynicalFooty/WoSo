@@ -27,20 +27,24 @@ class Games < Sequel::Model
   def self.create_table
     DB.create_table? :games do
       primary_key :id
-      String      :full_name
+      String      :home
+      String      :away
+      String      :week
+      String      :date
     end
   end
 
   def self.load_table
     game_hashes = self.xml_to_hashes
     game_hashes.each do |game|
-      visitor = game['visiting_team']['team_info']['@alias']
+      week = game['week']['@week']
+      date = "#{game['date']['@year']}-#{game['date']['@month']}-#{game['date']['@date']}"
+      away = game['visiting_team']['team_info']['@alias']
       home = game['home_team']['team_info']['@alias']
-      game_name = "#{home} vs #{visitor}"
       id = game['gamecode']['@global_code']
       game_sql = "INSERT or IGNORE INTO games
-      (id, full_name)
-      VALUES (#{id}, '#{game_name}')"
+      (id, home, away, week, date)
+      VALUES (#{id}, '#{home}', '#{away}', '#{week}', '#{date}')"
       DB.run(game_sql)
     end
   end

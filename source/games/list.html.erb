@@ -7,9 +7,25 @@
 
 <div>
   <h1>Games</h1>
-  <ul>
+  <table>
+    <thead>
+      <th>Home</th>
+      <th>Away</th>
+      <th>Week</th>
+      <th>Date</th>
+      <th colspan="2">Further Info</th>
+    </thead>
+    <tbody>
     <% games.each do |game| %>
-    <li><%= link_to game[:full_name], "NWSL#{game[:id]}/" %></li>
+      <tr>
+        <td><%= game[:home] %></td>
+        <td><%= game[:away] %></td>
+        <td><%= game[:week] %></td>
+        <td><%= game[:date] %></td>
+        <td><%= link_to "Recap", "NWSL#{game[:id]}/" %></td>
+        <td><%= link_to "Play-By-Play", "NWSL#{game[:id]}/" %></td>
+      </tr>
     <% end %>
-  </ul>
+    </tbody>
+  </table>
 </div>
