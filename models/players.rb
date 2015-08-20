@@ -33,10 +33,11 @@ class Players < Sequel::Model
         full_name = "#{first_name} #{last_name}"
         url_name = full_name.gsub(/[^0-9a-z]/i, '').downcase
         player_sql = "INSERT or IGNORE INTO players
-          (id, first_name, last_name, full_name, country)
+          (id, first_name, last_name, full_name, url_name, country)
         VALUES
           (#{player['player_code']['@global_id']}, '#{first_name}',
-          '#{last_name}', '#{full_name}', '#{player['nationality']['@name']}'
+          '#{last_name}', '#{full_name}', '#{url_name}',
+          '#{player['nationality']['@name']}'
           )"
         DB.run(player_sql)
       end

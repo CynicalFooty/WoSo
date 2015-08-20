@@ -23,24 +23,24 @@ build_hash = Tasks.get_hashes
 build_hash[:teams].each do |team|
   roster = Rosters.hash(team[:id])
   players = roster.map { |r| Players.find(id: r[:player_id]) }
-  proxy "/teams/#{team[:alias].downcase}/index.html", "/teams/single.html",
+  proxy "/teams/#{team[:alias].downcase}/index.html", "/models/teams/single.html",
         :locals => { :team_info => team, :roster => players }, :ignore => true
 end
-proxy '/teams/index.html', '/teams/list.html',
+proxy '/teams/index.html', '/models/teams/list.html',
       :locals => { :teams => build_hash[:teams]}, :ignore => true
 
 build_hash[:players].each do |player|
-  proxy "/players/#{player[:url_name]}/index.html", "/players/single.html",
+  proxy "/players/#{player[:url_name]}/index.html", "/models/players/single.html",
         :locals => { :player => player }, :ignore => true
 end
-proxy '/players/index.html', '/players/list.html',
+proxy '/players/index.html', '/models/players/list.html',
       :locals => { :players => build_hash[:players]}, :ignore => true
 
 build_hash[:games].each do |game|
-  proxy "/games/NWSL#{game[:id]}/index.html", "games/single.html",
+  proxy "/games/NWSL#{game[:id]}/index.html", "/models/games/single.html",
         :locals => { :game => game }, :ignore => true
 end
-proxy '/games/index.html', '/games/list.html',
+proxy '/games/index.html', '/models/games/list.html',
       :locals => { :games => build_hash[:games]}, :ignore => true
 
 activate :deploy do |deploy|
