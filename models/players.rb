@@ -19,6 +19,7 @@ class Players < Sequel::Model
       String      :first_name
       String      :last_name
       String      :full_name
+      String      :url_name
       String      :country
     end
   end
@@ -30,6 +31,7 @@ class Players < Sequel::Model
         first_name = player['name']['@first_name'].gsub("'","''")
         last_name = player['name']['@last_name'].gsub("'","''")
         full_name = "#{first_name} #{last_name}"
+        url_name = full_name.gsub(/[^0-9a-z]/i, '').downcase
         player_sql = "INSERT or IGNORE INTO players
           (id, first_name, last_name, full_name, country)
         VALUES
