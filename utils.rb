@@ -50,6 +50,7 @@ class Utils
   end
 
   def self.open_db
-    return Sequel.connect(DB_PATH)
+    #return Sequel.connect(DB_PATH)
+    return Sequel.sqlite
   end
 end

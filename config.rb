@@ -49,3 +49,11 @@ activate :deploy do |deploy|
   deploy.method = :git
   deploy.branch = 'gh-pages' # default: gh-pages
 end
+
+# For diagnosis
+#require 'ruby-prof'
+#RubyProf.start
+#result = RubyProf.stop
+# Print a flat profile to text
+#printer = RubyProf::FlatPrinter.new(result)
+#printer.print(STDOUT)
