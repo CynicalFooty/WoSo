@@ -2,6 +2,11 @@ require 'nori'
 require 'open-uri'
 require 'sequel'
 require 'settings'
+require 'csv'
+
+CSV::Converters[:blank_to_nil] = lambda do |field|
+  field && field.empty? ? nil : field
+end
 
 class Utils
   def self.xml_file_to_hash(file_location)
@@ -15,6 +20,33 @@ class Utils
     file = File.new(file_location, "wb")
     file.write(doc)
     file.close
+  end
+
+  def self.table_to_csv(model)
+    table = DB[model.to_sym]
+    columns = table.columns.map {|x| x.to_s}
+    CSV.open("#{DATA_FILE_PATH}/#{model}.csv", "w+") do |csv|
+      csv << columns
+      table.each do |row|
+        csv << row.values
+      end
+    end
+  end
+
+  def self.csv_to_table(model)
+    table_csv_path = "#{DATA_FILE_PATH}/#{model}.csv"
+    if File.file?(table_csv_path)
+      file = File.open(table_csv_path)
+      csv = CSV.new(file,:headers => true, :header_converters => [:symbol, :blank_to_nil])
+      table_hash = csv.to_a.map {|row| row.to_hash }
+      table_hash.each do |game|
+        columns = game.keys.map { |s| "#{s}" }.join(', ')
+        values = game.values.map { |s| "'#{s.gsub("'","''")}'" }.join(', ')
+        game_sql = "INSERT or IGNORE INTO #{model}
+        (#{columns}) VALUES (#{values})"
+        DB.run(game_sql)
+      end
+    end
   end
 
   def self.open_db

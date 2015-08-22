@@ -14,10 +14,7 @@ class Teams < Sequel::Model
   end
 
   def self.csv
-    teams = DB[:teams]
-    csv = File.open("#{NWSL[:file_path]+NWSL[:team_info][:file_name]}.csv",'w')
-    csv << teams.columns.map {|c| c.to_s}
-    #then split out each team
+    Utils.table_to_csv("teams")
   end
 
   def self.create_table
@@ -34,6 +31,9 @@ class Teams < Sequel::Model
   end
 
   def self.load_table
+    Utils.csv_to_table("teams")
+
+
     team_hash = self.xml
     team_hash.each do |team|
       team_sql = "INSERT or IGNORE INTO teams

@@ -27,8 +27,8 @@
     <tbody>
     <% roster.each do |player| %>
       <tr>
-        <td><%= player.first_name + ' ' + player.last_name %></td>
-        <td><%= player.country %></td>
+        <td><%= player[:first_name] + ' ' + player[:last_name] %></td>
+        <td><%= player[:country] %></td>
       </tr>
     <% end %>
     <tbody>

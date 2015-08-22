@@ -13,8 +13,12 @@ class Players < Sequel::Model
     return DB[:players]
   end
 
+  def self.csv
+    Utils.table_to_csv("players")
+  end
+
   def self.create_table
-    DB.create_table? :players do
+    DB.create_table! :players do
       primary_key :id
       String      :first_name
       String      :last_name
@@ -25,6 +29,8 @@ class Players < Sequel::Model
   end
 
   def self.load_table
+    Utils.csv_to_table("players")
+
     team_roster_hash = self.xml
     team_roster_hash.each do |team|
       team['ifb_roster_player'].each do |player|

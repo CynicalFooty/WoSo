@@ -8,6 +8,10 @@ class Rosters < Sequel::Model
     end
   end
 
+  def self.csv
+    Utils.table_to_csv("rosters")
+  end
+
   def self.create_table
     DB.create_table? :rosters do
       Integer     :team_id
@@ -17,6 +21,8 @@ class Rosters < Sequel::Model
   end
 
   def self.load_table
+    Utils.csv_to_table("rosters")
+
     roster_hash = self.xml
     roster_hash.each do |team|
       team_id = team['team_info']['@global_id']

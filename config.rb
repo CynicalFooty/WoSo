@@ -18,10 +18,11 @@ DB = Utils.open_db
 #Setup Info
 Tasks.load_schema
 Tasks.load_info
+Tasks.dump_info
 build_hash = Tasks.get_hashes
 
 build_hash[:teams].each do |team|
-  roster = Rosters.hash(team[:id])
+  roster= Rosters.hash(team[:id])
   players = roster.map { |r| Players.find(id: r[:player_id]) }
   proxy "/teams/#{team[:alias].downcase}/index.html", "/models/teams/single.html",
         :locals => { :team_info => team, :roster => players }, :ignore => true

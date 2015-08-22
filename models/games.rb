@@ -1,3 +1,5 @@
+require 'csv'
+
 DB ||= Utils.open_db
 class Games < Sequel::Model
   def self.xml_to_hashes
@@ -18,14 +20,11 @@ class Games < Sequel::Model
   end
 
   def self.csv
-    #teams = DB[:teams]
-    #csv = File.open("#{NWSL[:file_path]+NWSL[:team_info][:file_name]}.csv",'w')
-    #csv << teams.columns.map {|c| c.to_s}
-    #then split out each team
+    Utils.table_to_csv("games")
   end
 
   def self.create_table
-    DB.create_table? :games do
+    DB.create_table! :games do
       primary_key :id
       String      :home
       String      :away
@@ -35,6 +34,8 @@ class Games < Sequel::Model
   end
 
   def self.load_table
+    Utils.csv_to_table("games")
+
     game_hashes = self.xml_to_hashes
     game_hashes.each do |game|
       week = game['week']['@week']
