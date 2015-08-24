@@ -33,10 +33,10 @@ class Tasks
   end
 
   def self.dump_info
-    Games.csv
-    Players.csv
-    Rosters.csv
-    Teams.csv
     #dump backup info to csv
+    Games.dump_table
+    Players.dump_table
+    Rosters.dump_table
+    Teams.dump_table
   end
 end

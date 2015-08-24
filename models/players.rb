@@ -1,19 +1,11 @@
 DB ||= Utils.open_db
 class Players < Sequel::Model
-  def self.xml
-    parser = Nori.new
-
-    roster_info = File.read(NWSL[:file_path]+NWSL[:roster][:file_name])
-    roster_hash = parser.parse(roster_info)
-    team_roster_hash = roster_hash['sports_statistics']['sports_roster']['ifb_soccer_roster']['ifb_team_roster']
-    return team_roster_hash
-  end
 
   def self.hash
     return DB[:players]
   end
 
-  def self.csv
+  def self.dump_table
     Utils.table_to_csv("players")
   end
 
@@ -31,8 +23,13 @@ class Players < Sequel::Model
   def self.load_table
     Utils.csv_to_table("players")
 
-    team_roster_hash = self.xml
-    team_roster_hash.each do |team|
+    parser = Nori.new
+
+    roster_info = File.read(NWSL[:file_path]+NWSL[:roster][:file_name])
+    roster_hash = parser.parse(roster_info)
+    players_roster_hash = roster_hash['sports_statistics']['sports_roster']['ifb_soccer_roster']['ifb_team_roster']
+
+    players_roster_hash.each do |team|
       team['ifb_roster_player'].each do |player|
         first_name = player['name']['@first_name'].gsub("'","''")
         last_name = player['name']['@last_name'].gsub("'","''")

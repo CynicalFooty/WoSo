@@ -2,24 +2,12 @@ require 'csv'
 
 DB ||= Utils.open_db
 class Games < Sequel::Model
-  def self.xml_to_hashes
-    parser = Nori.new
-
-    game_log_directory = NWSL[:file_path]+NWSL[:game_logs][:folder]
-    files = Dir["#{game_log_directory}/*.xml"]
-    game_hashes = []
-    files.each do |file|
-      game_hashes << parser.parse(File.read(file))['sports_statistics']['sports_play_by_play']['soccer_ifb_game']
-    end
-
-    return game_hashes
-  end
 
   def self.hash
     return DB[:games]
   end
 
-  def self.csv
+  def self.dump_table
     Utils.table_to_csv("games")
   end
 
@@ -36,7 +24,15 @@ class Games < Sequel::Model
   def self.load_table
     Utils.csv_to_table("games")
 
-    game_hashes = self.xml_to_hashes
+    parser = Nori.new
+
+    game_log_directory = NWSL[:file_path]+NWSL[:game_logs][:folder]
+    files = Dir["#{game_log_directory}/*.xml"]
+    game_hashes = []
+    files.each do |file|
+      game_hashes << parser.parse(File.read(file))['sports_statistics']['sports_play_by_play']['soccer_ifb_game']
+    end
+
     game_hashes.each do |game|
       week = game['week']['@week']
       date = "#{game['date']['@year']}-#{game['date']['@month']}-#{game['date']['@date']}"

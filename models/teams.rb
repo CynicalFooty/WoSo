@@ -1,19 +1,11 @@
 DB ||= Utils.open_db
 class Teams < Sequel::Model
-  def self.xml
-    parser = Nori.new
-
-    #Team Building (ha)
-    team_info = File.read(NWSL[:file_path]+NWSL[:team_info][:file_name])
-    team_hash = parser.parse(team_info)
-    return team_hash['sports_statistics']['sports_teams']['ifb_soccer_teams']['team_info']
-  end
-
+  
   def self.hash
     return DB[:teams]
   end
 
-  def self.csv
+  def self.dump_table
     Utils.table_to_csv("teams")
   end
 
@@ -33,9 +25,13 @@ class Teams < Sequel::Model
   def self.load_table
     Utils.csv_to_table("teams")
 
+    parser = Nori.new
 
-    team_hash = self.xml
-    team_hash.each do |team|
+    team_info = File.read(NWSL[:file_path]+NWSL[:team_info][:file_name])
+    team_hash = parser.parse(team_info)
+    teams_hash = team_hash['sports_statistics']['sports_teams']['ifb_soccer_teams']['team_info']
+
+    teams_hash.each do |team|
       team_sql = "INSERT or IGNORE INTO teams
       (id, name, location, full_name, city, alias, country, year)
       VALUES (#{team['@global_id']}, '#{team['@name']}', '#{team['@name']}',
