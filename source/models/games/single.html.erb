@@ -1,0 +1,17 @@
+<div class="h5 mxn1">
+  <a href="../../" title="Home" class="btn compact btn-link p1">Home</a>
+  <span class="">
+    <span class="muted"> / </span>
+    <a href="../" title="Games" class="btn compact btn-link p1">Games</a>
+    <span class="muted"> / </span>
+    <a href="#" title="<%= "#{game[:home]} vs #{game[:away]}: Week #{game[:week]}" %>"
+      class="btn compact btn-link p1">
+      <%= "#{game[:home]} vs #{game[:away]}: Week #{game[:week]}" %>
+    </a>
+  </span>
+</div>
+
+<div>
+  <h1><%= game[:home] %> vs <%= game[:away] %></h1>
+  <p>Week <%= game[:week] %> : <%= game[:date] %></p>
+</div>
