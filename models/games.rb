@@ -18,6 +18,12 @@ class Games < Sequel::Model
       String      :away
       String      :week
       String      :date
+      Integer     :first_half_start
+      Integer     :second_half_start
+      Integer     :overtime_one_start
+      Integer     :overtime_two_start
+      Integer     :penalty_kicks
+      String      :video_embed_url
     end
   end
 

@@ -41,7 +41,7 @@ class Utils
       table_hash = csv.to_a.map {|row| row.to_hash }
       table_hash.each do |game|
         columns = game.keys.map { |s| "#{s}" }.join(', ')
-        values = game.values.map { |s| "'#{s.gsub("'","''")}'" }.join(', ')
+        values = game.values.map { |s| s.nil? ? "''" : "'#{s.gsub("'","''")}'" }.join(', ')
         game_sql = "INSERT or IGNORE INTO #{model}
         (#{columns}) VALUES (#{values})"
         DB.run(game_sql)
