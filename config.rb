@@ -36,7 +36,9 @@ proxy '/players/index.html', '/models/players/list.html',
       :locals => { :players => build_hash[:players]}, :ignore => true
 
 build_hash[:games].each do |game|
-  proxy "/games/NWSL#{game[:id]}/index.html", "/models/games/single.html",
+  proxy "/games/NWSL#{game[:id]}/stats", "/models/games/stats.html",
+        :locals => { :game => game }, :ignore => true
+  proxy "/games/NWSL#{game[:id]}/pbp", "/models/games/pbp.html",
         :locals => { :game => game }, :ignore => true
 end
 proxy '/games/index.html', '/models/games/list.html',
