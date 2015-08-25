@@ -13,8 +13,6 @@ set :css_dir, './stylesheets'
 set :js_dir, './javascripts'
 set :images_dir, './images'
 
-DB = Utils.open_db
-
 #Setup Info
 Tasks.load_schema
 Tasks.load_info

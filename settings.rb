@@ -1,5 +1,6 @@
 BASE_FILE_PATH = File.dirname(__FILE__)
 DATA_FILE_PATH = "#{BASE_FILE_PATH}/source/data"
+DB_MEMORY = false
 DB_PATH = 'sqlite://woso.db'
 
 NWSL = {

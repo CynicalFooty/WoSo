@@ -1,6 +1,6 @@
 DB ||= Utils.open_db
 class Rosters < Sequel::Model
-  
+
   def self.hash(team_id=nil)
     if team_id
       return DB[:rosters].filter(:team_id => team_id)
@@ -14,7 +14,7 @@ class Rosters < Sequel::Model
   end
 
   def self.create_table
-    DB.create_table? :rosters do
+    DB.create_table! :rosters do
       Integer     :team_id
       Integer     :player_id
       primary_key ([:team_id, :player_id])

@@ -1,6 +1,6 @@
 DB ||= Utils.open_db
 class Teams < Sequel::Model
-  
+
   def self.hash
     return DB[:teams]
   end
@@ -10,7 +10,7 @@ class Teams < Sequel::Model
   end
 
   def self.create_table
-    DB.create_table? :teams do
+    DB.create_table! :teams do
       primary_key :id
       String      :name
       String      :location

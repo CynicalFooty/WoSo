@@ -50,7 +50,10 @@ class Utils
   end
 
   def self.open_db
-    #return Sequel.connect(DB_PATH)
-    return Sequel.sqlite
+    if DB_MEMORY
+      return Sequel.sqlite
+    else
+      return Sequel.connect(DB_PATH)
+    end
   end
 end
