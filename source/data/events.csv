@@ -1,0 +1,1247 @@
+game_id,seq_number,event_number,event_text,text,half,minutes,seconds,additional_minutes,away_score,home_score,x,y
+1528241,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528241,2,19,Shot,Shot taken by Shea Groom against Julie King,1,3,45,0,0,0,100,23
+1528241,3,5,Corner Kick,Corner kick taken by Mandy Laddish,1,4,3,0,0,0,105,0
+1528241,4,5,Corner Kick,Corner kick taken by Kristie Mewis,1,7,59,0,0,0,0,70
+1528241,5,19,Shot,Shot taken by Julie King against Becca Moros,1,8,0,0,0,0,11,25
+1528241,6,5,Corner Kick,Corner kick taken by Kristie Mewis,1,8,45,0,0,0,0,0
+1528241,7,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,9,1,0,0,0,0,0
+1528241,8,16,Offside,Offsides called on Shea Groom,1,11,1,0,0,0,77,36
+1528241,9,8,Foul,Foul called on Rachel Wood,1,11,29,0,0,0,26,9
+1528241,10,5,Corner Kick,Corner kick taken by Amy Barczuk,1,12,50,0,0,0,0,0
+1528241,11,5,Corner Kick,Corner kick taken by Erika Tymrak,1,14,56,0,0,0,105,0
+1528241,12,19,Shot,Shot taken by Shea Groom,1,14,57,0,0,0,99,44
+1528241,13,46,Goal Kick,Goal kick taken by Jami Kranich,1,15,33,0,0,0,0,0
+1528241,14,8,Foul,Foul called on Morgan Marlborough,1,15,47,0,0,0,33,24
+1528241,15,20,Shot on Goal,Shot on goal by Julie King,1,17,4,0,0,0,12,29
+1528241,16,20,Shot on Goal,Shot on goal by Stephanie McCaffrey,1,17,37,0,0,0,8,41
+1528241,17,20,Shot on Goal,Shot on goal by Kristie Mewis,1,17,49,0,0,0,10,48
+1528241,18,5,Corner Kick,Corner kick taken by Kristie Mewis,1,18,19,0,0,0,0,70
+1528241,19,5,Corner Kick,Corner kick taken by Kristie Mewis,1,18,58,0,0,0,0,70
+1528241,20,20,Shot on Goal,Shot on goal by Kassey Kallman,1,18,59,0,0,0,13,25
+1528241,21,16,Offside,Offsides called on Stephanie McCaffrey,1,20,48,0,0,0,11,29
+1528241,22,20,Shot on Goal,Shot on goal by Stephanie McCaffrey,1,21,20,0,0,0,14,24
+1528241,23,19,Shot,Shot taken by Maddy Evans,1,22,55,0,0,0,10,41
+1528241,24,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,23,20,0,0,0,0,0
+1528241,25,20,Shot on Goal,Shot on goal by Kristie Mewis,1,23,36,0,0,0,8,46
+1528241,26,16,Offside,Offsides called on Shea Groom,1,26,24,0,0,0,57,37
+1528241,27,8,Foul,Foul called on Kristie Mewis,1,26,54,0,0,0,32,58
+1528241,28,19,Shot,Shot taken by Stephanie McCaffrey against Leigh Ann Robinson,1,29,5,0,0,0,17,45
+1528241,29,19,Shot,Shot taken by Erika Tymrak,1,31,7,0,0,0,92,46
+1528241,30,20,Shot on Goal,Shot on goal by Kassey Kallman,1,32,36,0,0,0,9,24
+1528241,31,5,Corner Kick,Corner kick taken by Kristie Mewis,1,33,37,0,0,0,0,70
+1528241,32,19,Shot,Shot taken by Julie King against Leigh Ann Robinson,1,33,38,0,0,0,12,23
+1528241,33,8,Foul,Foul called on Julie King,1,34,12,0,0,0,10,32
+1528241,34,16,Offside,Offsides called on Stephanie McCaffrey,1,34,32,0,0,0,7,56
+1528241,35,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,36,23,0,0,0,0,0
+1528241,36,5,Corner Kick,Corner kick taken by Erika Tymrak,1,37,21,0,0,0,105,0
+1528241,37,19,Shot,Shot taken by Kristie Mewis,1,37,48,0,0,0,30,41
+1528241,38,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,38,1,0,0,0,0,0
+1528241,39,8,Foul,Foul called on Julie King,1,39,20,0,0,0,63,52
+1528241,40,8,Foul,Foul called on Rachel Wood,1,39,52,0,0,0,67,5
+1528241,41,46,Goal Kick,Goal kick taken by Jami Kranich,1,41,30,0,0,0,0,0
+1528241,42,16,Offside,Offsides called on Sarah Hagen,1,42,13,0,0,0,92,28
+1528241,43,46,Goal Kick,Goal kick taken by Jami Kranich,1,45,1,0,0,0,0,0
+1528241,44,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,45,48,0,0,0,0,0
+1528241,45,19,Shot,Shot taken by Kristie Mewis against Amy LePeilbet,1,45,4,2,0,0,12,46
+1528241,46,5,Corner Kick,Corner kick taken by Kristie Mewis,1,45,15,2,0,0,0,70
+1528241,47,13,Half Over,1st Half ended,1,45,38,2,0,0,0,0
+1528241,48,21,Start Half,2nd Half started,2,46,0,0,0,0,0,0
+1528241,49,20,Shot on Goal,Shot on goal by Stephanie McCaffrey,2,51,5,0,0,0,87,31
+1528241,50,20,Shot on Goal,Shot on goal by Kristie Mewis,2,51,23,0,0,0,87,41
+1528241,51,11,Goal,Kristie Mewis scored a goal assisted by Katie Schoepfer,2,51,24,0,0,1,87,41
+1528241,52,16,Offside,Offsides called on Stephanie McCaffrey,2,53,31,0,0,1,83,41
+1528241,53,20,Shot on Goal,Shot on goal by Erika Tymrak,2,56,2,0,0,1,11,25
+1528241,54,5,Corner Kick,Corner kick taken by Yael Averbuch,2,56,22,0,0,1,0,0
+1528241,55,20,Shot on Goal,Shot on goal by Erika Tymrak,2,57,33,0,0,1,14,42
+1528241,56,8,Foul,Foul called on Kristie Mewis,2,58,2,0,0,1,66,18
+1528241,57,20,Shot on Goal,Shot on goal by Liz Bogus,2,59,28,0,0,1,8,44
+1528241,58,16,Offside,Offsides called on Shea Groom,2,59,57,0,0,1,25,22
+1528241,59,16,Offside,Offsides called on Kristie Mewis,2,63,30,0,0,1,63,48
+1528241,60,22,Substitution,Caroline Kastor substituted in for Mandy Laddish,2,67,13,0,0,1,0,0
+1528241,61,19,Shot,Shot taken by Shea Groom,2,68,15,0,0,1,11,30
+1528241,62,16,Offside,Offsides called on Stephanie McCaffrey,2,69,7,0,0,1,83,21
+1528241,63,5,Corner Kick,Corner kick taken by Kristie Mewis,2,71,19,0,0,1,105,70
+1528241,64,16,Offside,Offsides called on Kristie Mewis,2,71,42,0,0,1,101,61
+1528241,65,22,Substitution,Nkem Ezurike substituted in for Morgan Marlborough,2,72,1,0,0,1,0,0
+1528241,66,46,Goal Kick,Goal kick taken by Jami Kranich,2,72,57,0,0,1,0,0
+1528241,67,20,Shot on Goal,Shot on goal by Stephanie McCaffrey,2,74,52,0,0,1,94,48
+1528241,68,5,Corner Kick,Corner kick taken by Kristie Mewis,2,75,24,0,0,1,105,70
+1528241,69,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,75,42,0,0,1,0,0
+1528241,70,8,Foul,Foul called on Nkem Ezurike,2,76,8,0,0,1,69,33
+1528241,71,22,Substitution,Chanel Johnson substituted in for Stephanie McCaffrey,2,76,26,0,0,1,0,0
+1528241,72,8,Foul,Foul called on Becca Moros,2,76,57,0,0,1,66,62
+1528241,73,20,Shot on Goal,Shot on goal by Kristie Mewis,2,77,36,0,0,1,79,26
+1528241,74,16,Offside,Offsides called on Shea Groom,2,78,0,0,0,1,32,42
+1528241,75,8,Foul,Foul called on Nkem Ezurike,2,78,33,0,0,1,83,22
+1528241,76,16,Offside,Offsides called on Chanel Johnson,2,79,47,0,0,1,85,2
+1528241,77,22,Substitution,Stephanie Verdoia substituted in for Maddy Evans,2,80,40,0,0,1,0,0
+1528241,78,46,Goal Kick,Goal kick taken by Jami Kranich,2,81,14,0,0,1,0,0
+1528241,79,8,Foul,Foul called on Rachel Wood,2,82,29,0,0,1,43,53
+1528241,80,46,Goal Kick,Goal kick taken by Jami Kranich,2,83,10,0,0,1,0,0
+1528241,81,8,Foul,Foul called on Kassey Kallman,2,84,50,0,0,1,29,15
+1528241,82,9,Free Kick,Free kick taken by Yael Averbuch,2,85,24,0,0,1,28,17
+1528241,83,19,Shot,Shot taken by Yael Averbuch,2,85,25,0,0,1,28,17
+1528241,84,46,Goal Kick,Goal kick taken by Jami Kranich,2,85,42,0,0,1,0,0
+1528241,85,16,Offside,Offsides called on Nkem Ezurike,2,86,13,0,0,1,85,5
+1528241,86,22,Substitution,Meghan Lisenby substituted in for Becca Moros,2,87,48,0,0,1,0,0
+1528241,87,19,Shot,Shot taken by Nkem Ezurike,2,88,24,0,0,1,82,41
+1528241,88,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,88,37,0,0,1,0,0
+1528241,89,19,Shot,Shot taken by Nkem Ezurike,2,89,7,0,0,1,96,46
+1528241,90,8,Foul,Foul called on Kassey Kallman,2,89,50,0,0,1,93,3
+1528241,91,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,90,28,1,0,1,0,0
+1528241,92,8,Foul,Foul called on Shea Groom,2,90,45,1,0,1,17,3
+1528241,93,8,Foul,Foul called on Nkem Ezurike,2,90,46,2,0,1,94,4
+1528241,94,8,Foul,Foul called on Kassey Kallman,2,90,54,3,0,1,19,6
+1528241,95,19,Shot,Shot taken by Meghan Lisenby,2,90,29,4,0,1,11,40
+1528241,96,13,Half Over,2nd Half ended,2,90,42,4,0,1,0,0
+1528241,97,10,Game Over,Game Over,2,90,42,4,0,1,0,0
+1528190,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528190,2,5,Corner Kick,Corner kick taken by Becky Edwards,1,1,34,0,0,0,105,0
+1528190,3,20,Shot on Goal,Shot on goal by Becky Edwards,1,1,35,0,0,0,0,0
+1528190,4,8,Foul,Foul called on Danielle Colaprico,1,5,19,0,0,0,0,0
+1528190,5,5,Corner Kick,Corner kick taken by Becky Edwards,1,7,28,0,0,0,105,70
+1528190,6,19,Shot,Shot taken by Jamia Fields,1,9,5,0,0,0,0,0
+1528190,7,19,Shot,Shot taken by Sofia Huerta,1,13,34,0,0,0,0,0
+1528190,8,5,Corner Kick,Corner kick taken by Vanessa DiBernardo,1,14,18,0,0,0,0,0
+1528190,9,8,Foul,Foul called on Becky Edwards,1,16,26,0,0,0,0,0
+1528190,10,8,Foul,Foul called on Kristen Hamilton,1,17,35,0,0,0,0,0
+1528190,11,8,Foul,Foul called on Danielle Colaprico,1,18,23,0,0,0,0,0
+1528190,12,16,Offside,Offsides called on Lynn Williams,1,19,48,0,0,0,0,0
+1528190,13,8,Foul,Foul called on Jasmyne Spencer,1,20,47,0,0,0,0,0
+1528190,14,5,Corner Kick,Corner kick taken by Becky Edwards,1,23,23,0,0,0,105,70
+1528190,15,20,Shot on Goal,Shot on goal by Lynn Williams,1,25,33,0,0,0,0,0
+1528190,16,8,Foul,Foul called on Taryn Hemmings,1,30,37,0,0,0,0,0
+1528190,17,8,Foul,Foul called on Kristen Hamilton,1,31,28,0,0,0,0,0
+1528190,18,6,Cross,Cross by Arin Gilliland,1,33,2,0,0,0,0,0
+1528190,19,19,Shot,Shot taken by Alyssa Mautz,1,33,3,0,0,0,0,0
+1528190,20,16,Offside,Offsides called on Sofia Huerta,1,36,50,0,0,0,0,0
+1528190,21,5,Corner Kick,Corner kick taken by Danielle Colaprico,1,37,37,0,0,0,0,70
+1528190,22,20,Shot on Goal,Shot on goal by Vanessa DiBernardo,1,41,41,0,0,0,0,0
+1528190,23,8,Foul,Foul called on Arin Gilliland,1,45,25,0,0,0,0,0
+1528190,24,20,Shot on Goal,Shot on goal by Vanessa DiBernardo,1,45,18,1,0,0,0,0
+1528190,25,8,Foul,Foul called on Arin Gilliland,1,45,47,2,0,0,0,0
+1528190,26,6,Cross,Cross by Becky Edwards,1,45,19,3,0,0,0,0
+1528190,27,20,Shot on Goal,Shot on goal by Brittany Taylor,1,45,20,3,0,0,0,0
+1528190,28,13,Half Over,1st Half ended,1,45,10,4,0,0,0,0
+1528190,29,21,Start Half,2nd Half started,2,46,0,0,0,0,0,0
+1528190,30,22,Substitution,Elizabeth Eddy substituted in for Kristen Hamilton,2,46,9,0,0,0,0,0
+1528190,31,16,Offside,Offsides called on Lynn Williams,2,47,29,0,0,0,0,0
+1528190,32,5,Corner Kick,Corner kick taken by Vanessa DiBernardo,2,48,44,0,0,0,105,70
+1528190,33,19,Shot,Shot taken by Alyssa Mautz,2,50,21,0,0,0,0,0
+1528190,34,20,Shot on Goal,Shot on goal by Samantha Mewis,2,51,58,0,0,0,0,0
+1528190,35,11,Goal,Samantha Mewis scored a goal assisted by Elizabeth Eddy,2,51,58,0,0,1,0,0
+1528190,36,8,Foul,Foul called on Samantha Johnson,2,54,25,0,0,1,0,0
+1528190,37,8,Foul,Foul called on Michelle Lomnicki,2,56,54,0,0,1,0,0
+1528190,38,2,Caution,Yellow card given to Michelle Lomnicki (Reckless Foul),2,57,13,0,0,1,0,0
+1528190,39,8,Foul,Foul called on Vanessa DiBernardo,2,58,8,0,0,1,0,0
+1528190,40,9,Free Kick,Free kick taken by Becky Edwards,2,58,50,0,0,1,0,0
+1528190,41,6,Cross,Cross by Becky Edwards,2,58,51,0,0,1,0,0
+1528190,42,20,Shot on Goal,Shot on goal by Lynn Williams,2,60,35,0,0,1,0,0
+1528190,43,8,Foul,Foul called on Elizabeth Eddy,2,61,40,0,0,1,0,0
+1528190,44,20,Shot on Goal,Shot on goal by Taryn Hemmings,2,62,4,0,0,1,0,0
+1528190,45,5,Corner Kick,Corner kick taken by Vanessa DiBernardo,2,62,56,0,0,1,105,70
+1528190,46,22,Substitution,Ashley Nick substituted in for Jasmyne Spencer,2,65,20,0,0,1,0,0
+1528190,47,8,Foul,Foul called on Jamia Fields,2,68,29,0,0,1,0,0
+1528190,48,22,Substitution,Mary Luba substituted in for Alyssa Mautz,2,69,39,0,0,1,0,0
+1528190,49,20,Shot on Goal,Shot on goal by Elizabeth Eddy,2,72,40,0,0,1,0,0
+1528190,50,11,Goal,Elizabeth Eddy scored a goal assisted by Lynn Williams,2,72,41,0,0,2,0,0
+1528190,51,8,Foul,Foul called on Arin Gilliland,2,74,40,0,0,2,0,0
+1528190,52,20,Shot on Goal,Shot on goal by Jamia Fields,2,75,22,0,0,2,0,0
+1528190,53,11,Goal,Jamia Fields scored a goal assisted by Becky Edwards,2,75,23,0,0,3,0,0
+1528190,54,22,Substitution,Rachel Tejada substituted in for Rachel Quon,2,79,36,0,0,3,0,0
+1528190,55,5,Corner Kick,Corner kick taken by Vanessa DiBernardo,2,80,34,0,0,3,105,70
+1528190,56,8,Foul,Foul called on Lynn Williams,2,82,2,0,0,3,0,0
+1528190,57,8,Foul,Foul called on Ashley Nick,2,82,53,0,0,3,0,0
+1528190,58,22,Substitution,Leigh Jakes substituted in for Michelle Lomnicki,2,83,57,0,0,3,0,0
+1528190,59,8,Foul,Foul called on Samantha Mewis,2,84,46,0,0,3,0,0
+1528190,60,2,Caution,Yellow card given to Samantha Mewis (Reckless Foul),2,85,3,0,0,3,0,0
+1528190,61,5,Corner Kick,Corner kick taken by Vanessa DiBernardo,2,85,43,0,0,3,105,70
+1528190,62,8,Foul,Foul called on Vanessa DiBernardo,2,86,52,0,0,3,0,0
+1528190,63,9,Free Kick,Free kick taken by Becky Edwards,2,87,23,0,0,3,0,0
+1528190,64,22,Substitution,Amanda Frisbie substituted in for Kristen Edmonds,2,88,23,0,0,3,0,0
+1528190,65,8,Foul,Foul called on Amanda Frisbie,2,89,51,0,0,3,0,0
+1528190,66,8,Foul,Foul called on Abby Dahlkemper,2,90,42,0,0,3,0,0
+1528190,67,9,Free Kick,Free kick taken by Vanessa DiBernardo,2,90,57,0,0,3,94,35
+1528190,68,20,Shot on Goal,Shot on goal by Vanessa DiBernardo,2,90,57,0,0,3,94,35
+1528190,69,18,Penalty Kick - No Good,Penalty kick taken by Vanessa DiBernardo - NO GOOD,2,90,57,0,0,3,94,35
+1528190,70,5,Corner Kick,Corner kick taken by Vanessa DiBernardo,2,90,22,2,0,3,105,70
+1528190,71,20,Shot on Goal,Shot on goal by Vanessa DiBernardo,2,90,23,2,0,3,0,0
+1528190,72,20,Shot on Goal,Shot on goal by Sofia Huerta,2,90,1,3,0,3,0,0
+1528190,73,11,Goal,Sofia Huerta scored a goal assisted by Vanessa DiBernardo,2,90,2,3,1,3,0,0
+1528190,74,8,Foul,Foul called on Samantha Mewis,2,90,34,3,1,3,0,0
+1528190,75,9,Free Kick,Free kick taken by Vanessa DiBernardo,2,90,53,3,1,3,0,0
+1528190,76,6,Cross,Cross by Vanessa DiBernardo,2,90,54,3,1,3,0,0
+1528190,77,20,Shot on Goal,Shot on goal by Cara Walls,2,90,18,4,1,3,0,0
+1528190,78,13,Half Over,2nd Half ended,2,90,55,4,1,3,0,0
+1528190,79,10,Game Over,Game Over,2,90,55,4,1,3,0,0
+1528192,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528192,2,20,Shot on Goal,Shot on goal by Beverly Yanez,1,2,42,0,0,0,17,50
+1528192,3,46,Goal Kick,Goal kick taken by Haley Kopmeyer,1,4,58,0,0,0,0,0
+1528192,4,19,Shot,Shot taken by Jessica Fishlock,1,6,21,0,0,0,20,19
+1528192,5,46,Goal Kick,Goal kick taken by Brittany Cameron,1,6,47,0,0,0,0,0
+1528192,6,6,Cross,Cross by Merritt Mathias,1,7,22,0,0,0,16,21
+1528192,7,6,Cross,Cross by Jessica Fishlock,1,7,41,0,0,0,10,26
+1528192,8,20,Shot on Goal,Shot on goal by Keelin Winters,1,8,38,0,0,0,14,45
+1528192,9,11,Goal,Keelin Winters scored a goal assisted by Jessica Fishlock,1,8,39,0,0,1,14,45
+1528192,10,8,Foul,Foul called on Lindsi Cutshall,1,11,17,0,0,1,19,36
+1528192,11,9,Free Kick,Free kick taken by Kim Little,1,12,13,0,0,1,19,34
+1528192,12,19,Shot,Shot taken by Kim Little,1,12,14,0,0,1,19,34
+1528192,13,16,Offside,Offsides called on Merritt Mathias,1,12,44,0,0,1,28,62
+1528192,14,46,Goal Kick,Goal kick taken by Brittany Cameron,1,13,12,0,0,1,0,0
+1528192,15,8,Foul,Foul called on Kim DeCesare,1,13,48,0,0,1,57,8
+1528192,16,19,Shot,Shot taken by Meg Morris,1,15,55,0,0,1,81,28
+1528192,17,5,Corner Kick,Corner kick taken by Meg Morris,1,16,7,0,0,1,105,70
+1528192,18,46,Goal Kick,Goal kick taken by Haley Kopmeyer,1,16,30,0,0,1,0,0
+1528192,19,16,Offside,Offsides called on Merritt Mathias,1,17,13,0,0,1,27,2
+1528192,20,8,Foul,Foul called on Hayley Haagsma,1,18,12,0,0,1,42,45
+1528192,21,6,Cross,Cross by Kendall Fletcher,1,19,12,0,0,1,9,9
+1528192,22,20,Shot on Goal,Shot on goal by Beverly Yanez,1,19,30,0,0,1,7,44
+1528192,23,8,Foul,Foul called on Hayley Haagsma,1,19,53,0,0,1,31,20
+1528192,24,16,Offside,Offsides called on Keelin Winters,1,20,17,0,0,1,14,12
+1528192,25,6,Cross,Cross by Stephanie Cox,1,21,26,0,0,1,32,58
+1528192,26,5,Corner Kick,Corner kick taken by Shawna Gordon,1,24,50,0,0,1,105,70
+1528192,27,19,Shot,Shot taken by Meg Morris,1,25,59,0,0,1,100,21
+1528192,28,46,Goal Kick,Goal kick taken by Haley Kopmeyer,1,26,25,0,0,1,0,0
+1528192,29,20,Shot on Goal,Shot on goal by Beverly Yanez,1,26,45,0,0,1,8,26
+1528192,30,5,Corner Kick,Corner kick taken by Stephanie Cox,1,28,14,0,0,1,0,0
+1528192,31,20,Shot on Goal,Shot on goal by Jessica Fishlock,1,28,15,0,0,1,12,25
+1528192,32,11,Goal,Jessica Fishlock scored a goal assisted by Stephanie Cox,1,28,16,0,0,2,12,25
+1528192,33,46,Goal Kick,Goal kick taken by Brittany Cameron,1,30,32,0,0,2,0,0
+1528192,34,20,Shot on Goal,Shot on goal by Shawna Gordon,1,31,0,0,0,2,74,43
+1528192,35,16,Offside,Offsides called on Merritt Mathias,1,31,58,0,0,2,26,3
+1528192,36,19,Shot,Shot taken by Jessica Fishlock,1,33,3,0,0,2,23,25
+1528192,37,8,Foul,Foul called on Kim DeCesare,1,33,28,0,0,2,59,52
+1528192,38,46,Goal Kick,Goal kick taken by Haley Kopmeyer,1,36,4,0,0,2,0,0
+1528192,39,20,Shot on Goal,Shot on goal by Beverly Yanez,1,36,47,0,0,2,3,35
+1528192,40,20,Shot on Goal,Shot on goal by Jessica Fishlock,1,37,32,0,0,2,12,26
+1528192,41,19,Shot,Shot taken by Hayley Haagsma,1,38,47,0,0,2,79,34
+1528192,42,8,Foul,Foul called on Lauren Barnes,1,41,38,0,0,2,65,25
+1528192,43,8,Foul,Foul called on Hayley Haagsma,1,45,26,1,0,2,42,34
+1528192,44,8,Foul,Foul called on Beverly Yanez,1,45,4,2,0,2,31,14
+1528192,45,13,Half Over,1st Half ended,1,45,5,3,0,2,0,0
+1528192,46,21,Start Half,2nd Half started,2,46,0,0,0,2,0,0
+1528192,47,8,Foul,Foul called on Stephanie Cox,2,47,19,0,0,2,57,32
+1528192,48,6,Cross,Cross by Stephanie Cox,2,51,25,0,0,2,85,7
+1528192,49,19,Shot,Shot taken by Kendall Fletcher,2,51,26,0,0,2,92,48
+1528192,50,6,Cross,Cross by Kendall Fletcher,2,52,23,0,0,2,99,59
+1528192,51,8,Foul,Foul called on Katy Freels,2,52,46,0,0,2,47,48
+1528192,52,16,Offside,Offsides called on Meg Morris,2,54,24,0,0,2,26,10
+1528192,53,22,Substitution,Sarah Killion substituted in for Shawna Gordon,2,55,4,0,0,2,0,0
+1528192,54,46,Goal Kick,Goal kick taken by Brittany Cameron,2,59,48,0,0,2,0,0
+1528192,55,19,Shot,Shot taken by Kim Little,2,61,45,0,0,2,88,42
+1528192,56,22,Substitution,Danielle Foxhoven substituted in for Merritt Mathias,2,65,31,0,0,2,0,0
+1528192,57,6,Cross,Cross by Stephanie Cox,2,67,36,0,0,2,91,9
+1528192,58,22,Substitution,Lo'eau LaBonta substituted in for Meg Morris,2,67,55,0,0,2,0,0
+1528192,59,8,Foul,Foul called on Danielle Foxhoven,2,69,13,0,0,2,66,25
+1528192,60,20,Shot on Goal,Shot on goal by Danielle Foxhoven,2,70,57,0,0,2,95,43
+1528192,61,16,Offside,Offsides called on Danielle Foxhoven,2,71,23,0,0,2,68,52
+1528192,62,19,Shot,Shot taken by Jessica Fishlock,2,72,49,0,0,2,85,25
+1528192,63,5,Corner Kick,Corner kick taken by Kim Little,2,74,41,0,0,2,105,0
+1528192,64,19,Shot,Shot taken by Mariah Nogueira,2,74,42,0,0,2,92,43
+1528192,65,5,Corner Kick,Corner kick taken by Stephanie Cox,2,75,45,0,0,2,105,70
+1528192,66,8,Foul,Foul called on Mariah Nogueira,2,76,17,0,0,2,87,46
+1528192,67,8,Foul,Foul called on Cami Levin,2,76,59,0,0,2,93,36
+1528192,68,9,Free Kick,Free kick taken by Kim Little,2,77,20,0,0,2,94,35
+1528192,69,20,Shot on Goal,Shot on goal by Kim Little,2,77,20,0,0,2,94,35
+1528192,70,17,Penalty Kick - Good,Penalty kick taken by Kim Little - GOOD,2,77,20,0,0,3,94,35
+1528192,71,20,Shot on Goal,Shot on goal by Mariah Nogueira,2,78,57,0,0,3,94,28
+1528192,72,22,Substitution,Elli Reed substituted in for Beverly Yanez,2,80,53,0,0,3,0,0
+1528192,73,22,Substitution,Nikki Stanton substituted in for Katy Freels,2,81,19,0,0,3,0,0
+1528192,74,8,Foul,Foul called on Stephanie Cox,2,82,32,0,0,3,43,10
+1528192,75,22,Substitution,Amber Brooks substituted in for Keelin Winters,2,84,45,0,0,3,0,0
+1528192,76,16,Offside,Offsides called on Kim Little,2,88,8,0,0,3,97,50
+1528192,77,6,Cross,Cross by Kim Little,2,88,52,0,0,3,94,45
+1528192,78,20,Shot on Goal,Shot on goal by Jessica Fishlock,2,88,53,0,0,3,98,29
+1528192,79,6,Cross,Cross by Jessica Fishlock,2,90,50,0,0,3,93,35
+1528192,80,8,Foul,Foul called on Sarah Killion,2,90,26,1,0,3,38,34
+1528192,81,5,Corner Kick,Corner kick taken by Kim Little,2,90,0,3,0,3,105,0
+1528192,82,20,Shot on Goal,Shot on goal by Kim Little,2,90,48,3,0,3,88,21
+1528192,83,13,Half Over,2nd Half ended,2,90,7,4,0,3,0,0
+1528192,84,10,Game Over,Game Over,2,90,7,4,0,3,0,0
+1528189,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528189,2,46,Goal Kick,Goal kick taken by Jami Kranich,1,2,1,0,0,0,0,0
+1528189,3,46,Goal Kick,Goal kick taken by Jami Kranich,1,2,52,0,0,0,0,0
+1528189,4,19,Shot,Shot taken by Kristie Mewis,1,4,35,0,0,0,27,36
+1528189,5,46,Goal Kick,Goal kick taken by Kelsey Wys,1,4,42,0,0,0,0,0
+1528189,6,8,Foul,Foul called on Katie Schoepfer,1,6,11,0,0,0,64,11
+1528189,7,19,Shot,Shot taken by Whitney Church,1,6,44,0,0,0,94,32
+1528189,8,46,Goal Kick,Goal kick taken by Jami Kranich,1,6,51,0,0,0,0,0
+1528189,9,19,Shot,Shot taken by Christine Nairn,1,7,23,0,0,0,71,21
+1528189,10,46,Goal Kick,Goal kick taken by Jami Kranich,1,8,57,0,0,0,0,0
+1528189,11,16,Offside,Offsides called on Crystal Dunn,1,9,57,0,0,0,77,14
+1528189,12,5,Corner Kick,Corner kick taken by Kristie Mewis,1,11,30,0,0,0,0,0
+1528189,13,16,Offside,Offsides called on Kristie Mewis,1,12,6,0,0,0,11,7
+1528189,14,8,Foul,Foul called on Kristie Mewis,1,13,36,0,0,0,25,59
+1528189,15,20,Shot on Goal,Shot on goal by Crystal Dunn,1,19,45,0,0,0,97,44
+1528189,16,19,Shot,Shot taken by Katie Schoepfer,1,20,6,0,0,0,26,33
+1528189,17,5,Corner Kick,Corner kick taken by Kristie Mewis,1,20,14,0,0,0,0,0
+1528189,18,20,Shot on Goal,Shot on goal by Crystal Dunn,1,21,2,0,0,0,95,38
+1528189,19,20,Shot on Goal,Shot on goal by Joanna Lohman,1,21,13,0,0,0,0,0
+1528189,20,19,Shot,Shot taken by Amanda Da Costa,1,22,40,0,0,0,91,38
+1528189,21,46,Goal Kick,Goal kick taken by Jami Kranich,1,22,50,0,0,0,0,0
+1528189,22,8,Foul,Foul called on Joanna Lohman,1,23,15,0,0,0,57,28
+1528189,23,20,Shot on Goal,Shot on goal by Christine Nairn,1,28,26,0,0,0,80,37
+1528189,24,22,Substitution,Lauren Lazo substituted in for Rachel Wood,1,28,59,0,0,0,0,0
+1528189,25,19,Shot,Shot taken by Christine Nairn,1,30,4,0,0,0,76,21
+1528189,26,46,Goal Kick,Goal kick taken by Jami Kranich,1,30,10,0,0,0,0,0
+1528189,27,8,Foul,Foul called on Whitney Church,1,33,24,0,0,0,44,64
+1528189,28,46,Goal Kick,Goal kick taken by Jami Kranich,1,34,43,0,0,0,0,0
+1528189,29,8,Foul,Foul called on Morgan Marlborough,1,35,32,0,0,0,30,46
+1528189,30,20,Shot on Goal,Shot on goal by Laura del Rio,1,36,32,0,0,0,92,20
+1528189,31,46,Goal Kick,Goal kick taken by Kelsey Wys,1,38,0,0,0,0,0,0
+1528189,32,19,Shot,Shot taken by Kristie Mewis,1,40,2,0,0,0,20,35
+1528189,33,16,Offside,Offsides called on Crystal Dunn,1,41,26,0,0,0,73,20
+1528189,34,46,Goal Kick,Goal kick taken by Kelsey Wys,1,44,3,0,0,0,0,0
+1528189,35,46,Goal Kick,Goal kick taken by Kelsey Wys,1,44,51,0,0,0,0,0
+1528189,36,5,Corner Kick,Corner kick taken by Christine Nairn,1,45,24,0,0,0,105,70
+1528189,37,46,Goal Kick,Goal kick taken by Jami Kranich,1,45,12,1,0,0,0,0
+1528189,38,8,Foul,Foul called on Maddy Evans,1,45,29,1,0,0,52,24
+1528189,39,8,Foul,Foul called on Amanda Da Costa,1,45,2,2,0,0,0,0
+1528189,40,13,Half Over,1st Half ended,1,45,34,2,0,0,0,0
+1528189,41,21,Start Half,2nd Half started,2,46,0,0,0,0,0,0
+1528189,42,19,Shot,Shot taken by Crystal Dunn,2,48,39,0,0,0,4,45
+1528189,43,19,Shot,Shot taken by Crystal Dunn,2,50,3,0,0,0,14,29
+1528189,44,46,Goal Kick,Goal kick taken by Kelsey Wys,2,51,35,0,0,0,0,0
+1528189,45,8,Foul,Foul called on Kristie Mewis,2,55,8,0,0,0,68,11
+1528189,46,19,Shot,Shot taken by Christine Nairn,2,57,13,0,0,0,31,33
+1528189,47,8,Foul,Foul called on Katie Schoepfer,2,57,35,0,0,0,48,48
+1528189,48,8,Foul,Foul called on Christine Nairn,2,58,33,0,0,0,69,25
+1528189,49,2,Caution,Yellow card given to Christine Nairn (Reckless Foul),2,58,43,0,0,0,0,0
+1528189,50,20,Shot on Goal,Shot on goal by Amanda Da Costa,2,64,32,0,0,0,0,0
+1528189,51,11,Goal,Amanda Da Costa scored a goal,2,64,33,0,0,1,0,0
+1528189,52,22,Substitution,Nkem Ezurike substituted in for Morgan Marlborough,2,64,52,0,0,1,0,0
+1528189,53,20,Shot on Goal,Shot on goal by Maddy Evans,2,66,13,0,0,1,0,0
+1528189,54,11,Goal,Maddy Evans scored a goal,2,66,14,0,1,1,0,0
+1528189,55,5,Corner Kick,Corner kick taken by Kristie Mewis,2,70,9,0,1,1,105,70
+1528189,56,19,Shot,Shot taken by Nkem Ezurike,2,71,16,0,1,1,91,26
+1528189,57,5,Corner Kick,Corner kick taken by Christine Nairn,2,73,22,0,1,1,0,0
+1528189,58,16,Offside,Offsides called on Angela Salem,2,74,3,0,1,1,12,44
+1528189,59,22,Substitution,Caprice Dydasco substituted in for Joanna Lohman,2,74,11,0,1,1,0,0
+1528189,60,20,Shot on Goal,Shot on goal by Kristie Mewis,2,74,50,0,1,1,94,27
+1528189,61,16,Offside,Offsides called on Caprice Dydasco,2,77,42,0,1,1,29,34
+1528189,62,8,Foul,Foul called on Katie Schoepfer,2,78,26,0,1,1,70,24
+1528189,63,22,Substitution,Suzane Pires substituted in for Stephanie McCaffrey,2,81,17,0,1,1,0,0
+1528189,64,22,Substitution,Tiffany Weimer substituted in for Amanda Da Costa,2,81,43,0,1,1,0,0
+1528189,65,8,Foul,Foul called on Katherine Reynolds,2,82,4,0,1,1,76,56
+1528189,66,20,Shot on Goal,Shot on goal by Crystal Dunn,2,83,43,0,1,1,11,39
+1528189,67,20,Shot on Goal,Shot on goal by Christine Nairn,2,86,24,0,1,1,37,43
+1528189,68,46,Goal Kick,Goal kick taken by Kelsey Wys,2,87,49,0,1,1,0,0
+1528189,69,8,Foul,Foul called on Nkem Ezurike,2,88,45,0,1,1,46,6
+1528189,70,20,Shot on Goal,Shot on goal by Crystal Dunn,2,89,23,0,1,1,18,44
+1528189,71,8,Foul,Foul called on Laura del Rio,2,89,56,0,1,1,72,22
+1528189,72,19,Shot,Shot taken by Kristie Mewis against Kelsey Wys,2,90,39,0,1,1,0,0
+1528189,73,46,Goal Kick,Goal kick taken by Kelsey Wys,2,90,51,0,1,1,0,0
+1528189,74,8,Foul,Foul called on Katie Schoepfer,2,90,19,1,1,1,0,0
+1528189,75,2,Caution,Yellow card given to Kassey Kallman (Dissent),2,90,37,1,1,1,0,0
+1528189,76,19,Shot,Shot taken by Mollie Pathman,2,90,25,4,1,1,83,24
+1528189,77,46,Goal Kick,Goal kick taken by Kelsey Wys,2,90,32,4,1,1,0,0
+1528189,78,13,Half Over,2nd Half ended,2,90,39,4,1,1,0,0
+1528189,79,10,Game Over,Game Over,2,90,39,4,1,1,0,0
+1528191,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528191,2,8,Foul,Foul called on Camila,1,2,30,0,0,0,0,0
+1528191,3,16,Offside,Offsides called on Ayo Anonma,1,3,33,0,0,0,76,54
+1528191,4,20,Shot on Goal,Shot on goal by Ayo Anonma,1,4,21,0,0,0,85,25
+1528191,5,8,Foul,Foul called on Sinead Farrelly,1,7,5,0,0,0,0,0
+1528191,6,5,Corner Kick,Corner kick taken by Melissa Henderson,1,8,38,0,0,0,0,70
+1528191,7,19,Shot,Shot taken by Ellie Brush,1,8,39,0,0,0,9,34
+1528191,8,16,Offside,Offsides called on Melissa Henderson,1,10,41,0,0,0,12,49
+1528191,9,8,Foul,Foul called on Camila,1,12,27,0,0,0,0,0
+1528191,10,5,Corner Kick,Corner kick taken by Allie Long,1,14,16,0,0,0,105,70
+1528191,11,19,Shot,Shot taken by Ayo Anonma,1,14,17,0,0,0,89,36
+1528191,12,19,Shot,Shot taken by Allie Long,1,15,56,0,0,0,88,21
+1528191,13,19,Shot,Shot taken by Ayo Anonma,1,19,8,0,0,0,90,19
+1528191,14,8,Foul,Foul called on Meleana Shim,1,20,14,0,0,0,0,0
+1528191,15,20,Shot on Goal,Shot on goal by Sinead Farrelly,1,23,46,0,0,0,95,27
+1528191,16,8,Foul,Foul called on Ayo Anonma,1,25,48,0,0,0,0,0
+1528191,17,19,Shot,Shot taken by Ayo Anonma,1,27,9,0,0,0,100,24
+1528191,18,16,Offside,Offsides called on Ayo Anonma,1,27,56,0,0,0,94,43
+1528191,19,46,Goal Kick,Goal kick taken by Bianca Henninger,1,29,38,0,0,0,0,0
+1528191,20,8,Foul,Foul called on Rachel Van Hollebeke,1,30,36,0,0,0,0,0
+1528191,21,46,Goal Kick,Goal kick taken by Bianca Henninger,1,31,51,0,0,0,0,0
+1528191,22,20,Shot on Goal,Shot on goal by Allie Long,1,32,20,0,0,0,92,36
+1528191,23,19,Shot,Shot taken by Allie Long,1,32,57,0,0,0,92,38
+1528191,24,8,Foul,Foul called on Camila,1,34,44,0,0,0,0,0
+1528191,25,2,Caution,Yellow card given to Camila (Professional Foul),1,35,14,0,0,0,0,0
+1528191,26,16,Offside,Offsides called on Allie Long,1,36,23,0,0,0,96,25
+1528191,27,5,Corner Kick,Corner kick taken by Allie Long,1,39,36,0,0,0,105,0
+1528191,28,20,Shot on Goal,Shot on goal by Taylor Comeau,1,40,49,0,0,0,94,38
+1528191,29,5,Corner Kick,Corner kick taken by Allie Long,1,41,6,0,0,0,105,0
+1528191,30,19,Shot,Shot taken by Ayo Anonma,1,42,12,0,0,0,67,43
+1528191,31,46,Goal Kick,Goal kick taken by Michelle Betos,1,44,15,0,0,0,0,0
+1528191,32,8,Foul,Foul called on Brittany Bock,1,44,28,0,0,0,0,0
+1528191,33,2,Caution,Yellow card given to Brittany Bock (Reckless Foul),1,45,11,0,0,0,0,0
+1528191,34,20,Shot on Goal,Shot on goal by Tiffany McCarty,1,45,12,1,0,0,2,40
+1528191,35,19,Shot,Shot taken by Jessica McDonald,1,45,49,1,0,0,4,32
+1528191,36,13,Half Over,1st Half ended,1,45,30,3,0,0,0,0
+1528191,37,21,Start Half,2nd Half started,2,46,0,0,0,0,0,0
+1528191,38,20,Shot on Goal,Shot on goal by Meleana Shim,2,47,7,0,0,0,7,38
+1528191,39,46,Goal Kick,Goal kick taken by Bianca Henninger,2,47,51,0,0,0,0,0
+1528191,40,8,Foul,Foul called on Brittany Bock,2,48,54,0,0,0,0,0
+1528191,41,5,Corner Kick,Corner kick taken by Allie Long,2,49,16,0,0,0,0,0
+1528191,42,19,Shot,Shot taken by Ayo Anonma,2,49,17,0,0,0,10,27
+1528191,43,46,Goal Kick,Goal kick taken by Bianca Henninger,2,50,41,0,0,0,0,0
+1528191,44,19,Shot,Shot taken by Tiffany McCarty,2,52,0,0,0,0,101,47
+1528191,45,46,Goal Kick,Goal kick taken by Michelle Betos,2,52,44,0,0,0,0,0
+1528191,46,8,Foul,Foul called on Emily Menges,2,54,58,0,0,0,0,0
+1528191,47,9,Free Kick,Free kick taken by Kealia Ohai,2,56,15,0,0,0,94,35
+1528191,48,20,Shot on Goal,Shot on goal by Kealia Ohai,2,56,15,0,0,0,94,35
+1528191,49,18,Penalty Kick - No Good,Penalty kick taken by Kealia Ohai - NO GOOD,2,56,15,0,0,0,94,35
+1528191,50,8,Foul,Foul called on Kealia Ohai,2,57,49,0,0,0,0,0
+1528191,51,22,Substitution,Hanna Terry substituted in for Taylor Comeau,2,59,41,0,0,0,0,0
+1528191,52,16,Offside,Offsides called on Kealia Ohai,2,61,37,0,0,0,76,49
+1528191,53,22,Substitution,Rachael Axon substituted in for Brittany Bock,2,62,4,0,0,0,0,0
+1528191,54,8,Foul,Foul called on Allie Long,2,63,40,0,0,0,0,0
+1528191,55,8,Foul,Foul called on Kealia Ohai,2,64,26,0,0,0,0,0
+1528191,56,8,Foul,Foul called on Hanna Terry,2,65,12,0,0,0,0,0
+1528191,57,2,Caution,Yellow card given to Hanna Terry (Professional Foul),2,65,38,0,0,0,0,0
+1528191,58,22,Substitution,Jen LaPonte substituted in for Camila,2,65,53,0,0,0,0,0
+1528191,59,8,Foul,Foul called on Emily Menges,2,66,27,0,0,0,0,0
+1528191,60,19,Shot,Shot taken by Michelle Betos,2,67,31,0,0,0,7,39
+1528191,61,8,Foul,Foul called on Ellie Brush,2,71,43,0,0,0,0,0
+1528191,62,8,Foul,Foul called on Ella Masar,2,72,17,0,0,0,0,0
+1528191,63,22,Substitution,Allie Bailey substituted in for Melissa Henderson,2,72,40,0,0,0,0,0
+1528191,64,16,Offside,Offsides called on Ayo Anonma,2,73,15,0,0,0,9,28
+1528191,65,46,Goal Kick,Goal kick taken by Bianca Henninger,2,73,23,0,0,0,0,0
+1528191,66,19,Shot,Shot taken by Allie Long,2,74,18,0,0,0,14,28
+1528191,67,6,Cross,Cross by Ella Masar,2,76,45,0,0,0,78,52
+1528191,68,16,Offside,Offsides called on Ayo Anonma,2,77,52,0,0,0,20,23
+1528191,69,8,Foul,Foul called on Niki Cross,2,78,45,0,0,0,0,0
+1528191,70,19,Shot,Shot taken by Ayo Anonma,2,81,46,0,0,0,4,24
+1528191,71,22,Substitution,Sarah Jackson substituted in for Meleana Shim,2,84,37,0,0,0,0,0
+1528191,72,16,Offside,Offsides called on Kealia Ohai,2,86,18,0,0,0,85,24
+1528191,73,16,Offside,Offsides called on Ayo Anonma,2,88,32,0,0,0,19,33
+1528191,74,22,Substitution,Alyssa Kleiner substituted in for Kendall Johnson,2,89,41,0,0,0,0,0
+1528191,75,13,Half Over,2nd Half ended,2,90,0,0,0,0,0,0
+1528191,76,10,Game Over,Game Over,2,90,0,0,0,0,0,0
+1528193,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528193,2,8,Foul,Foul called on Liz Bogus,1,1,25,0,0,0,0,0
+1528193,3,20,Shot on Goal,Shot on goal by Ayo Anonma,1,1,42,0,0,0,0,0
+1528193,4,5,Corner Kick,Corner kick taken by Allie Long,1,2,58,0,0,0,105,70
+1528193,5,19,Shot,Shot taken by Kat Williamson,1,3,24,0,0,0,0,0
+1528193,6,8,Foul,Foul called on Erika Tymrak,1,5,54,0,0,0,0,0
+1528193,7,16,Offside,Offsides called on Sarah Hagen,1,7,39,0,0,0,0,0
+1528193,8,5,Corner Kick,Corner kick taken by Allie Long,1,9,7,0,0,0,105,0
+1528193,9,16,Offside,Offsides called on Sinead Farrelly,1,9,51,0,0,0,0,0
+1528193,10,8,Foul,Foul called on McCall Zerboni,1,11,48,0,0,0,0,0
+1528193,11,19,Shot,Shot taken by Sarah Hagen,1,12,43,0,0,0,0,0
+1528193,12,20,Shot on Goal,Shot on goal by Shea Groom,1,14,52,0,0,0,0,0
+1528193,13,8,Foul,Foul called on Emily Menges,1,16,27,0,0,0,0,0
+1528193,14,8,Foul,Foul called on McCall Zerboni,1,21,54,0,0,0,0,0
+1528193,15,20,Shot on Goal,Shot on goal by Ayo Anonma,1,23,27,0,0,0,0,0
+1528193,16,8,Foul,Foul called on Jen Buczkowski,1,23,52,0,0,0,0,0
+1528193,17,19,Shot,Shot taken by Allie Long,1,24,43,0,0,0,0,0
+1528193,18,19,Shot,Shot taken by Allie Long,1,24,57,0,0,0,0,0
+1528193,19,8,Foul,Foul called on Rachel Van Hollebeke,1,26,19,0,0,0,0,0
+1528193,20,8,Foul,Foul called on McCall Zerboni,1,27,33,0,0,0,0,0
+1528193,21,19,Shot,Shot taken by Sarah Hagen,1,33,14,0,0,0,0,0
+1528193,22,16,Offside,Offsides called on Sarah Hagen,1,34,59,0,0,0,0,0
+1528193,23,8,Foul,Foul called on Sinead Farrelly,1,38,51,0,0,0,0,0
+1528193,24,16,Offside,Offsides called on Erika Tymrak,1,40,4,0,0,0,0,0
+1528193,25,8,Foul,Foul called on Becca Moros,1,40,50,0,0,0,0,0
+1528193,26,8,Foul,Foul called on Allie Long,1,43,46,0,0,0,0,0
+1528193,27,2,Caution,Yellow card given to Allie Long (Reckless Foul),1,44,7,0,0,0,0,0
+1528193,28,5,Corner Kick,Corner kick taken by Allie Long,1,45,21,1,0,0,105,70
+1528193,29,13,Half Over,1st Half ended,1,45,52,2,0,0,0,0
+1528193,30,22,Substitution,Alyssa Kleiner substituted in for Taylor Comeau,2,46,0,0,0,0,0,0
+1528193,31,21,Start Half,2nd Half started,2,46,0,0,0,0,0,0
+1528193,32,16,Offside,Offsides called on Shea Groom,2,46,42,0,0,0,0,0
+1528193,33,5,Corner Kick,Corner kick taken by Allie Long,2,49,40,0,0,0,0,70
+1528193,34,19,Shot,Shot taken by Kat Williamson,2,49,57,0,0,0,0,0
+1528193,35,8,Foul,Foul called on Kendall Johnson,2,50,44,0,0,0,0,0
+1528193,36,2,Caution,Yellow card given to Kendall Johnson (Tactical Foul),2,50,53,0,0,0,0,0
+1528193,37,20,Shot on Goal,Shot on goal by Sarah Hagen,2,51,22,0,0,0,0,0
+1528193,38,11,Goal,Sarah Hagen scored a goal assisted by Jen Buczkowski,2,51,23,0,1,0,0,0
+1528193,39,19,Shot,Shot taken by Alyssa Kleiner,2,56,49,0,1,0,0,0
+1528193,40,20,Shot on Goal,Shot on goal by Allie Long,2,57,49,0,1,0,0,0
+1528193,41,8,Foul,Foul called on Liz Bogus,2,58,59,0,1,0,0,0
+1528193,42,8,Foul,Foul called on Sarah Hagen,2,61,28,0,1,0,0,0
+1528193,43,2,Caution,Yellow card given to Sarah Hagen (Reckless Foul),2,61,34,0,1,0,0,0
+1528193,44,16,Offside,Offsides called on Shea Groom,2,63,4,0,1,0,0,0
+1528193,45,22,Substitution,Hanna Terry substituted in for Meleana Shim,2,64,5,0,1,0,0,0
+1528193,46,20,Shot on Goal,Shot on goal by Erika Tymrak,2,64,53,0,1,0,0,0
+1528193,47,8,Foul,Foul called on Jen Buczkowski,2,65,30,0,1,0,0,0
+1528193,48,20,Shot on Goal,Shot on goal by Ayo Anonma,2,66,35,0,1,0,0,0
+1528193,49,20,Shot on Goal,Shot on goal by Erika Tymrak,2,67,33,0,1,0,0,0
+1528193,50,8,Foul,Foul called on Leigh Ann Robinson,2,68,34,0,1,0,0,0
+1528193,51,19,Shot,Shot taken by Alyssa Kleiner,2,69,34,0,1,0,0,0
+1528193,52,8,Foul,Foul called on Shea Groom,2,70,1,0,1,0,0,0
+1528193,53,7,Expulsion,Red card given to McCall Zerboni (Reckless Foul),2,70,19,0,1,0,0,0
+1528193,54,2,Caution,Yellow card given to Shea Groom (Reckless Foul),2,71,33,0,1,0,0,0
+1528193,55,19,Shot,Shot taken by Hanna Terry,2,72,26,0,1,0,0,0
+1528193,56,8,Foul,Foul called on Shea Groom,2,76,7,0,1,0,0,0
+1528193,57,8,Foul,Foul called on Ayo Anonma,2,78,16,0,1,0,0,0
+1528193,58,16,Offside,Offsides called on Hanna Terry,2,80,56,0,1,0,0,0
+1528193,59,22,Substitution,Caroline Kastor substituted in for Sarah Hagen,2,81,58,0,1,0,0,0
+1528193,60,8,Foul,Foul called on Allie Long,2,84,42,0,1,0,0,0
+1528193,61,8,Foul,Foul called on Jen Buczkowski,2,85,31,0,1,0,0,0
+1528193,62,8,Foul,Foul called on Alyssa Kleiner,2,86,33,0,1,0,0,0
+1528193,63,22,Substitution,Frances Silva substituted in for Shea Groom,2,86,44,0,1,0,0,0
+1528193,64,22,Substitution,Sarah Jackson substituted in for Kendall Johnson,2,86,52,0,1,0,0,0
+1528193,65,8,Foul,Foul called on Becca Moros,2,88,11,0,1,0,0,0
+1528193,66,8,Foul,Foul called on Caroline Kastor,2,89,33,0,1,0,0,0
+1528193,67,16,Offside,Offsides called on Caroline Kastor,2,90,3,1,1,0,0,0
+1528193,68,20,Shot on Goal,Shot on goal by Caroline Kastor,2,90,34,1,1,0,0,0
+1528193,69,22,Substitution,Meghan Lisenby substituted in for Liz Bogus,2,90,32,2,1,0,0,0
+1528193,70,8,Foul,Foul called on Erika Tymrak,2,90,13,4,1,0,0,0
+1528193,71,19,Shot,Shot taken by Ayo Anonma,2,90,3,5,1,0,0,0
+1528193,72,5,Corner Kick,Corner kick taken by Allie Long,2,90,15,5,1,0,0,70
+1528193,73,5,Corner Kick,Corner kick taken by Allie Long,2,90,30,5,1,0,0,70
+1528193,74,20,Shot on Goal,Shot on goal by Michelle Betos,2,90,52,5,1,0,0,0
+1528193,75,11,Goal,Michelle Betos scored a goal assisted by Allie Long,2,90,52,5,1,1,0,0
+1528193,76,19,Shot,Shot taken by Erika Tymrak,2,90,48,6,1,1,0,0
+1528193,77,13,Half Over,2nd Half ended,2,90,1,7,1,1,0,0
+1528193,78,10,Game Over,Game Over,2,90,1,7,1,1,0,0
+1528195,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528195,2,5,Corner Kick,Corner kick taken by Becky Edwards,1,1,52,0,0,0,105,70
+1528195,3,8,Foul,Foul called on Brittany Bock,1,5,40,0,0,0,18,28
+1528195,4,20,Shot on Goal,Shot on goal by Melissa Henderson,1,7,43,0,0,0,17,25
+1528195,5,19,Shot,Shot taken by Samantha Mewis against Ellie Brush,1,9,2,0,0,0,92,38
+1528195,6,5,Corner Kick,Corner kick taken by Becky Edwards,1,10,6,0,0,0,105,70
+1528195,7,8,Foul,Foul called on Jamia Fields,1,10,37,0,0,0,99,33
+1528195,8,19,Shot,Shot taken by Melissa Henderson against Jaelene Hinkle,1,16,23,0,0,0,14,22
+1528195,9,5,Corner Kick,Corner kick taken by Melissa Henderson,1,17,7,0,0,0,0,70
+1528195,10,8,Foul,Foul called on Melissa Henderson,1,19,10,0,0,0,73,35
+1528195,11,16,Offside,Offsides called on Lynn Williams,1,20,59,0,0,0,83,60
+1528195,12,8,Foul,Foul called on Jaelene Hinkle,1,22,54,0,0,0,38,4
+1528195,13,19,Shot,Shot taken by Toni Pressley,1,23,40,0,0,0,17,43
+1528195,14,20,Shot on Goal,Shot on goal by Jessica McDonald,1,25,8,0,0,0,13,28
+1528195,15,5,Corner Kick,Corner kick taken by Melissa Henderson,1,25,55,0,0,0,0,70
+1528195,16,19,Shot,Shot taken by Brittany Bock,1,26,39,0,0,0,19,37
+1528195,17,8,Foul,Foul called on Jamia Fields,1,29,14,0,0,0,77,68
+1528195,18,8,Foul,Foul called on Kealia Ohai,1,30,9,0,0,0,34,45
+1528195,19,19,Shot,Shot taken by Jamia Fields,1,30,32,0,0,0,93,41
+1528195,20,19,Shot,Shot taken by Becky Edwards,1,33,29,0,0,0,73,41
+1528195,21,20,Shot on Goal,Shot on goal by Jessica McDonald,1,39,13,0,0,0,11,39
+1528195,22,11,Goal,Jessica McDonald scored a goal assisted by Ellie Brush,1,39,14,0,0,1,11,39
+1528195,23,19,Shot,Shot taken by Lynn Williams,1,43,15,0,0,1,84,42
+1528195,24,5,Corner Kick,Corner kick taken by Becky Edwards,1,44,25,0,0,1,105,0
+1528195,25,13,Half Over,1st Half ended,1,45,51,1,0,1,0,0
+1528195,26,21,Start Half,2nd Half started,2,46,0,0,0,1,0,0
+1528195,27,5,Corner Kick,Corner kick taken by Becky Edwards,2,46,8,0,0,1,0,70
+1528195,28,5,Corner Kick,Corner kick taken by Becky Edwards,2,47,10,0,0,1,0,0
+1528195,29,19,Shot,Shot taken by Jaelene Hinkle,2,47,52,0,0,1,21,44
+1528195,30,5,Corner Kick,Corner kick taken by Becky Edwards,2,51,9,0,0,1,0,0
+1528195,31,8,Foul,Foul called on Camila,2,53,48,0,0,1,5,12
+1528195,32,8,Foul,Foul called on Ashley Nick,2,55,25,0,0,1,34,24
+1528195,33,19,Shot,Shot taken by Tiffany McCarty,2,56,50,0,0,1,90,23
+1528195,34,19,Shot,Shot taken by Jasmyne Spencer,2,57,26,0,0,1,16,31
+1528195,35,20,Shot on Goal,Shot on goal by Jasmyne Spencer,2,58,26,0,0,1,15,39
+1528195,36,22,Substitution,Kristen Hamilton substituted in for Lynn Williams,2,59,30,0,0,1,0,0
+1528195,37,22,Substitution,Elizabeth Eddy substituted in for Ashley Nick,2,59,56,0,0,1,0,0
+1528195,38,16,Offside,Offsides called on Kealia Ohai,2,60,29,0,0,1,97,9
+1528195,39,19,Shot,Shot taken by Jamia Fields against Camila,2,61,34,0,0,1,22,20
+1528195,40,19,Shot,Shot taken by Samantha Mewis,2,61,50,0,0,1,16,30
+1528195,41,20,Shot on Goal,Shot on goal by Kealia Ohai,2,63,6,0,0,1,93,45
+1528195,42,11,Goal,Kealia Ohai scored a goal assisted by Melissa Henderson,2,63,7,0,0,2,93,45
+1528195,43,19,Shot,Shot taken by Elizabeth Eddy,2,64,46,0,0,2,20,51
+1528195,44,19,Shot,Shot taken by Abby Dahlkemper,2,65,47,0,0,2,25,23
+1528195,45,19,Shot,Shot taken by Elizabeth Eddy,2,67,16,0,0,2,19,36
+1528195,46,16,Offside,Offsides called on Kealia Ohai,2,68,14,0,0,2,82,42
+1528195,47,20,Shot on Goal,Shot on goal by Tiffany McCarty,2,69,58,0,0,2,99,30
+1528195,48,22,Substitution,Rachael Axon substituted in for Brittany Bock,2,72,14,0,0,2,0,0
+1528195,49,16,Offside,Offsides called on Kristen Hamilton,2,73,18,0,0,2,23,58
+1528195,50,8,Foul,Foul called on Ella Masar,2,74,12,0,0,2,20,49
+1528195,51,2,Caution,Yellow card given to Ella Masar,2,74,34,0,0,2,0,0
+1528195,52,9,Free Kick,Free kick taken by Abby Dahlkemper,2,75,34,0,0,2,25,51
+1528195,53,19,Shot,Shot taken by Abby Dahlkemper against Melissa Henderson,2,75,35,0,0,2,25,51
+1528195,54,22,Substitution,Chelsea Stewart substituted in for Kristen Edmonds,2,76,17,0,0,2,0,0
+1528195,55,22,Substitution,Allie Bailey substituted in for Melissa Henderson,2,76,26,0,0,2,0,0
+1528195,56,19,Shot,Shot taken by Jasmyne Spencer against Toni Pressley,2,78,11,0,0,2,21,26
+1528195,57,20,Shot on Goal,Shot on goal by Allie Bailey,2,78,45,0,0,2,81,49
+1528195,58,16,Offside,Offsides called on Jamia Fields,2,79,25,0,0,2,9,7
+1528195,59,5,Corner Kick,Corner kick taken by Becky Edwards,2,80,10,0,0,2,0,0
+1528195,60,19,Shot,Shot taken by Kealia Ohai against Abby Dahlkemper,2,81,23,0,0,2,89,27
+1528195,61,22,Substitution,Jordan Jackson substituted in for Tiffany McCarty,2,82,12,0,0,2,0,0
+1528195,62,5,Corner Kick,Corner kick taken by Becky Edwards,2,82,20,0,0,2,0,0
+1528195,63,20,Shot on Goal,Shot on goal by Kealia Ohai,2,83,42,0,0,2,90,43
+1528195,64,20,Shot on Goal,Shot on goal by Allie Bailey,2,84,20,0,0,2,99,40
+1528195,65,8,Foul,Foul called on Kristen Hamilton,2,84,48,0,0,2,28,49
+1528195,66,8,Foul,Foul called on Allie Bailey,2,89,23,0,0,2,18,63
+1528195,67,19,Shot,Shot taken by Abby Dahlkemper,2,90,14,0,0,2,1,27
+1528195,68,8,Foul,Foul called on Samantha Mewis,2,90,35,2,0,2,64,3
+1528195,69,13,Half Over,2nd Half ended,2,90,47,3,0,2,0,0
+1528195,70,10,Game Over,Game Over,2,90,47,3,0,2,0,0
+1528196,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528196,2,16,Offside,Offsides called on Stephanie McCaffrey,1,2,7,0,0,0,71,33
+1528196,3,5,Corner Kick,Corner kick taken by Kristie Mewis,1,3,1,0,0,0,105,0
+1528196,4,16,Offside,Offsides called on Jessica Fishlock,1,5,49,0,0,0,20,56
+1528196,5,20,Shot on Goal,Shot on goal by Kristie Mewis,1,8,57,0,0,0,87,20
+1528196,6,8,Foul,Foul called on Amy Barczuk,1,9,52,0,0,0,64,5
+1528196,7,16,Offside,Offsides called on Kim Little,1,10,18,0,0,0,24,48
+1528196,8,19,Shot,Shot taken by Beverly Yanez against Amy Barczuk,1,12,48,0,0,0,20,20
+1528196,9,8,Foul,Foul called on Kim Little,1,14,17,0,0,0,99,58
+1528196,10,9,Free Kick,Free kick taken by Kristie Mewis,1,14,44,0,0,0,98,58
+1528196,11,20,Shot on Goal,Shot on goal by Kristie Mewis,1,14,45,0,0,0,98,58
+1528196,12,11,Goal,Kristie Mewis scored a goal,1,14,46,0,0,1,98,58
+1528196,13,6,Cross,Cross by Stephanie Cox,1,15,40,0,0,1,10,59
+1528196,14,8,Foul,Foul called on Merritt Mathias,1,16,34,0,0,1,28,59
+1528196,15,19,Shot,Shot taken by Keelin Winters against Kassey Kallman,1,18,37,0,0,1,22,30
+1528196,16,20,Shot on Goal,Shot on goal by Kristie Mewis,1,20,4,0,0,1,89,19
+1528196,17,20,Shot on Goal,Shot on goal by Katie Schoepfer,1,20,51,0,0,1,102,46
+1528196,18,5,Corner Kick,Corner kick taken by Kristie Mewis,1,21,24,0,0,1,105,70
+1528196,19,46,Goal Kick,Goal kick taken by Haley Kopmeyer,1,21,42,0,0,1,0,0
+1528196,20,8,Foul,Foul called on Kassey Kallman,1,22,16,0,0,1,46,29
+1528196,21,6,Cross,Cross by Lauren Lazo,1,24,14,0,0,1,100,59
+1528196,22,5,Corner Kick,Corner kick taken by Kristie Mewis,1,24,40,0,0,1,105,70
+1528196,23,5,Corner Kick,Corner kick taken by Kristie Mewis,1,25,15,0,0,1,105,0
+1528196,24,20,Shot on Goal,Shot on goal by Lauren Lazo,1,25,33,0,0,1,79,38
+1528196,25,16,Offside,Offsides called on Beverly Yanez,1,25,52,0,0,1,23,51
+1528196,26,8,Foul,Foul called on Katie Schoepfer,1,26,59,0,0,1,75,6
+1528196,27,19,Shot,Shot taken by Stephanie McCaffrey,1,30,46,0,0,1,94,18
+1528196,28,8,Foul,Foul called on Amy Barczuk,1,31,24,0,0,1,22,9
+1528196,29,9,Free Kick,Free kick taken by Kim Little,1,31,46,0,0,1,23,10
+1528196,30,6,Cross,Cross by Merritt Mathias,1,31,47,0,0,1,23,10
+1528196,31,46,Goal Kick,Goal kick taken by Jami Kranich,1,32,19,0,0,1,0,0
+1528196,32,16,Offside,Offsides called on Stephanie McCaffrey,1,33,31,0,0,1,88,10
+1528196,33,16,Offside,Offsides called on Kim Little,1,34,32,0,0,1,26,57
+1528196,34,6,Cross,Cross by Jessica Fishlock,1,35,26,0,0,1,4,11
+1528196,35,8,Foul,Foul called on Suzane Pires,1,36,41,0,0,1,78,5
+1528196,36,8,Foul,Foul called on Julie King,1,38,34,0,0,1,26,42
+1528196,37,2,Caution,Yellow card given to Julie King (Tactical Foul),1,38,41,0,0,1,0,0
+1528196,38,9,Free Kick,Free kick taken by Kim Little,1,39,29,0,0,1,30,36
+1528196,39,6,Cross,Cross by Kim Little,1,39,29,0,0,1,30,36
+1528196,40,46,Goal Kick,Goal kick taken by Jami Kranich,1,40,21,0,0,1,0,0
+1528196,41,8,Foul,Foul called on Mariah Nogueira,1,40,38,0,0,1,35,30
+1528196,42,20,Shot on Goal,Shot on goal by Kim Little,1,42,0,0,0,1,14,31
+1528196,43,11,Goal,Kim Little scored a goal,1,42,1,0,1,1,14,31
+1528196,44,6,Cross,Cross by Lauren Lazo,1,44,37,0,1,1,86,55
+1528196,45,8,Foul,Foul called on Suzane Pires,1,44,52,0,1,1,80,38
+1528196,46,2,Caution,Yellow card given to Suzane Pires (Reckless Foul),1,44,55,0,1,1,0,0
+1528196,47,66,Injury Time,Injury Time-1,1,45,57,0,1,1,0,0
+1528196,48,8,Foul,Foul called on Beverly Yanez,1,45,2,1,1,1,37,52
+1528196,49,16,Offside,Offsides called on Stephanie McCaffrey,1,45,57,1,1,1,73,20
+1528196,50,13,Half Over,1st Half ended,1,45,26,2,1,1,0,0
+1528196,51,21,Start Half,2nd Half started,2,46,0,0,1,1,0,0
+1528196,52,16,Offside,Offsides called on Merritt Mathias,2,46,57,0,1,1,84,58
+1528196,53,20,Shot on Goal,Shot on goal by Stephanie McCaffrey,2,48,3,0,1,1,11,43
+1528196,54,8,Foul,Foul called on Stephanie McCaffrey,2,49,12,0,1,1,29,8
+1528196,55,6,Cross,Cross by Mollie Pathman,2,51,14,0,1,1,5,60
+1528196,56,19,Shot,Shot taken by Kristie Mewis against Rachel Corsie,2,51,26,0,1,1,13,42
+1528196,57,5,Corner Kick,Corner kick taken by Kristie Mewis,2,51,48,0,1,1,0,0
+1528196,58,20,Shot on Goal,Shot on goal by Julie King,2,51,49,0,1,1,2,41
+1528196,59,5,Corner Kick,Corner kick taken by Kristie Mewis,2,54,3,0,1,1,0,70
+1528196,60,19,Shot,Shot taken by Kassey Kallman against Stephanie Cox,2,54,4,0,1,1,13,26
+1528196,61,6,Cross,Cross by Kim Little,2,57,29,0,1,1,95,20
+1528196,62,19,Shot,Shot taken by Beverly Yanez,2,57,30,0,1,1,92,37
+1528196,63,8,Foul,Foul called on Beverly Yanez,2,59,37,0,1,1,44,49
+1528196,64,16,Offside,Offsides called on Merritt Mathias,2,60,14,0,1,1,74,58
+1528196,65,6,Cross,Cross by Suzane Pires,2,61,1,0,1,1,7,60
+1528196,66,22,Substitution,Nkem Ezurike substituted in for Suzane Pires,2,61,36,0,1,1,0,0
+1528196,67,19,Shot,Shot taken by Jessica Fishlock against Julie King,2,62,22,0,1,1,93,44
+1528196,68,8,Foul,Foul called on Nkem Ezurike,2,63,7,0,1,1,73,49
+1528196,69,6,Cross,Cross by Kristie Mewis,2,65,6,0,1,1,23,58
+1528196,70,20,Shot on Goal,Shot on goal by Stephanie McCaffrey,2,65,21,0,1,1,13,31
+1528196,71,8,Foul,Foul called on Kristie Mewis,2,66,2,0,1,1,23,34
+1528196,72,22,Substitution,Elli Reed substituted in for Merritt Mathias,2,66,16,0,1,1,0,0
+1528196,73,20,Shot on Goal,Shot on goal by Beverly Yanez,2,66,47,0,1,1,103,32
+1528196,74,11,Goal,Beverly Yanez scored a goal assisted by Elli Reed,2,66,48,0,2,1,103,32
+1528196,75,19,Shot,Shot taken by Nkem Ezurike,2,69,4,0,2,1,12,44
+1528196,76,22,Substitution,Danielle Foxhoven substituted in for Beverly Yanez,2,70,7,0,2,1,0,0
+1528196,77,8,Foul,Foul called on Amy Barczuk,2,70,26,0,2,1,69,54
+1528196,78,22,Substitution,Morgan Marlborough substituted in for Stephanie McCaffrey,2,71,34,0,2,1,0,0
+1528196,79,6,Cross,Cross by Maddy Evans,2,72,20,0,2,1,13,4
+1528196,80,8,Foul,Foul called on Mariah Nogueira,2,73,14,0,2,1,33,14
+1528196,81,6,Cross,Cross by Jessica Fishlock,2,73,57,0,2,1,92,15
+1528196,82,46,Goal Kick,Goal kick taken by Jami Kranich,2,74,18,0,2,1,0,0
+1528196,83,20,Shot on Goal,Shot on goal by Maddy Evans,2,75,22,0,2,1,14,22
+1528196,84,6,Cross,Cross by Kristie Mewis,2,76,13,0,2,1,4,59
+1528196,85,20,Shot on Goal,Shot on goal by Nkem Ezurike,2,76,15,0,2,1,3,40
+1528196,86,20,Shot on Goal,Shot on goal by Morgan Marlborough key pass by Nkem Ezurike,2,76,20,0,2,1,1,33
+1528196,87,11,Goal,Morgan Marlborough scored a goal assisted by Nkem Ezurike,2,76,21,0,2,2,1,33
+1528196,88,6,Cross,Cross by Lauren Lazo,2,78,13,0,2,2,19,7
+1528196,89,46,Goal Kick,Goal kick taken by Haley Kopmeyer,2,78,36,0,2,2,0,0
+1528196,90,22,Substitution,Amber Brooks substituted in for Mariah Nogueira,2,79,8,0,2,2,0,0
+1528196,91,19,Shot,Shot taken by Danielle Foxhoven,2,79,31,0,2,2,97,24
+1528196,92,22,Substitution,Stephanie Verdoia substituted in for Maddy Evans,2,80,42,0,2,2,0,0
+1528196,93,19,Shot,Shot taken by Kim Little,2,82,13,0,2,2,94,26
+1528196,94,20,Shot on Goal,Shot on goal by Katie Schoepfer,2,83,28,0,2,2,27,22
+1528196,95,6,Cross,Cross by Mollie Pathman,2,84,13,0,2,2,2,60
+1528196,96,19,Shot,Shot taken by Morgan Marlborough,2,84,14,0,2,2,9,21
+1528196,97,16,Offside,Offsides called on Danielle Foxhoven,2,84,48,0,2,2,75,40
+1528196,98,2,Caution,Yellow card given to Danielle Foxhoven (Delay of Game),2,85,1,0,2,2,0,0
+1528196,99,46,Goal Kick,Goal kick taken by Haley Kopmeyer,2,85,48,0,2,2,0,0
+1528196,100,46,Goal Kick,Goal kick taken by Haley Kopmeyer,2,86,37,0,2,2,0,0
+1528196,101,20,Shot on Goal,Shot on goal by Jessica Fishlock,2,86,48,0,2,2,98,42
+1528196,102,11,Goal,Jessica Fishlock scored a goal assisted by Kim Little,2,86,49,0,3,2,98,42
+1528196,103,19,Shot,Shot taken by Morgan Marlborough,2,88,1,0,3,2,14,16
+1528196,104,46,Goal Kick,Goal kick taken by Haley Kopmeyer,2,88,29,0,3,2,0,0
+1528196,105,8,Foul,Foul called on Keelin Winters,2,88,35,0,3,2,44,48
+1528196,106,6,Cross,Cross by Mollie Pathman,2,88,45,0,3,2,9,62
+1528196,107,6,Cross,Cross by Mollie Pathman,2,89,18,0,3,2,15,58
+1528196,108,46,Goal Kick,Goal kick taken by Jami Kranich,2,90,7,0,3,2,0,0
+1528196,109,46,Goal Kick,Goal kick taken by Jami Kranich,2,90,24,0,3,2,0,0
+1528196,110,66,Injury Time,Injury Time-3,2,90,21,2,3,2,0,0
+1528196,111,16,Offside,Offsides called on Kim Little,2,90,30,2,3,2,69,55
+1528196,112,13,Half Over,2nd Half ended,2,90,13,4,3,2,0,0
+1528196,113,10,Game Over,Game Over,2,90,13,4,3,2,0,0
+1528198,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528198,2,8,Foul,Foul called on Merritt Mathias,1,1,55,0,0,0,0,0
+1528198,3,5,Corner Kick,Corner kick taken by Kim Little,1,2,4,0,0,0,0,70
+1528198,4,5,Corner Kick,Corner kick taken by Stephanie Cox,1,3,1,0,0,0,0,0
+1528198,5,6,Cross,Cross by Stephanie Cox,1,4,16,0,0,0,0,0
+1528198,6,8,Foul,Foul called on Mandy Laddish,1,5,27,0,0,0,0,0
+1528198,7,19,Shot,Shot taken by Jessica Fishlock,1,6,12,0,0,0,21,17
+1528198,8,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,6,40,0,0,0,0,0
+1528198,9,20,Shot on Goal,Shot on goal by Erika Tymrak,1,7,18,0,0,0,86,23
+1528198,10,6,Cross,Cross by Kim Little,1,9,8,0,0,0,0,0
+1528198,11,8,Foul,Foul called on Kendall Fletcher,1,9,29,0,0,0,0,0
+1528198,12,16,Offside,Offsides called on Merritt Mathias,1,9,53,0,0,0,22,42
+1528198,13,9,Free Kick,Free kick taken by Nicole Barnhart,1,10,9,0,0,0,22,42
+1528198,14,16,Offside,Offsides called on Beverly Yanez,1,11,30,0,0,0,24,36
+1528198,15,5,Corner Kick,Corner kick taken by Yael Averbuch,1,12,5,0,0,0,105,70
+1528198,16,20,Shot on Goal,Shot on goal by Mandy Laddish,1,12,22,0,0,0,0,0
+1528198,17,6,Cross,Cross by Shea Groom,1,16,46,0,0,0,0,0
+1528198,18,8,Foul,Foul called on Mandy Laddish,1,17,11,0,0,0,0,0
+1528198,19,6,Cross,Cross by Liz Bogus,1,19,16,0,0,0,90,7
+1528198,20,6,Cross,Cross by Rachel Corsie,1,20,35,0,0,0,0,0
+1528198,21,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,20,56,0,0,0,0,0
+1528198,22,6,Cross,Cross by Kendall Fletcher,1,22,4,0,0,0,0,0
+1528198,23,19,Shot,Shot taken by Kim Little,1,22,5,0,0,0,14,40
+1528198,24,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,22,42,0,0,0,0,0
+1528198,25,6,Cross,Cross by Kim Little,1,23,59,0,0,0,0,0
+1528198,26,20,Shot on Goal,Shot on goal by Merritt Mathias,1,24,0,0,0,0,3,39
+1528198,27,6,Cross,Cross by Liz Bogus,1,26,15,0,0,0,0,0
+1528198,28,46,Goal Kick,Goal kick taken by Haley Kopmeyer,1,26,56,0,0,0,0,0
+1528198,29,46,Goal Kick,Goal kick taken by Haley Kopmeyer,1,27,47,0,0,0,0,0
+1528198,30,20,Shot on Goal,Shot on goal by Kim Little,1,30,10,0,0,0,13,42
+1528198,31,16,Offside,Offsides called on Merritt Mathias,1,30,58,0,0,0,19,49
+1528198,32,9,Free Kick,Free kick taken by Nicole Barnhart,1,33,58,0,0,0,0,0
+1528198,33,6,Cross,Cross by Shea Groom,1,34,33,0,0,0,0,0
+1528198,34,19,Shot,Shot taken by Rachel Corsie against Nicole Barnhart,1,35,39,0,0,0,28,22
+1528198,35,46,Goal Kick,Goal kick taken by Haley Kopmeyer,1,38,7,0,0,0,0,0
+1528198,36,6,Cross,Cross by Liz Bogus,1,40,3,0,0,0,0,0
+1528198,37,46,Goal Kick,Goal kick taken by Haley Kopmeyer,1,40,20,0,0,0,0,0
+1528198,38,8,Foul,Foul called on Keelin Winters,1,41,30,0,0,0,0,0
+1528198,39,20,Shot on Goal,Shot on goal by Jessica Fishlock,1,43,54,0,0,0,29,29
+1528198,40,5,Corner Kick,Corner kick taken by Stephanie Cox,1,44,14,0,0,0,0,70
+1528198,41,5,Corner Kick,Corner kick taken by Kim Little,1,45,26,0,0,0,0,70
+1528198,42,6,Cross,Cross by Kendall Fletcher,1,45,58,0,0,0,0,0
+1528198,43,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,45,14,1,0,0,0,0
+1528198,44,19,Shot,Shot taken by Kim Little,1,45,55,1,0,0,22,36
+1528198,45,13,Half Over,1st Half ended,1,45,12,3,0,0,0,0
+1528198,46,21,Start Half,2nd Half started,2,46,0,0,0,0,0,0
+1528198,47,19,Shot,Shot taken by Mariah Bullock against Leigh Ann Robinson,2,50,20,0,0,0,0,0
+1528198,48,8,Foul,Foul called on Beverly Yanez,2,50,58,0,0,0,0,0
+1528198,49,8,Foul,Foul called on Stephanie Cox,2,54,9,0,0,0,55,14
+1528198,50,5,Corner Kick,Corner kick taken by Erika Tymrak,2,54,31,0,0,0,0,70
+1528198,51,46,Goal Kick,Goal kick taken by Haley Kopmeyer,2,55,16,0,0,0,0,0
+1528198,52,8,Foul,Foul called on Jessica Fishlock,2,56,55,0,0,0,0,0
+1528198,53,8,Foul,Foul called on Sarah Hagen,2,57,55,0,0,0,40,27
+1528198,54,20,Shot on Goal,Shot on goal by Merritt Mathias,2,58,19,0,0,0,84,43
+1528198,55,46,Goal Kick,Goal kick taken by Haley Kopmeyer,2,60,3,0,0,0,0,0
+1528198,56,22,Substitution,Danielle Foxhoven substituted in for Merritt Mathias,2,60,28,0,0,0,0,0
+1528198,57,8,Foul,Foul called on Liz Bogus,2,61,46,0,0,0,0,0
+1528198,58,9,Free Kick,Free kick taken by Beverly Yanez,2,62,17,0,0,0,0,0
+1528198,59,20,Shot on Goal,Shot on goal by Beverly Yanez,2,62,18,0,0,0,0,0
+1528198,60,20,Shot on Goal,Shot on goal by Beverly Yanez,2,62,55,0,0,0,0,0
+1528198,61,11,Goal,Beverly Yanez scored a goal assisted by Kendall Fletcher,2,62,56,0,0,1,0,0
+1528198,62,20,Shot on Goal,Shot on goal by Kim Little,2,64,38,0,0,1,0,0
+1528198,63,11,Goal,Kim Little scored a goal assisted by Danielle Foxhoven,2,64,39,0,0,2,0,0
+1528198,64,46,Goal Kick,Goal kick taken by Haley Kopmeyer,2,65,41,0,0,2,0,0
+1528198,65,2,Caution,Yellow card given to Lauren Barnes (Tactical Foul),2,67,8,0,0,2,0,0
+1528198,66,8,Foul,Foul called on Lauren Barnes,2,67,43,0,0,2,0,0
+1528198,67,22,Substitution,Elli Reed substituted in for Beverly Yanez,2,68,6,0,0,2,0,0
+1528198,68,5,Corner Kick,Corner kick taken by Stephanie Cox,2,70,0,0,0,2,105,70
+1528198,69,8,Foul,Foul called on Jessica Fishlock,2,70,58,0,0,2,0,0
+1528198,70,22,Substitution,Frances Silva substituted in for Jen Buczkowski,2,71,8,0,0,2,0,0
+1528198,71,9,Free Kick,Free kick taken by Amy LePeilbet,2,71,16,0,0,2,57,55
+1528198,72,20,Shot on Goal,Shot on goal by Amy LePeilbet,2,71,16,0,0,2,57,55
+1528198,73,20,Shot on Goal,Shot on goal by Jessica Fishlock,2,72,48,0,0,2,97,31
+1528198,74,6,Cross,Cross by Becca Moros,2,75,17,0,0,2,24,54
+1528198,75,19,Shot,Shot taken by Sarah Hagen against Haley Kopmeyer,2,75,18,0,0,2,9,35
+1528198,76,19,Shot,Shot taken by Sarah Hagen,2,79,2,0,0,2,28,8
+1528198,77,46,Goal Kick,Goal kick taken by Haley Kopmeyer,2,79,29,0,0,2,0,0
+1528198,78,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,80,32,0,0,2,0,0
+1528198,79,6,Cross,Cross by Kendall Fletcher,2,81,46,0,0,2,84,59
+1528198,80,8,Foul,Foul called on Jessica Fishlock,2,83,8,0,0,2,64,54
+1528198,81,19,Shot,Shot taken by Frances Silva,2,83,35,0,0,2,32,9
+1528198,82,46,Goal Kick,Goal kick taken by Haley Kopmeyer,2,83,57,0,0,2,0,0
+1528198,83,20,Shot on Goal,Shot on goal by Elli Reed,2,84,30,0,0,2,82,39
+1528198,84,6,Cross,Cross by Kendall Fletcher,2,85,25,0,0,2,0,0
+1528198,85,19,Shot,Shot taken by Elli Reed against Nicole Barnhart,2,85,26,0,0,2,101,61
+1528198,86,8,Foul,Foul called on Yael Averbuch,2,86,33,0,0,2,0,0
+1528198,87,5,Corner Kick,Corner kick taken by Stephanie Cox,2,86,43,0,0,2,105,70
+1528198,88,22,Substitution,Kiersten Dallstream substituted in for Kim Little,2,87,42,0,0,2,0,0
+1528198,89,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,90,18,0,0,2,0,0
+1528198,90,20,Shot on Goal,Shot on goal by Shea Groom,2,90,36,1,0,2,10,39
+1528198,91,11,Goal,Shea Groom scored a goal assisted by Frances Silva,2,90,37,1,1,2,10,39
+1528198,92,6,Cross,Cross by Danielle Foxhoven,2,90,25,3,1,2,0,0
+1528198,93,8,Foul,Foul called on Mandy Laddish,2,90,17,4,1,2,0,0
+1528198,94,13,Half Over,2nd Half ended,2,90,14,5,1,2,0,0
+1528198,95,10,Game Over,Game Over,2,90,14,5,1,2,0,0
+1528197,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528197,2,20,Shot on Goal,Shot on goal by Melissa Henderson,1,3,52,0,0,0,96,22
+1528197,3,8,Foul,Foul called on Tiffany McCarty,1,6,34,0,0,0,35,48
+1528197,4,20,Shot on Goal,Shot on goal by Joanna Lohman,1,7,15,0,0,0,13,27
+1528197,5,46,Goal Kick,Goal kick taken by Bianca Henninger,1,8,21,0,0,0,0,0
+1528197,6,8,Foul,Foul called on Laura del Rio,1,9,39,0,0,0,71,52
+1528197,7,5,Corner Kick,Corner kick taken by Melissa Henderson,1,10,21,0,0,0,105,70
+1528197,8,19,Shot,Shot taken by Ellie Brush,1,10,53,0,0,0,93,28
+1528197,9,46,Goal Kick,Goal kick taken by Kelsey Wys,1,11,38,0,0,0,0,0
+1528197,10,16,Offside,Offsides called on Crystal Dunn,1,14,8,0,0,0,30,12
+1528197,11,8,Foul,Foul called on Whitney Church,1,21,10,0,0,0,69,10
+1528197,12,19,Shot,Shot taken by Crystal Dunn against Ellie Brush,1,23,31,0,0,0,13,37
+1528197,13,19,Shot,Shot taken by Crystal Dunn,1,27,41,0,0,0,28,16
+1528197,14,46,Goal Kick,Goal kick taken by Bianca Henninger,1,27,53,0,0,0,0,0
+1528197,15,8,Foul,Foul called on Ellie Brush,1,28,58,0,0,0,40,47
+1528197,16,8,Foul,Foul called on Kealia Ohai,1,30,23,0,0,0,88,60
+1528197,17,5,Corner Kick,Corner kick taken by Melissa Henderson,1,30,57,0,0,0,105,70
+1528197,18,19,Shot,Shot taken by Kealia Ohai against Tori Huster,1,32,48,0,0,0,94,30
+1528197,19,19,Shot,Shot taken by Tiffany McCarty,1,33,0,0,0,0,87,28
+1528197,20,46,Goal Kick,Goal kick taken by Kelsey Wys,1,33,7,0,0,0,0,0
+1528197,21,16,Offside,Offsides called on Crystal Dunn,1,33,44,0,0,0,36,19
+1528197,22,20,Shot on Goal,Shot on goal by Crystal Dunn,1,34,35,0,0,0,4,49
+1528197,23,8,Foul,Foul called on Crystal Dunn,1,35,48,0,0,0,14,30
+1528197,24,19,Shot,Shot taken by Christine Nairn,1,36,38,0,0,0,28,19
+1528197,25,5,Corner Kick,Corner kick taken by Christine Nairn,1,39,33,0,0,0,0,70
+1528197,26,19,Shot,Shot taken by Laura del Rio against Toni Pressley,1,40,24,0,0,0,22,27
+1528197,27,5,Corner Kick,Corner kick taken by Christine Nairn,1,40,37,0,0,0,0,0
+1528197,28,8,Foul,Foul called on Laura del Rio,1,41,48,0,0,0,36,21
+1528197,29,19,Shot,Shot taken by Tiffany McCarty against Tori Huster,1,43,9,0,0,0,93,41
+1528197,30,5,Corner Kick,Corner kick taken by Melissa Henderson,1,43,22,0,0,0,105,70
+1528197,31,19,Shot,Shot taken by Camila,1,44,3,0,0,0,80,22
+1528197,32,19,Shot,Shot taken by Laura del Rio,1,45,5,1,0,0,45,20
+1528197,33,13,Half Over,1st Half ended,1,45,16,1,0,0,0,0
+1528197,34,21,Start Half,2nd Half started,2,46,0,0,0,0,0,0
+1528197,35,5,Corner Kick,Corner kick taken by Christine Nairn,2,47,18,0,0,0,105,70
+1528197,36,20,Shot on Goal,Shot on goal by Tori Huster,2,47,19,0,0,0,95,28
+1528197,37,5,Corner Kick,Corner kick taken by Christine Nairn,2,49,33,0,0,0,105,70
+1528197,38,16,Offside,Offsides called on Amanda Da Costa,2,51,30,0,0,0,72,20
+1528197,39,19,Shot,Shot taken by Rachael Axon,2,52,4,0,0,0,21,25
+1528197,40,20,Shot on Goal,Shot on goal by Crystal Dunn,2,52,57,0,0,0,95,40
+1528197,41,20,Shot on Goal,Shot on goal by Kealia Ohai,2,54,30,0,0,0,17,24
+1528197,42,5,Corner Kick,Corner kick taken by Melissa Henderson,2,55,4,0,0,0,0,70
+1528197,43,8,Foul,Foul called on Camila,2,55,13,0,0,0,79,57
+1528197,44,2,Caution,Yellow card given to Camila (Reckless Foul),2,55,33,0,0,0,0,0
+1528197,45,20,Shot on Goal,Shot on goal by Crystal Dunn,2,56,5,0,0,0,97,36
+1528197,46,11,Goal,Crystal Dunn scored a goal,2,56,6,0,0,1,97,36
+1528197,47,46,Goal Kick,Goal kick taken by Bianca Henninger,2,57,37,0,0,1,0,0
+1528197,48,8,Foul,Foul called on Tiffany McCarty,2,58,57,0,0,1,70,14
+1528197,49,19,Shot,Shot taken by Crystal Dunn,2,59,59,0,0,1,79,27
+1528197,50,46,Goal Kick,Goal kick taken by Bianca Henninger,2,60,12,0,0,1,0,0
+1528197,51,5,Corner Kick,Corner kick taken by Christine Nairn,2,61,38,0,0,1,105,0
+1528197,52,46,Goal Kick,Goal kick taken by Bianca Henninger,2,62,28,0,0,1,0,0
+1528197,53,8,Foul,Foul called on Ellie Brush,2,65,12,0,0,1,63,15
+1528197,54,19,Shot,Shot taken by Jessica McDonald,2,66,36,0,0,1,11,31
+1528197,55,19,Shot,Shot taken by Christine Nairn,2,68,40,0,0,1,75,23
+1528197,56,22,Substitution,Jen LaPonte substituted in for Camila,2,68,48,0,0,1,0,0
+1528197,57,8,Foul,Foul called on Amanda Da Costa,2,70,42,0,0,1,72,49
+1528197,58,19,Shot,Shot taken by Crystal Dunn,2,71,9,0,0,1,77,21
+1528197,59,22,Substitution,Jordan Jackson substituted in for Melissa Henderson,2,72,46,0,0,1,0,0
+1528197,60,46,Goal Kick,Goal kick taken by Bianca Henninger,2,73,16,0,0,1,0,0
+1528197,61,19,Shot,Shot taken by Tiffany McCarty against Whitney Church,2,75,9,0,0,1,13,24
+1528197,62,46,Goal Kick,Goal kick taken by Kelsey Wys,2,76,47,0,0,1,0,0
+1528197,63,46,Goal Kick,Goal kick taken by Bianca Henninger,2,77,15,0,0,1,0,0
+1528197,64,8,Foul,Foul called on Ellie Brush,2,78,47,0,0,1,70,7
+1528197,65,2,Caution,Yellow card given to Ellie Brush (Reckless Foul),2,78,54,0,0,1,0,0
+1528197,66,22,Substitution,Allie Bailey substituted in for Rachael Axon,2,79,4,0,0,1,0,0
+1528197,67,8,Foul,Foul called on Amanda Da Costa,2,80,34,0,0,1,38,52
+1528197,68,19,Shot,Shot taken by Crystal Dunn against Jen LaPonte,2,81,31,0,0,1,85,20
+1528197,69,16,Offside,Offsides called on Kealia Ohai,2,82,0,0,0,1,34,47
+1528197,70,46,Goal Kick,Goal kick taken by Kelsey Wys,2,82,28,0,0,1,0,0
+1528197,71,20,Shot on Goal,Shot on goal by Kealia Ohai,2,84,9,0,0,1,13,44
+1528197,72,5,Corner Kick,Corner kick taken by Niki Cross,2,84,18,0,0,1,0,0
+1528197,73,20,Shot on Goal,Shot on goal by Kealia Ohai,2,87,0,0,0,1,13,42
+1528197,74,8,Foul,Foul called on Ellie Brush,2,88,32,0,0,1,69,59
+1528197,75,20,Shot on Goal,Shot on goal by Crystal Dunn,2,90,21,0,0,1,96,42
+1528197,76,22,Substitution,Tiffany Weimer substituted in for Laura del Rio,2,90,54,0,0,1,0,0
+1528197,77,8,Foul,Foul called on Jordan Jackson,2,90,11,2,0,1,0,0
+1528197,78,22,Substitution,Jennifer Skogerboe substituted in for Amanda Da Costa,2,90,21,2,0,1,0,0
+1528197,79,5,Corner Kick,Corner kick taken by Niki Cross,2,90,0,4,0,1,0,0
+1528197,80,19,Shot,Shot taken by Toni Pressley,2,90,29,4,0,1,6,42
+1528197,81,13,Half Over,2nd Half ended,2,90,40,4,0,1,0,0
+1528197,82,10,Game Over,Game Over,2,90,40,4,0,1,0,0
+1528199,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528199,2,8,Foul,Foul called on Jamia Fields,1,6,4,0,0,0,39,57
+1528199,3,9,Free Kick,Free kick taken by Mollie Pathman,1,6,27,0,0,0,38,55
+1528199,4,6,Cross,Cross by Mollie Pathman,1,6,28,0,0,0,38,55
+1528199,5,20,Shot on Goal,Shot on goal by Kristie Mewis,1,7,9,0,0,0,19,33
+1528199,6,5,Corner Kick,Corner kick taken by Kristie Mewis,1,7,31,0,0,0,0,70
+1528199,7,8,Foul,Foul called on Jamia Fields,1,8,37,0,0,0,84,49
+1528199,8,16,Offside,Offsides called on Lynn Williams,1,10,58,0,0,0,76,60
+1528199,9,19,Shot,Shot taken by Chelsea Stewart,1,14,20,0,0,0,94,46
+1528199,10,46,Goal Kick,Goal kick taken by Jami Kranich,1,14,39,0,0,0,0,0
+1528199,11,8,Foul,Foul called on Jamia Fields,1,15,16,0,0,0,82,62
+1528199,12,8,Foul,Foul called on Maddy Evans,1,16,2,0,0,0,66,8
+1528199,13,9,Free Kick,Free kick taken by Becky Edwards,1,16,24,0,0,0,72,7
+1528199,14,5,Corner Kick,Corner kick taken by Becky Edwards,1,18,39,0,0,0,105,70
+1528199,15,46,Goal Kick,Goal kick taken by Jami Kranich,1,18,55,0,0,0,0,0
+1528199,16,19,Shot,Shot taken by Suzane Pires,1,19,10,0,0,0,10,45
+1528199,17,46,Goal Kick,Goal kick taken by Chantel Jones,1,19,35,0,0,0,0,0
+1528199,18,20,Shot on Goal,Shot on goal by Jamia Fields,1,19,43,0,0,0,94,48
+1528199,19,20,Shot on Goal,Shot on goal by Lynn Williams,1,19,47,0,0,0,102,35
+1528199,20,11,Goal,Lynn Williams scored a goal,1,19,48,0,1,0,102,35
+1528199,21,46,Goal Kick,Goal kick taken by Chantel Jones,1,24,48,0,1,0,0,0
+1528199,22,22,Substitution,Elizabeth Eddy substituted in for Jamia Fields,1,26,42,0,1,0,0,0
+1528199,23,19,Shot,Shot taken by Maddy Evans,1,26,53,0,1,0,11,26
+1528199,24,46,Goal Kick,Goal kick taken by Chantel Jones,1,27,5,0,1,0,0,0
+1528199,25,5,Corner Kick,Corner kick taken by Kristie Mewis,1,28,0,0,1,0,0,0
+1528199,26,20,Shot on Goal,Shot on goal by Lauren Lazo,1,28,9,0,1,0,29,5
+1528199,27,5,Corner Kick,Corner kick taken by Kristie Mewis,1,28,44,0,1,0,0,70
+1528199,28,8,Foul,Foul called on Mollie Pathman,1,29,15,0,1,0,52,14
+1528199,29,2,Caution,Yellow card given to Mollie Pathman (Tactical Foul),1,29,17,0,1,0,0,0
+1528199,30,46,Goal Kick,Goal kick taken by Jami Kranich,1,30,23,0,1,0,0,0
+1528199,31,8,Foul,Foul called on Maddy Evans,1,31,46,0,1,0,68,40
+1528199,32,2,Caution,Yellow card given to Maddy Evans (Reckless Foul),1,31,55,0,1,0,0,0
+1528199,33,20,Shot on Goal,Shot on goal by Jasmyne Spencer,1,32,48,0,1,0,94,45
+1528199,34,22,Substitution,Nkem Ezurike substituted in for Suzane Pires,1,34,58,0,1,0,0,0
+1528199,35,20,Shot on Goal,Shot on goal by Katie Schoepfer,1,36,40,0,1,0,13,27
+1528199,36,5,Corner Kick,Corner kick taken by Kristie Mewis,1,37,7,0,1,0,0,0
+1528199,37,46,Goal Kick,Goal kick taken by Chantel Jones,1,37,40,0,1,0,0,0
+1528199,38,46,Goal Kick,Goal kick taken by Chantel Jones,1,39,4,0,1,0,0,0
+1528199,39,8,Foul,Foul called on Lynn Williams,1,39,15,0,1,0,67,16
+1528199,40,8,Foul,Foul called on Nkem Ezurike,1,40,11,0,1,0,30,13
+1528199,41,20,Shot on Goal,Shot on goal by Elizabeth Eddy,1,42,22,0,1,0,100,32
+1528199,42,11,Goal,Elizabeth Eddy scored a goal assisted by Lynn Williams,1,42,22,0,2,0,100,32
+1528199,43,46,Goal Kick,Goal kick taken by Chantel Jones,1,43,55,0,2,0,0,0
+1528199,44,19,Shot,Shot taken by Kristie Mewis,1,44,16,0,2,0,23,47
+1528199,45,20,Shot on Goal,Shot on goal by Lauren Lazo,1,44,26,0,2,0,8,21
+1528199,46,16,Offside,Offsides called on Maddy Evans,1,44,50,0,2,0,36,35
+1528199,47,66,Injury Time,Injury Time-1,1,45,8,1,2,0,0,0
+1528199,48,20,Shot on Goal,Shot on goal by Nkem Ezurike,1,45,21,1,2,0,15,38
+1528199,49,13,Half Over,1st Half ended,1,45,7,2,2,0,0,0
+1528199,50,21,Start Half,2nd Half started,2,46,0,0,2,0,0,0
+1528199,51,46,Goal Kick,Goal kick taken by Jami Kranich,2,47,39,0,2,0,0,0
+1528199,52,8,Foul,Foul called on Chelsea Stewart,2,49,13,0,2,0,80,58
+1528199,53,9,Free Kick,Free kick taken by Kristie Mewis,2,49,42,0,2,0,81,60
+1528199,54,6,Cross,Cross by Kristie Mewis,2,49,43,0,2,0,81,60
+1528199,55,8,Foul,Foul called on Samantha Mewis,2,50,2,0,2,0,73,13
+1528199,56,9,Free Kick,Free kick taken by Kristie Mewis,2,50,32,0,2,0,75,8
+1528199,57,6,Cross,Cross by Kristie Mewis,2,50,33,0,2,0,75,8
+1528199,58,19,Shot,Shot taken by Lauren Lazo,2,50,42,0,2,0,85,43
+1528199,59,46,Goal Kick,Goal kick taken by Chantel Jones,2,51,15,0,2,0,0,0
+1528199,60,8,Foul,Foul called on Becky Edwards,2,51,25,0,2,0,42,34
+1528199,61,19,Shot,Shot taken by Kristie Mewis,2,51,55,0,2,0,76,34
+1528199,62,46,Goal Kick,Goal kick taken by Chantel Jones,2,52,11,0,2,0,0,0
+1528199,63,19,Shot,Shot taken by Samantha Mewis,2,54,54,0,2,0,11,22
+1528199,64,19,Shot,Shot taken by Jasmyne Spencer,2,57,3,0,2,0,4,29
+1528199,65,19,Shot,Shot taken by Chelsea Stewart,2,57,12,0,2,0,10,39
+1528199,66,16,Offside,Offsides called on Nkem Ezurike,2,58,41,0,2,0,74,36
+1528199,67,22,Substitution,Bia substituted in for Morgan Marlborough,2,59,39,0,2,0,0,0
+1528199,68,19,Shot,Shot taken by Amy Barczuk,2,61,4,0,2,0,78,36
+1528199,69,46,Goal Kick,Goal kick taken by Chantel Jones,2,61,29,0,2,0,0,0
+1528199,70,19,Shot,Shot taken by Chelsea Stewart,2,61,56,0,2,0,16,47
+1528199,71,46,Goal Kick,Goal kick taken by Jami Kranich,2,62,19,0,2,0,0,0
+1528199,72,16,Offside,Offsides called on Lynn Williams,2,64,30,0,2,0,15,60
+1528199,73,22,Substitution,Stephanie McCaffrey substituted in for Maddy Evans,2,66,54,0,2,0,0,0
+1528199,74,5,Corner Kick,Corner kick taken by Becky Edwards,2,67,14,0,2,0,0,0
+1528199,75,22,Substitution,Ashley Nick substituted in for Chelsea Stewart,2,67,45,0,2,0,0,0
+1528199,76,19,Shot,Shot taken by Kristie Mewis,2,69,1,0,2,0,98,34
+1528199,77,46,Goal Kick,Goal kick taken by Chantel Jones,2,69,19,0,2,0,0,0
+1528199,78,8,Foul,Foul called on Lauren Lazo,2,71,15,0,2,0,81,64
+1528199,79,19,Shot,Shot taken by Nkem Ezurike,2,72,55,0,2,0,93,22
+1528199,80,5,Corner Kick,Corner kick taken by Kristie Mewis,2,73,1,0,2,0,105,0
+1528199,81,20,Shot on Goal,Shot on goal by Julie King,2,73,26,0,2,0,92,38
+1528199,82,19,Shot,Shot taken by Bia,2,76,11,0,2,0,91,33
+1528199,83,22,Substitution,Amanda Frisbie substituted in for Lynn Williams,2,76,27,0,2,0,0,0
+1528199,84,46,Goal Kick,Goal kick taken by Chantel Jones,2,76,41,0,2,0,0,0
+1528199,85,19,Shot,Shot taken by Jaelene Hinkle against Jami Kranich,2,77,46,0,2,0,35,57
+1528199,86,46,Goal Kick,Goal kick taken by Jami Kranich,2,79,36,0,2,0,0,0
+1528199,87,16,Offside,Offsides called on Nkem Ezurike,2,81,27,0,2,0,92,38
+1528199,88,20,Shot on Goal,Shot on goal by Jasmyne Spencer,2,83,2,0,2,0,3,45
+1528199,89,5,Corner Kick,Corner kick taken by Becky Edwards,2,83,31,0,2,0,0,70
+1528199,90,19,Shot,Shot taken by Samantha Mewis against Katie Schoepfer,2,83,41,0,2,0,17,34
+1528199,91,8,Foul,Foul called on Kristen Edmonds,2,85,31,0,2,0,81,23
+1528199,92,9,Free Kick,Free kick taken by Bia,2,86,20,0,2,0,81,22
+1528199,93,20,Shot on Goal,Shot on goal by Bia,2,86,21,0,2,0,81,22
+1528199,94,5,Corner Kick,Corner kick taken by Kristie Mewis,2,86,39,0,2,0,105,70
+1528199,95,46,Goal Kick,Goal kick taken by Chantel Jones,2,90,37,0,2,0,0,0
+1528199,96,8,Foul,Foul called on Kristen Edmonds,2,90,48,0,2,0,66,11
+1528199,97,19,Shot,Shot taken by Julie King,2,90,9,1,2,0,95,41
+1528199,98,66,Injury Time,Injury Time-2,2,90,20,1,2,0,0,0
+1528199,99,46,Goal Kick,Goal kick taken by Chantel Jones,2,90,35,1,2,0,0,0
+1528199,100,8,Foul,Foul called on Brittany Taylor,2,90,23,3,2,0,35,54
+1528199,101,13,Half Over,2nd Half ended,2,90,50,3,2,0,0,0
+1528199,102,10,Game Over,Game Over,2,90,50,3,2,0,0,0
+1528200,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528200,2,5,Corner Kick,Corner kick taken by Danielle Colaprico,1,2,13,0,0,0,0,70
+1528200,3,8,Foul,Foul called on Jen Hoy,1,2,50,0,0,0,26,53
+1528200,4,20,Shot on Goal,Shot on goal by Vanessa DiBernardo,1,6,27,0,0,0,8,31
+1528200,5,11,Goal,Vanessa DiBernardo scored a goal assisted by Sofia Huerta,1,6,28,0,1,0,8,31
+1528200,6,19,Shot,Shot taken by Rachel Quon,1,8,0,0,1,0,18,29
+1528200,7,19,Shot,Shot taken by Sofia Huerta,1,9,48,0,1,0,12,44
+1528200,8,19,Shot,Shot taken by Meg Morris,1,10,30,0,1,0,83,20
+1528200,9,8,Foul,Foul called on Meg Morris,1,14,15,0,1,0,77,28
+1528200,10,5,Corner Kick,Corner kick taken by Taylor Lytle,1,16,11,0,1,0,105,0
+1528200,11,20,Shot on Goal,Shot on goal by Nadia Nadim,1,16,46,0,1,0,93,24
+1528200,12,20,Shot on Goal,Shot on goal by Arin Gilliland,1,17,8,0,1,0,26,27
+1528200,13,19,Shot,Shot taken by Maya Hayes against Samantha Johnson,1,19,13,0,1,0,91,46
+1528200,14,19,Shot,Shot taken by Katy Freels,1,21,24,0,1,0,83,50
+1528200,15,20,Shot on Goal,Shot on goal by Jen Hoy,1,24,6,0,1,0,31,25
+1528200,16,8,Foul,Foul called on Vanessa DiBernardo,1,25,13,0,1,0,35,33
+1528200,17,8,Foul,Foul called on Maya Hayes,1,27,50,0,1,0,35,64
+1528200,18,19,Shot,Shot taken by Vanessa DiBernardo against Shawna Gordon,1,28,34,0,1,0,18,49
+1528200,19,19,Shot,Shot taken by Taylor Lytle against Jen Hoy,1,31,50,0,1,0,91,48
+1528200,20,19,Shot,Shot taken by Taylor Lytle against Jen Hoy,1,31,52,0,1,0,90,23
+1528200,21,20,Shot on Goal,Shot on goal by Jen Hoy,1,34,36,0,1,0,8,26
+1528200,22,11,Goal,Jen Hoy scored a goal assisted by Sofia Huerta,1,34,37,0,2,0,8,26
+1528200,23,19,Shot,Shot taken by Maya Hayes,1,37,7,0,2,0,78,51
+1528200,24,8,Foul,Foul called on Jen Hoy,1,37,20,0,2,0,35,9
+1528200,25,5,Corner Kick,Corner kick taken by Danielle Colaprico,1,42,17,0,2,0,0,70
+1528200,26,8,Foul,Foul called on Sofia Huerta,1,42,33,0,2,0,38,47
+1528200,27,5,Corner Kick,Corner kick taken by Vanessa DiBernardo,1,45,33,2,2,0,0,70
+1528200,28,13,Half Over,1st Half ended,1,45,1,3,2,0,0,0
+1528200,29,21,Start Half,2nd Half started,2,46,0,0,2,0,0,0
+1528200,30,22,Substitution,Nikki Stanton substituted in for Meg Morris,2,46,0,0,2,0,0,0
+1528200,31,8,Foul,Foul called on Nikki Stanton,2,48,2,0,2,0,41,22
+1528200,32,20,Shot on Goal,Shot on goal by Nadia Nadim,2,50,25,0,2,0,15,28
+1528200,33,16,Offside,Offsides called on Shawna Gordon,2,50,51,0,2,0,2,63
+1528200,34,8,Foul,Foul called on Abby Erceg,2,54,4,0,2,0,41,52
+1528200,35,8,Foul,Foul called on Cami Levin,2,54,51,0,2,0,75,54
+1528200,36,5,Corner Kick,Corner kick taken by Danielle Colaprico,2,57,21,0,2,0,0,70
+1528200,37,16,Offside,Offsides called on Nadia Nadim,2,58,29,0,2,0,28,38
+1528200,38,19,Shot,Shot taken by Taylor Lytle,2,61,45,0,2,0,32,18
+1528200,39,20,Shot on Goal,Shot on goal by Alyssa Mautz,2,62,32,0,2,0,92,33
+1528200,40,11,Goal,Alyssa Mautz scored a goal assisted by Jen Hoy,2,62,33,0,3,0,92,33
+1528200,41,8,Foul,Foul called on Lindsi Cutshall,2,64,4,0,3,0,49,59
+1528200,42,19,Shot,Shot taken by Arin Gilliland,2,65,38,0,3,0,63,22
+1528200,43,20,Shot on Goal,Shot on goal by Taylor Lytle,2,66,44,0,3,0,28,13
+1528200,44,8,Foul,Foul called on Nadia Nadim,2,69,19,0,3,0,69,27
+1528200,45,19,Shot,Shot taken by Danielle Colaprico,2,70,1,0,3,0,67,27
+1528200,46,22,Substitution,Shade Pratt substituted in for Maya Hayes,2,70,20,0,3,0,0,0
+1528200,47,19,Shot,Shot taken by Danielle Colaprico against Brittany Cameron,2,72,31,0,3,0,78,25
+1528200,48,8,Foul,Foul called on Taryn Hemmings,2,73,11,0,3,0,25,55
+1528200,49,19,Shot,Shot taken by Arin Gilliland,2,75,5,0,3,0,92,24
+1528200,50,22,Substitution,CoCo Goodson substituted in for Shawna Gordon,2,75,23,0,3,0,0,0
+1528200,51,5,Corner Kick,Corner kick taken by Vanessa DiBernardo,2,80,6,0,3,0,0,0
+1528200,52,8,Foul,Foul called on Nikki Stanton,2,80,54,0,3,0,77,5
+1528200,53,5,Corner Kick,Corner kick taken by Danielle Colaprico,2,81,54,0,3,0,0,70
+1528200,54,8,Foul,Foul called on Taryn Hemmings,2,82,4,0,3,0,102,37
+1528200,55,20,Shot on Goal,Shot on goal by Rachel Quon,2,82,43,0,3,0,96,29
+1528200,56,20,Shot on Goal,Shot on goal by Sofia Huerta,2,82,54,0,3,0,95,34
+1528200,57,19,Shot,Shot taken by Taryn Hemmings,2,83,46,0,3,0,82,27
+1528200,58,19,Shot,Shot taken by Taylor Lytle,2,85,19,0,3,0,23,42
+1528200,59,22,Substitution,Michelle Lomnicki substituted in for Rachel Quon,2,88,28,0,3,0,0,0
+1528200,60,22,Substitution,Cara Walls substituted in for Jen Hoy,2,90,41,0,3,0,0,0
+1528200,61,5,Corner Kick,Corner kick taken by Katy Freels,2,90,22,2,3,0,105,70
+1528200,62,19,Shot,Shot taken by Nadia Nadim,2,90,28,2,3,0,18,24
+1528200,63,19,Shot,Shot taken by Hayley Haagsma,2,90,56,2,3,0,21,23
+1528200,64,8,Foul,Foul called on Shade Pratt,2,90,16,3,3,0,70,17
+1528200,65,13,Half Over,2nd Half ended,2,90,16,4,3,0,0,0
+1528200,66,10,Game Over,Game Over,2,90,16,4,3,0,0,0
+1528201,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528201,2,5,Corner Kick,Corner kick taken by Becky Edwards,1,7,57,0,0,0,0,70
+1528201,3,19,Shot,Shot taken by Jaelene Hinkle,1,8,56,0,0,0,0,0
+1528201,4,5,Corner Kick,Corner kick taken by Becky Edwards,1,10,8,0,0,0,0,70
+1528201,5,19,Shot,Shot taken by Abby Dahlkemper against Haley Kopmeyer,1,10,9,0,0,0,0,0
+1528201,6,8,Foul,Foul called on Samantha Mewis,1,12,36,0,0,0,0,0
+1528201,7,8,Foul,Foul called on Ashley Nick,1,13,35,0,0,0,0,0
+1528201,8,19,Shot,Shot taken by Amanda Frisbie,1,15,2,0,0,0,0,0
+1528201,9,8,Foul,Foul called on Ashley Nick,1,16,50,0,0,0,0,0
+1528201,10,5,Corner Kick,Corner kick taken by Becky Edwards,1,20,51,0,0,0,0,70
+1528201,11,19,Shot,Shot taken by Jaelene Hinkle,1,21,33,0,0,0,0,0
+1528201,12,6,Cross,Cross by Amanda Frisbie,1,22,12,0,0,0,0,0
+1528201,13,20,Shot on Goal,Shot on goal by Becky Edwards,1,22,13,0,0,0,0,0
+1528201,14,20,Shot on Goal,Shot on goal by Brittany Taylor,1,29,7,0,0,0,0,0
+1528201,15,16,Offside,Offsides called on Jessica Fishlock,1,30,28,0,0,0,0,0
+1528201,16,6,Cross,Cross by Elizabeth Eddy,1,31,20,0,0,0,0,0
+1528201,17,19,Shot,Shot taken by Samantha Mewis,1,31,21,0,0,0,0,0
+1528201,18,8,Foul,Foul called on Danielle Foxhoven,1,32,2,0,0,0,0,0
+1528201,19,5,Corner Kick,Corner kick taken by Stephanie Cox,1,37,2,0,0,0,105,70
+1528201,20,5,Corner Kick,Corner kick taken by Becky Edwards,1,39,40,0,0,0,0,70
+1528201,21,20,Shot on Goal,Shot on goal by Samantha Mewis,1,39,41,0,0,0,0,0
+1528201,22,5,Corner Kick,Corner kick taken by Becky Edwards,1,40,42,0,0,0,0,70
+1528201,23,20,Shot on Goal,Shot on goal by Elizabeth Eddy,1,41,6,0,0,0,0,0
+1528201,24,8,Foul,Foul called on Jaelene Hinkle,1,41,30,0,0,0,0,0
+1528201,25,19,Shot,Shot taken by Lynn Williams,1,43,42,0,0,0,0,0
+1528201,26,13,Half Over,1st Half ended,1,45,2,2,0,0,0,0
+1528201,27,21,Start Half,2nd Half started,2,46,0,0,0,0,0,0
+1528201,28,8,Foul,Foul called on Jasmyne Spencer,2,52,10,0,0,0,0,0
+1528201,29,19,Shot,Shot taken by Lynn Williams,2,53,19,0,0,0,0,0
+1528201,30,8,Foul,Foul called on Abby Dahlkemper,2,54,57,0,0,0,0,0
+1528201,31,9,Free Kick,Free kick,2,55,33,0,0,0,11,35
+1528201,32,20,Shot on Goal,Shot on goal by Kim Little,2,55,33,0,0,0,11,35
+1528201,33,17,Penalty Kick - Good,Penalty kick taken by Kim Little - GOOD,2,55,33,0,1,0,11,35
+1528201,34,19,Shot,Shot taken by Lynn Williams,2,56,29,0,1,0,0,0
+1528201,35,8,Foul,Foul called on Elizabeth Eddy,2,58,12,0,1,0,0,0
+1528201,36,19,Shot,Shot taken by Becky Edwards,2,59,52,0,1,0,0,0
+1528201,37,22,Substitution,Kiersten Dallstream substituted in for Danielle Foxhoven,2,60,52,0,1,0,0,0
+1528201,38,22,Substitution,Ajara Nchout substituted in for Amanda Frisbie,2,63,11,0,1,0,0,0
+1528201,39,20,Shot on Goal,Shot on goal by Samantha Mewis,2,64,27,0,1,0,0,0
+1528201,40,20,Shot on Goal,Shot on goal by Ajara Nchout,2,68,51,0,1,0,0,0
+1528201,41,8,Foul,Foul called on Kiersten Dallstream,2,69,52,0,1,0,0,0
+1528201,42,22,Substitution,Kristen Hamilton substituted in for Ashley Nick,2,71,31,0,1,0,0,0
+1528201,43,22,Substitution,Elli Reed substituted in for Beverly Yanez,2,71,45,0,1,0,0,0
+1528201,44,8,Foul,Foul called on Becky Edwards,2,72,29,0,1,0,0,0
+1528201,45,8,Foul,Foul called on Rachel Corsie,2,73,30,0,1,0,0,0
+1528201,46,8,Foul,Foul called on Kristen Hamilton,2,78,14,0,1,0,0,0
+1528201,47,20,Shot on Goal,Shot on goal by Lynn Williams,2,81,46,0,1,0,0,0
+1528201,48,11,Goal,Lynn Williams scored a goal assisted by Elizabeth Eddy,2,81,47,0,1,1,0,0
+1528201,49,20,Shot on Goal,Shot on goal by Samantha Mewis,2,84,39,0,1,1,0,0
+1528201,50,8,Foul,Foul called on Jasmyne Spencer,2,86,19,0,1,1,0,0
+1528201,51,8,Foul,Foul called on Elizabeth Eddy,2,88,36,0,1,1,0,0
+1528201,52,8,Foul,Foul called on Jessica Fishlock,2,89,38,0,1,1,0,0
+1528201,53,19,Shot,Shot taken by Lynn Williams,2,90,54,0,1,1,0,0
+1528201,54,5,Corner Kick,Corner kick taken by Becky Edwards,2,90,5,1,1,1,105,70
+1528201,55,20,Shot on Goal,Shot on goal by Samantha Mewis,2,90,5,1,1,1,0,0
+1528201,56,8,Foul,Foul called on Mariah Bullock,2,90,15,2,1,1,0,0
+1528201,57,19,Shot,Shot taken by Kristen Hamilton,2,90,5,3,1,1,0,0
+1528201,58,5,Corner Kick,Corner kick taken by Becky Edwards,2,90,17,3,1,1,105,70
+1528201,59,13,Half Over,2nd Half ended,2,90,16,4,1,1,0,0
+1528201,60,10,Game Over,Game Over,2,90,16,4,1,1,0,0
+1528203,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528203,2,19,Shot,Shot taken by Hayley Haagsma,1,2,40,0,0,0,0,0
+1528203,3,8,Foul,Foul called on Caitlin Foord,1,4,32,0,0,0,0,0
+1528203,4,16,Offside,Offsides called on Kaylyn Kyle,1,5,10,0,0,0,0,0
+1528203,5,16,Offside,Offsides called on Ayo Anonma,1,6,25,0,0,0,0,0
+1528203,6,5,Corner Kick,Corner kick taken by Katy Freels,1,9,18,0,0,0,0,70
+1528203,7,16,Offside,Offsides called on Cami Levin,1,11,50,0,0,0,0,0
+1528203,8,8,Foul,Foul called on Sinead Farrelly,1,12,55,0,0,0,0,0
+1528203,9,8,Foul,Foul called on Nikki Stanton,1,14,14,0,0,0,0,0
+1528203,10,5,Corner Kick,Corner kick taken by Katy Freels,1,15,38,0,0,0,0,70
+1528203,11,5,Corner Kick,Corner kick taken by Katy Freels,1,15,56,0,0,0,0,70
+1528203,12,19,Shot,Shot taken by Hayley Haagsma,1,16,28,0,0,0,0,0
+1528203,13,16,Offside,Offsides called on Nadia Nadim,1,16,52,0,0,0,0,0
+1528203,14,8,Foul,Foul called on Kendall Johnson,1,17,0,0,0,0,0,0
+1528203,15,19,Shot,Shot taken by Ayo Anonma,1,17,42,0,0,0,0,0
+1528203,16,16,Offside,Offsides called on Ayo Anonma,1,19,3,0,0,0,0,0
+1528203,17,8,Foul,Foul called on Kristin Grubka,1,24,59,0,0,0,0,0
+1528203,18,19,Shot,Shot taken by Ayo Anonma,1,25,51,0,0,0,0,0
+1528203,19,16,Offside,Offsides called on Katy Freels,1,26,34,0,0,0,0,0
+1528203,20,20,Shot on Goal,Shot on goal by Katy Freels,1,27,17,0,0,0,0,0
+1528203,21,11,Goal,Katy Freels scored a goal assisted by Taylor Lytle,1,27,18,0,1,0,0,0
+1528203,22,8,Foul,Foul called on Meleana Shim,1,29,21,0,1,0,0,0
+1528203,23,19,Shot,Shot taken by Ayo Anonma,1,34,55,0,1,0,0,0
+1528203,24,5,Corner Kick,Corner kick taken by Allie Long,1,35,20,0,1,0,105,0
+1528203,25,16,Offside,Offsides called on Kat Williamson,1,35,50,0,1,0,0,0
+1528203,26,8,Foul,Foul called on Kendall Johnson,1,38,50,0,1,0,0,0
+1528203,27,16,Offside,Offsides called on Shawna Gordon,1,39,27,0,1,0,0,0
+1528203,28,8,Foul,Foul called on Allie Long,1,41,3,0,1,0,0,0
+1528203,29,8,Foul,Foul called on Nadia Nadim,1,42,53,0,1,0,0,0
+1528203,30,19,Shot,Shot taken by Meleana Shim,1,45,50,0,1,0,0,0
+1528203,31,5,Corner Kick,Corner kick taken by Allie Long,1,45,8,1,1,0,105,70
+1528203,32,19,Shot,Shot taken by Ayo Anonma,1,45,26,1,1,0,0,0
+1528203,33,19,Shot,Shot taken by Alyssa Kleiner,1,45,15,2,1,0,0,0
+1528203,34,8,Foul,Foul called on Allie Long,1,45,47,4,1,0,0,0
+1528203,35,13,Half Over,1st Half ended,1,45,5,5,1,0,0,0
+1528203,36,21,Start Half,2nd Half started,2,46,0,0,1,0,0,0
+1528203,37,8,Foul,Foul called on Taylor Lytle,2,46,36,0,1,0,0,0
+1528203,38,19,Shot,Shot taken by Nadia Nadim,2,47,26,0,1,0,0,0
+1528203,39,8,Foul,Foul called on Kendall Johnson,2,52,35,0,1,0,0,0
+1528203,40,16,Offside,Offsides called on Caitlin Foord,2,54,0,0,1,0,0,0
+1528203,41,8,Foul,Foul called on Kaylyn Kyle,2,54,22,0,1,0,0,0
+1528203,42,2,Caution,Yellow card given to Kaylyn Kyle (Reckless Foul),2,54,30,0,1,0,0,0
+1528203,43,8,Foul,Foul called on Nikki Stanton,2,56,7,0,1,0,0,0
+1528203,44,2,Caution,Yellow card given to Nikki Stanton (Reckless Foul),2,56,22,0,1,0,0,0
+1528203,45,8,Foul,Foul called on Allie Long,2,57,47,0,1,0,0,0
+1528203,46,22,Substitution,Hanna Terry substituted in for Meleana Shim,2,60,17,0,1,0,0,0
+1528203,47,5,Corner Kick,Corner kick taken by Allie Long,2,60,33,0,1,0,0,70
+1528203,48,8,Foul,Foul called on Cami Levin,2,61,35,0,1,0,0,0
+1528203,49,20,Shot on Goal,Shot on goal by Allie Long,2,62,3,0,1,0,0,0
+1528203,50,8,Foul,Foul called on Hayley Haagsma,2,62,54,0,1,0,0,0
+1528203,51,19,Shot,Shot taken by Ayo Anonma,2,63,54,0,1,0,0,0
+1528203,52,19,Shot,Shot taken by Kendall Johnson,2,67,9,0,1,0,0,0
+1528203,53,8,Foul,Foul called on Caitlin Foord,2,67,55,0,1,0,0,0
+1528203,54,8,Foul,Foul called on Cami Levin,2,68,17,0,1,0,0,0
+1528203,55,7,Expulsion,Red card given to Cami Levin (Reckless Foul),2,69,27,0,1,0,0,0
+1528203,56,9,Free Kick,Free kick taken by Allie Long,2,70,11,0,1,0,11,35
+1528203,57,20,Shot on Goal,Shot on goal by Allie Long,2,70,11,0,1,0,11,35
+1528203,58,17,Penalty Kick - Good,Penalty kick taken by Allie Long - GOOD,2,70,11,0,1,1,11,35
+1528203,59,20,Shot on Goal,Shot on goal by Allie Long,2,71,53,0,1,1,0,0
+1528203,60,5,Corner Kick,Corner kick taken by Allie Long,2,73,11,0,1,1,0,70
+1528203,61,16,Offside,Offsides called on Kaylyn Kyle,2,73,44,0,1,1,0,0
+1528203,62,19,Shot,Shot taken by Kaylyn Kyle,2,75,37,0,1,1,0,0
+1528203,63,22,Substitution,Sarah Killion substituted in for Shawna Gordon,2,75,49,0,1,1,0,0
+1528203,64,8,Foul,Foul called on Nadia Nadim,2,78,50,0,1,1,0,0
+1528203,65,20,Shot on Goal,Shot on goal by Sinead Farrelly,2,79,2,0,1,1,0,0
+1528203,66,11,Goal,Sinead Farrelly scored a goal assisted by Alyssa Kleiner,2,79,3,0,1,2,0,0
+1528203,67,8,Foul,Foul called on Caitlin Foord,2,80,6,0,1,2,0,0
+1528203,68,2,Caution,Yellow card given to Caitlin Foord (Reckless Foul),2,80,16,0,1,2,0,0
+1528203,69,16,Offside,Offsides called on Hanna Terry,2,81,27,0,1,2,0,0
+1528203,70,20,Shot on Goal,Shot on goal by Nadia Nadim,2,83,7,0,1,2,0,0
+1528203,71,8,Foul,Foul called on Kendall Johnson,2,83,43,0,1,2,0,0
+1528203,72,8,Foul,Foul called on Nadia Nadim,2,84,16,0,1,2,0,0
+1528203,73,5,Corner Kick,Corner kick taken by Katy Freels,2,85,21,0,1,2,105,0
+1528203,74,19,Shot,Shot taken by Hayley Haagsma,2,85,37,0,1,2,0,0
+1528203,75,16,Offside,Offsides called on Ayo Anonma,2,86,11,0,1,2,0,0
+1528203,76,8,Foul,Foul called on Sinead Farrelly,2,87,58,0,1,2,0,0
+1528203,77,22,Substitution,Theresa Diederich substituted in for Nikki Stanton,2,88,13,0,1,2,0,0
+1528203,78,8,Foul,Foul called on Katy Freels,2,89,24,0,1,2,0,0
+1528203,79,22,Substitution,CoCo Goodson substituted in for Kristin Grubka,2,90,42,0,1,2,0,0
+1528203,80,5,Corner Kick,Corner kick taken by Katy Freels,2,90,33,1,1,2,105,0
+1528203,81,20,Shot on Goal,Shot on goal by Caitlin Foord,2,90,8,2,1,2,0,0
+1528203,82,22,Substitution,Taylor Comeau substituted in for Kendall Johnson,2,90,1,4,1,2,0,0
+1528203,83,16,Offside,Offsides called on Nadia Nadim,2,90,17,5,1,2,0,0
+1528203,84,16,Offside,Offsides called on Ayo Anonma,2,90,19,7,1,2,0,0
+1528203,85,8,Foul,Foul called on Hanna Terry,2,90,49,7,1,2,0,0
+1528203,86,8,Foul,Foul called on Kaylyn Kyle,2,90,5,8,1,2,0,0
+1528203,87,20,Shot on Goal,Shot on goal by Katy Freels,2,90,18,9,1,2,0,0
+1528203,88,13,Half Over,2nd Half ended,2,90,39,9,1,2,0,0
+1528203,89,10,Game Over,Game Over,2,90,39,9,1,2,0,0
+1528202,1,21,Start Half,1st Half started,1,1,0,0,0,0,0,0
+1528202,2,16,Offside,Offsides called on Crystal Dunn,1,2,23,0,0,0,72,31
+1528202,3,8,Foul,Foul called on Liz Bogus,1,6,11,0,0,0,24,42
+1528202,4,5,Corner Kick,Corner kick taken by Erika Tymrak,1,7,46,0,0,0,0,70
+1528202,5,5,Corner Kick,Corner kick taken by Erika Tymrak,1,8,22,0,0,0,0,70
+1528202,6,46,Goal Kick,Goal kick taken by Kelsey Wys,1,8,46,0,0,0,0,0
+1528202,7,8,Foul,Foul called on Leigh Ann Robinson,1,10,1,0,0,0,34,32
+1528202,8,5,Corner Kick,Corner kick taken by Christine Nairn,1,10,13,0,0,0,105,0
+1528202,9,5,Corner Kick,Corner kick taken by Christine Nairn,1,13,7,0,0,0,105,70
+1528202,10,46,Goal Kick,Goal kick taken by Kelsey Wys,1,15,57,0,0,0,0,0
+1528202,11,8,Foul,Foul called on Angela Salem,1,17,22,0,0,0,41,47
+1528202,12,19,Shot,Shot taken by Laura del Rio,1,20,44,0,0,0,94,15
+1528202,13,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,21,3,0,0,0,0,0
+1528202,14,8,Foul,Foul called on Erika Tymrak,1,22,20,0,0,0,12,60
+1528202,15,20,Shot on Goal,Shot on goal by Sarah Hagen,1,24,1,0,0,0,9,50
+1528202,16,19,Shot,Shot taken by Crystal Dunn,1,24,32,0,0,0,89,55
+1528202,17,8,Foul,Foul called on Shea Groom,1,25,15,0,0,0,28,27
+1528202,18,8,Foul,Foul called on Estelle Johnson,1,26,23,0,0,0,21,46
+1528202,19,2,Caution,Yellow card given to Estelle Johnson (Reckless Foul),1,26,34,0,0,0,0,0
+1528202,20,9,Free Kick,Free kick taken by Yael Averbuch,1,27,21,0,0,0,23,46
+1528202,21,20,Shot on Goal,Shot on goal by Yael Averbuch,1,27,23,0,0,0,23,46
+1528202,22,11,Goal,Yael Averbuch scored a goal,1,27,23,0,0,1,23,46
+1528202,23,20,Shot on Goal,Shot on goal by Joanna Lohman,1,28,33,0,0,1,91,25
+1528202,24,20,Shot on Goal,Shot on goal by Sarah Hagen,1,30,53,0,0,1,22,23
+1528202,25,20,Shot on Goal,Shot on goal by Sarah Hagen,1,32,37,0,0,1,21,18
+1528202,26,22,Substitution,Frances Silva substituted in for Sarah Hagen,1,36,5,0,0,1,0,0
+1528202,27,19,Shot,Shot taken by Joanna Lohman,1,37,4,0,0,1,101,45
+1528202,28,46,Goal Kick,Goal kick taken by Nicole Barnhart,1,37,17,0,0,1,0,0
+1528202,29,8,Foul,Foul called on Crystal Dunn,1,39,7,0,0,1,73,50
+1528202,30,5,Corner Kick,Corner kick taken by Leigh Ann Robinson,1,39,44,0,0,1,0,0
+1528202,31,46,Goal Kick,Goal kick taken by Kelsey Wys,1,40,39,0,0,1,0,0
+1528202,32,8,Foul,Foul called on Tori Huster,1,42,28,0,0,1,31,33
+1528202,33,46,Goal Kick,Goal kick taken by Kelsey Wys,1,43,18,0,0,1,0,0
+1528202,34,16,Offside,Offsides called on Joanna Lohman,1,44,54,0,0,1,82,16
+1528202,35,13,Half Over,1st Half ended,1,45,20,2,0,1,0,0
+1528202,36,22,Substitution,Caprice Dydasco substituted in for Angela Salem,2,46,0,0,0,1,0,0
+1528202,37,21,Start Half,2nd Half started,2,46,0,0,0,1,0,0
+1528202,38,46,Goal Kick,Goal kick taken by Kelsey Wys,2,47,52,0,0,1,0,0
+1528202,39,8,Foul,Foul called on Jen Buczkowski,2,50,25,0,0,1,37,20
+1528202,40,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,51,25,0,0,1,0,0
+1528202,41,20,Shot on Goal,Shot on goal by Shea Groom,2,53,48,0,0,1,99,35
+1528202,42,11,Goal,Shea Groom scored a goal assisted by Frances Silva,2,53,49,0,0,2,99,35
+1528202,43,16,Offside,Offsides called on Frances Silva,2,55,30,0,0,2,80,32
+1528202,44,20,Shot on Goal,Shot on goal by Crystal Dunn,2,56,16,0,0,2,11,35
+1528202,45,5,Corner Kick,Corner kick taken by Christine Nairn,2,56,40,0,0,2,0,0
+1528202,46,5,Corner Kick,Corner kick taken by Christine Nairn,2,57,8,0,0,2,0,70
+1528202,47,19,Shot,Shot taken by Crystal Dunn,2,57,40,0,0,2,22,30
+1528202,48,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,57,47,0,0,2,0,0
+1528202,49,46,Goal Kick,Goal kick taken by Kelsey Wys,2,62,11,0,0,2,0,0
+1528202,50,8,Foul,Foul called on Erika Tymrak,2,63,8,0,0,2,41,46
+1528202,51,22,Substitution,Tiffany Weimer substituted in for Laura del Rio,2,63,55,0,0,2,0,0
+1528202,52,22,Substitution,Hayley Raso substituted in for Amanda Da Costa,2,64,10,0,0,2,0,0
+1528202,53,20,Shot on Goal,Shot on goal by Liz Bogus,2,65,47,0,0,2,97,34
+1528202,54,11,Goal,Liz Bogus scored a goal assisted by Leigh Ann Robinson,2,65,48,0,0,3,97,34
+1528202,55,16,Offside,Offsides called on Crystal Dunn,2,67,54,0,0,3,30,37
+1528202,56,16,Offside,Offsides called on Shea Groom,2,68,41,0,0,3,77,36
+1528202,57,8,Foul,Foul called on Liz Bogus,2,69,13,0,0,3,39,12
+1528202,58,22,Substitution,Caroline Kastor substituted in for Shea Groom,2,70,10,0,0,3,0,0
+1528202,59,5,Corner Kick,Corner kick taken by Erika Tymrak,2,73,42,0,0,3,105,0
+1528202,60,46,Goal Kick,Goal kick taken by Kelsey Wys,2,74,2,0,0,3,0,0
+1528202,61,19,Shot,Shot taken by Hayley Raso,2,75,25,0,0,3,24,34
+1528202,62,19,Shot,Shot taken by Hayley Raso,2,76,21,0,0,3,29,40
+1528202,63,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,76,31,0,0,3,0,0
+1528202,64,20,Shot on Goal,Shot on goal by Crystal Dunn,2,76,41,0,0,3,10,43
+1528202,65,5,Corner Kick,Corner kick taken by Christine Nairn,2,77,53,0,0,3,0,70
+1528202,66,5,Corner Kick,Corner kick taken by Christine Nairn,2,78,17,0,0,3,0,70
+1528202,67,16,Offside,Offsides called on Tiffany Weimer,2,79,32,0,0,3,30,44
+1528202,68,19,Shot,Shot taken by Crystal Dunn,2,84,47,0,0,3,22,35
+1528202,69,22,Substitution,Kaysie Clark substituted in for Liz Bogus,2,84,54,0,0,3,0,0
+1528202,70,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,86,20,0,0,3,0,0
+1528202,71,20,Shot on Goal,Shot on goal by Tori Huster,2,88,35,0,0,3,13,35
+1528202,72,46,Goal Kick,Goal kick taken by Nicole Barnhart,2,89,5,0,0,3,0,0
+1528202,73,8,Foul,Foul called on Tori Huster,2,90,37,0,0,3,64,53
+1528202,74,8,Foul,Foul called on Erika Tymrak,2,90,55,2,0,3,55,24
+1528202,75,13,Half Over,2nd Half ended,2,90,32,3,0,3,0,0
+1528202,76,10,Game Over,Game Over,2,90,32,3,0,3,0,0

@@ -15,6 +15,7 @@ class Tasks
     Rosters.create_table
     Players.create_table
     Games.create_table
+    Events.create_table
   end
 
   def self.load_info
@@ -22,6 +23,7 @@ class Tasks
     Rosters.load_table
     Players.load_table
     Games.load_table
+    Events.load_table
   end
 
   def self.get_hashes
@@ -38,5 +40,6 @@ class Tasks
     Players.dump_table
     Rosters.dump_table
     Teams.dump_table
+    Events.dump_table
   end
 end
