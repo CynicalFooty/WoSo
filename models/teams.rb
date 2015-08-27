@@ -1,10 +1,6 @@
 DB ||= Utils.open_db
 class Teams < Sequel::Model
 
-  def self.hash
-    return DB[:teams]
-  end
-
   def self.dump_table
     Utils.table_to_csv("teams")
   end

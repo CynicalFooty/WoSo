@@ -26,14 +26,6 @@ class Tasks
     Events.load_table
   end
 
-  def self.get_hashes
-    return {
-      teams: Teams.hash,
-      players: Players.hash,
-      games: Games.hash
-    }
-  end
-
   def self.dump_info
     #dump backup info to csv
     Games.dump_table

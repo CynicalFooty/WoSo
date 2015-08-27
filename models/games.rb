@@ -3,10 +3,6 @@ require 'csv'
 DB ||= Utils.open_db
 class Games < Sequel::Model
 
-  def self.hash
-    return DB[:games]
-  end
-
   def self.dump_table
     Utils.table_to_csv("games")
   end

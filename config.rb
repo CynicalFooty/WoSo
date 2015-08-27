@@ -17,34 +17,37 @@ set :images_dir, './images'
 Tasks.load_schema
 Tasks.load_info
 Tasks.dump_info
-build_hash = Tasks.get_hashes
 
-build_hash[:teams].each do |team|
+teams = Teams.all
+teams.each do |team|
   roster= Rosters.hash(team[:id])
   players = roster.map { |r| Players.find(id: r[:player_id]) }
   proxy "/teams/#{team[:alias].downcase}/index.html", "/models/teams/single.html",
         :locals => { :team_info => team, :roster => players }, :ignore => true
 end
 proxy '/teams/index.html', '/models/teams/list.html',
-      :locals => { :teams => build_hash[:teams]}, :ignore => true
+      :locals => { :teams => teams}, :ignore => true
 
-build_hash[:players].each do |player|
+players = Players.all
+players.each do |player|
   proxy "/players/#{player[:url_name]}/index.html", "/models/players/single.html",
         :locals => { :player => player }, :ignore => true
 end
 proxy '/players/index.html', '/models/players/list.html',
-      :locals => { :players => build_hash[:players]}, :ignore => true
+      :locals => { :players => players}, :ignore => true
 
-build_hash[:games].each do |game|
+games = Games.all
+games.each do |game|
   proxy "/games/NWSL#{game[:id]}/index.html", "/models/games/single.html",
         :locals => { :game => game }, :ignore => true
   proxy "/games/NWSL#{game[:id]}/stats/index.html", "/models/games/stats.html",
         :locals => { :game => game }, :ignore => true
+  events = Events.where(:game_id => game.id)
   proxy "/games/NWSL#{game[:id]}/pbp/index.html", "/models/games/pbp.html",
-        :locals => { :game => game }, :ignore => true
+        :locals => { :game => game, :events => events }, :ignore => true
 end
 proxy '/games/index.html', '/models/games/list.html',
-      :locals => { :games => build_hash[:games]}, :ignore => true
+      :locals => { :games => games}, :ignore => true
 
 activate :deploy do |deploy|
   deploy.build_before = true # default: false

@@ -1,3 +1,5 @@
+
+
 <div class="h5 mxn1">
   <a href="../../../" title="Home" class="btn compact btn-link p1">Home</a>
   <span class="">
@@ -17,13 +19,50 @@
 </div>
 
 <div>
-  <h1><%= game[:home] %> vs <%= game[:away] %></h1>
+  <h1><%= game[:home] %> vs <%= game[:away] %>Play By Play</h1>
   <p>Week <%= game[:week] %> : <%= game[:date] %></p>
-
-  <h2>Play By Play</h2>
   <p>
-    First Half: <%= game[:first_half_start] %></br>
-    Second Half: <%= game[:second_half_start] %></br>
+    First Half: <%= game[:first_half_start] %> -
+    Second Half: <%= game[:second_half_start] %> -
     Video URL: <%= game[:video_embed_url] %>
   </p>
+</div>
+
+<div>
+  <table class="gridtable">
+    <thead>
+      <tr>
+        <th>Time</th>
+        <th>Team</th>
+        <th>Play</th>
+      </tr>
+    </thead>
+    <% events.each do |event| %>
+      <% if event[:half] ==1 %>
+        <tr>
+          <td>
+            <button type="button" onclick="seek(<%= "#{event[:half]},#{event[:seconds]}" %>)">
+              <%= event[:button_text]%>
+            </button>
+          </td>
+          <td><%= event[:team_alias] %></td>
+          <td><%= event[:text]%></td>
+        </tr>
+      <% end %>
+    <% end %>
+    <tr><td>---</td></tr>
+    <% events.each do |event| %>
+      <% if event[:half] == 2 %>
+        <tr>
+          <td>
+            <button type="button" onclick="seek(<%= "#{event[:half]},#{event[:seconds]}" %>)">
+              <%= event[:button_text]%>
+            </button>
+          </td>
+          <td><%= event[:team_alias] %></td>
+          <td><%= event[:text]%></td>
+        </tr>
+      <% end %>
+    <% end %>
+  </table>
 </div>
