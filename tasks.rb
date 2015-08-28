@@ -12,26 +12,29 @@ class Tasks
 
   def self.load_schema
     Teams.create_table
-    Rosters.create_table
     Players.create_table
     Games.create_table
+
+    Rosters.create_table
     Events.create_table
   end
 
   def self.load_info
     Teams.load_table
-    Rosters.load_table
     Players.load_table
     Games.load_table
+
+    Rosters.load_table
     Events.load_table
   end
 
   def self.dump_info
     #dump backup info to csv
-    Games.dump_table
+    Teams.dump_table    
     Players.dump_table
+    Games.dump_table
+
     Rosters.dump_table
-    Teams.dump_table
     Events.dump_table
   end
 end

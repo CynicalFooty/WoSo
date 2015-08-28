@@ -34,7 +34,9 @@
       <tr>
         <th>Time</th>
         <th>Team</th>
-        <th>Play</th>
+        <th>Event</th>
+        <th>OFF Player</th>
+        <th>DEF Player</th>
       </tr>
     </thead>
     <% events.each do |event| %>
@@ -46,7 +48,9 @@
             </button>
           </td>
           <td><%= event[:team_alias] %></td>
-          <td><%= event[:text]%></td>
+          <td><%= event[:event_text] %></td>
+          <td><%= event[:off_player] %></td>
+          <td><%= event[:def_player] %></td>
         </tr>
       <% end %>
     <% end %>
