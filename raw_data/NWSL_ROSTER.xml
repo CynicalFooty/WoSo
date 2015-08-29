@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sports-statistics>
   <sports-roster>
-    <date year="2015" month="8" date="2" day="7"/>
-    <time hour="16" minute="22" second="51" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <date year="2015" month="8" date="28" day="5"/>
+    <time hour="18" minute="14" second="19" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
     <version number="4"/>
     <league global-id="513" name="National Womens Soccer League" alias="NWSL" display-name=""/>
     <season year="2015" id="1" description="2015 NWSL Season"/>
@@ -1189,6 +1189,17 @@
           <nationality id="1" name="United States"/>
         </ifb-roster-player>
         <ifb-roster-player>
+          <name first-name="Chelsea" last-name="Stewart" shirt-name="" full-first="Chelsea Blaine" full-last="Stewart"/>
+          <player-position id="4" english="Defender" spanish="Defensa"/>
+          <player-number number="19"/>
+          <player-code global-id="598362" id="111195"/>
+          <height inches="65" meters="1.65"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1990" month="4" date="28"/>
+          <birth-loc city="Denver" city-id="" state="Colorado" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
           <name first-name="Brittany" last-name="Taylor" shirt-name="" full-first="Brittany" full-last="Taylor"/>
           <player-position id="4" english="Defender" spanish="Defensa"/>
           <player-number number="13"/>
@@ -1246,17 +1257,6 @@
           <birth-date year="1989" month="4" date="19"/>
           <birth-loc city="Kuso" city-id="" state="" country="Equatorial Guinea" spanish_country="Guinea Ecuatorial" birth_country_id="222"/>
           <nationality id="222" name="Equatorial Guinea"/>
-        </ifb-roster-player>
-        <ifb-roster-player>
-          <name first-name="Kate" last-name="Bennett" shirt-name="" full-first="Kate" full-last="Bennett"/>
-          <player-position id="3" english="Midfielder" spanish="Medio"/>
-          <player-number number="23"/>
-          <player-code global-id="870507" id="160814"/>
-          <height inches="64" meters=""/>
-          <weight pounds="" kg=""/>
-          <birth-date year="" month="" date=""/>
-          <birth-loc city="Bellevue" city-id="570" state="Washington" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
-          <nationality id="1" name="United States"/>
         </ifb-roster-player>
         <ifb-roster-player>
           <name first-name="Michelle" last-name="Betos" shirt-name="" full-first="Michelle" full-last="Betos"/>
@@ -1444,6 +1444,17 @@
           <birth-date year="1992" month="7" date="30"/>
           <birth-loc city="Montreal" city-id="" state="Quebec" country="Canada" spanish_country="Canadá" birth_country_id="2"/>
           <nationality id="2" name="Canada"/>
+        </ifb-roster-player>
+        <ifb-roster-player>
+          <name first-name="Lianne" last-name="Sanderson" shirt-name="" full-first="Lianne Joan" full-last="Sanderson"/>
+          <player-position id="2" english="Forward" spanish="Delantero"/>
+          <player-number number="23"/>
+          <player-code global-id="540988" id="99023"/>
+          <height inches="66" meters="1.68"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1988" month="2" date="3"/>
+          <birth-loc city="Watford" city-id="" state="Herefordshire" country="England" spanish_country="Inglaterra" birth_country_id="20"/>
+          <nationality id="20" name="England"/>
         </ifb-roster-player>
         <ifb-roster-player>
           <name first-name="Meleana" last-name="Shim" shirt-name="" full-first="Meleana" full-last="Shim"/>
@@ -2081,6 +2092,17 @@
           <nationality id="1" name="United States"/>
         </ifb-roster-player>
         <ifb-roster-player>
+          <name first-name="Kati Jo" last-name="Spisak" shirt-name="" full-first="Kati Jo" full-last="Spisak"/>
+          <player-position id="1" english="Goalkeeper" spanish="Portero"/>
+          <player-number number="66"/>
+          <player-code global-id="490931" id="135467"/>
+          <height inches="74" meters="1.88"/>
+          <weight pounds="" kg=""/>
+          <birth-date year="1983" month="11" date="23"/>
+          <birth-loc city="St. Louis" city-id="159" state="Missouri" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
+          <nationality id="" name=""/>
+        </ifb-roster-player>
+        <ifb-roster-player>
           <name first-name="Tiffany" last-name="Weimer" shirt-name="" full-first="Tiffany Marie" full-last="Weimer"/>
           <player-position id="2" english="Forward" spanish="Delantero"/>
           <player-number number="16"/>
@@ -2373,17 +2395,6 @@
           <birth-date year="1995" month="5" date="1"/>
           <birth-loc city="Roque Gonzales" city-id="" state="" country="Brazil" spanish_country="Brasil" birth_country_id="47"/>
           <nationality id="47" name="Brazil"/>
-        </ifb-roster-player>
-        <ifb-roster-player>
-          <name first-name="Jazmyne" last-name="Avant" shirt-name="" full-first="Jazmyne" full-last="Avant"/>
-          <player-position id="4" english="Defender" spanish="Defensa"/>
-          <player-number number="5"/>
-          <player-code global-id="732018" id="135590"/>
-          <height inches="63" meters="1.6"/>
-          <weight pounds="" kg=""/>
-          <birth-date year="1990" month="1" date="30"/>
-          <birth-loc city="Dallas" city-id="" state="Texas" country="United States" spanish_country="Estados Unidos" birth_country_id="1"/>
-          <nationality id="1" name="United States"/>
         </ifb-roster-player>
         <ifb-roster-player>
           <name first-name="Rachael" last-name="Axon" shirt-name="" full-first="Rachael" full-last="Axon"/>

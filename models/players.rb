@@ -18,7 +18,6 @@ class Players < Sequel::Model
 
   def self.load_table
     Utils.csv_to_table("players")
-
     parser = Nori.new
 
     roster_info = File.read(NWSL[:file_path]+NWSL[:roster][:file_name])
@@ -33,7 +32,7 @@ class Players < Sequel::Model
         url_name = full_name.gsub(/[^0-9a-z]/i, '').downcase
         player_sql = "INSERT or IGNORE INTO players
           (id, first_name, last_name, full_name, url_name, country)
-        VALUES
+          VALUES
           (#{player['player_code']['@global_id']}, '#{first_name}',
           '#{last_name}', '#{full_name}', '#{url_name}',
           '#{player['nationality']['@name']}'

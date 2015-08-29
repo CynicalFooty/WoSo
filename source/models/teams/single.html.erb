@@ -19,7 +19,7 @@
   <br>Year Founded: <%= team_info[:year] %></p>
 
   <h2>Roster</h2>
-  <table>
+  <table class="table-light overflow-hidden bg-white border rounded">
     <thead>
       <th>Name</th>
       <th>Country<th>
@@ -34,7 +34,7 @@
     <tbody>
     <tfoot>
       <tr>
-        <td>Total:</td>
+        <td><strong>Total Players<strong></td>
         <td><%= roster.count %></td>
       </tr>
     </tfoot>

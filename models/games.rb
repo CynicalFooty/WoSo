@@ -12,7 +12,7 @@ class Games < Sequel::Model
       primary_key :id
       String      :home
       String      :away
-      String      :week
+      Integer     :week
       String      :date
       Integer     :first_half_start
       Integer     :second_half_start
@@ -43,7 +43,7 @@ class Games < Sequel::Model
       id = game['gamecode']['@global_code']
       game_sql = "INSERT or IGNORE INTO games
       (id, home, away, week, date)
-      VALUES (#{id}, '#{home}', '#{away}', '#{week}', '#{date}')"
+      VALUES (#{id}, '#{home}', '#{away}', #{week}, '#{date}')"
       DB.run(game_sql)
     end
   end

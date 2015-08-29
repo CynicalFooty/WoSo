@@ -1,5 +1,3 @@
-
-
 <div class="h5 mxn1">
   <a href="../../../" title="Home" class="btn compact btn-link p1">Home</a>
   <span class="">
@@ -19,52 +17,68 @@
 </div>
 
 <div>
-  <h1><%= game[:home] %> vs <%= game[:away] %>Play By Play</h1>
-  <p>Week <%= game[:week] %> : <%= game[:date] %></p>
+  <h1><%= game[:home] %> vs <%= game[:away] %> - Play By Play</h1>
+  <p>Week <%= game[:week] %> / <%= game[:date] %></p>
   <p>
-    First Half: <%= game[:first_half_start] %> -
-    Second Half: <%= game[:second_half_start] %> -
+    First Half: <%= game[:first_half_start] %> /
+    Second Half: <%= game[:second_half_start] %> /
     Video URL: <%= game[:video_embed_url] %>
   </p>
 </div>
 
 <div>
-  <table class="gridtable">
+  <table class="table-light overflow-hidden bg-white border rounded">
     <thead>
       <tr>
         <th>Time</th>
         <th>Team</th>
         <th>Event</th>
-        <th>OFF Player</th>
-        <th>DEF Player</th>
+        <th>Players</th>
       </tr>
     </thead>
     <% events.each do |event| %>
       <% if event[:half] ==1 %>
-        <tr>
-          <td>
-            <button type="button" onclick="seek(<%= "#{event[:half]},#{event[:seconds]}" %>)">
-              <%= event[:button_text]%>
-            </button>
-          </td>
+        <tr onclick="seek(<%= "#{event[:half]},#{event[:seconds]}" %>)"
+          style = "cursor: pointer;"
+          onMouseOver="this.style.backgroundColor='silver'"
+          onMouseOut="this.style.backgroundColor='transparent'" >
+          <td><%= event[:button_text]%></td>
           <td><%= event[:team_alias] %></td>
           <td><%= event[:event_text] %></td>
-          <td><%= event[:off_player] %></td>
-          <td><%= event[:def_player] %></td>
+          <td>
+            <% if event[:off_player_name] != "" %>
+              OFF: <%= event[:off_player_name] %><br>
+            <% end %>
+            <% if event[:def_player_name] != "" %>
+              DEF: <%= event[:def_player_name] %><br>
+            <% end %>
+            <% if event[:ast_player_name] != "" %>
+              AST: <%= event[:ast_player_name] %>
+            <% end %>
+          </td>
         </tr>
       <% end %>
     <% end %>
-    <tr><td>---</td></tr>
     <% events.each do |event| %>
       <% if event[:half] == 2 %>
-        <tr>
-          <td>
-            <button type="button" onclick="seek(<%= "#{event[:half]},#{event[:seconds]}" %>)">
-              <%= event[:button_text]%>
-            </button>
-          </td>
+        <tr onclick="seek(<%= "#{event[:half]},#{event[:seconds]}" %>)"
+          style = "cursor: pointer;"
+          onMouseOver="this.style.backgroundColor='silver'"
+          onMouseOut="this.style.backgroundColor='transparent'" >
+          <td><%= event[:button_text]%></td>
           <td><%= event[:team_alias] %></td>
-          <td><%= event[:text]%></td>
+          <td><%= event[:event_text] %></td>
+          <td>
+            <% if event[:off_player_name] != "" %>
+              OFF: <%= event[:off_player_name] %><br>
+            <% end %>
+            <% if event[:def_player_name] != "" %>
+              DEF: <%= event[:def_player_name] %><br>
+            <% end %>
+            <% if event[:ast_player_name] != "" %>
+              AST: <%= event[:ast_player_name] %>
+            <% end %>
+          </td>
         </tr>
       <% end %>
     <% end %>

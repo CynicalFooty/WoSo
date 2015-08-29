@@ -13,6 +13,8 @@ set :css_dir, './stylesheets'
 set :js_dir, './javascripts'
 set :images_dir, './images'
 
+#Tasks.download_nwsl
+
 #Setup Info
 Tasks.load_schema
 Tasks.load_info
@@ -36,7 +38,7 @@ end
 proxy '/players/index.html', '/models/players/list.html',
       :locals => { :players => players}, :ignore => true
 
-games = Games.all
+games = Games.order(:week)
 games.each do |game|
   proxy "/games/NWSL#{game[:id]}/index.html", "/models/games/single.html",
         :locals => { :game => game }, :ignore => true
