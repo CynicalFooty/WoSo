@@ -35,6 +35,7 @@ id,first_name,last_name,full_name,url_name,country
 490485,Leigh Ann,Robinson,Leigh Ann Robinson,leighannrobinson,United States
 490488,Lauren,Sesselmann,Lauren Sesselmann,laurensesselmann,Canada
 490490,McCall,Zerboni,McCall Zerboni,mccallzerboni,United States
+490931,Kati Jo,Spisak,Kati Jo Spisak,katijospisak,""
 490933,Brittany,Cameron,Brittany Cameron,brittanycameron,United States
 490937,Ashley,Nick,Ashley Nick,ashleynick,United States
 490941,Mele,French,Mele French,melefrench,""
@@ -56,6 +57,7 @@ id,first_name,last_name,full_name,url_name,country
 537281,Katherine,Reynolds,Katherine Reynolds,katherinereynolds,United States
 537314,Taryn,Hemmings,Taryn Hemmings,tarynhemmings,United States
 540985,Laura,del Rio,Laura del Rio,lauradelrio,Spain
+540988,Lianne,Sanderson,Lianne Sanderson,liannesanderson,England
 540989,Monica,Ocampo,Monica Ocampo,monicaocampo,Mexico
 542220,Angela,Salem,Angela Salem,angelasalem,United States
 543506,Robyn,Horner,Robyn Horner,robynhorner,""
@@ -75,6 +77,7 @@ id,first_name,last_name,full_name,url_name,country
 597680,Caitlin,Foord,Caitlin Foord,caitlinfoord,Australia
 598352,Jonelle,Filigno,Jonelle Filigno,jonellefiligno,Canada
 598355,Kaylyn,Kyle,Kaylyn Kyle,kaylynkyle,Canada
+598362,Chelsea,Stewart,Chelsea Stewart,chelseastewart,Canada
 598397,Lady,Andrade,Lady Andrade,ladyandrade,Colombia
 598417,Veronica,Perez,Veronica Perez,veronicaperez,Mexico
 598539,Josephine,Chukwunonye,Josephine Chukwunonye,josephinechukwunonye,Nigeria
