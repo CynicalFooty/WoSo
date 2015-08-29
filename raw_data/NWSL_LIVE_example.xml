@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sports-statistics>
+  <sports-scores>
+    <date year="2015" month="8" date="27" day="4"/>
+    <time hour="21" minute="03" second="42" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <version number="8"/>
+    <league global-id="513" name="National Womens Soccer League" alias="NWSL" display-name=""/>
+    <season year="2015" id="1" description="2015 NWSL Season"/>
+    <soccer-ifb-scores>
+      <ifb-score>
+         <date year="2015" month="8" date="27" day="4"/>
+         <time hour="20" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+         <local-game-date year="2015" month="8" date="27" day="4"/>
+         <local-time hour="19" minute="00"/>
+         <gamecode global-code="1528275" code="2015082713343"/>
+         <coverage level="4"/>
+         <source id="1"/>
+         <aggregate-partner-game global-code=""/>
+         <penalty-shot-upcoming penalty-shot-upcoming="false"/>
+         <game-type id="1" description="Regular Season" replay="false"/>
+         <week week="20"/>
+         <gamestate status-id="2" status="In-Progress" period="1" minutes="45" seconds="59" additional-minutes="1" announced-minutes="" home-start-side="L" home-start-side-ET=""/>
+         <stadium global-id="14651" id="4083" name="Swope Soccer Village"/>
+         <match-number number=""/>
+         <visiting-team>
+            <team-info global-id="26582" id="3342" location="Washington" name="Spirit" alias="WAS" display-name="Washington"/>
+            <team primary-color="FFFFFF" shorts-color="000040"/>
+           <record wins="8" ties="4" losses="5" points="28"/>
+            <linescore score="0" shots="4">
+               <half half="1" score="0" shots="4"/>
+            </linescore>
+            <lineups-entered lineups-entered="true"/>
+         </visiting-team>
+         <home-team>
+            <team-info global-id="26583" id="3343" location="FC Kansas City" name="" alias="KC" display-name="FC Kansas City"/>
+            <team primary-color="0000FF" shorts-color="FFFFFF"/>
+           <record wins="8" ties="4" losses="6" points="28"/>
+            <linescore score="0" shots="2">
+               <half half="1" score="0" shots="2"/>
+            </linescore>
+            <lineups-entered lineups-entered="true"/>
+         </home-team>
+      </ifb-score>
+    </soccer-ifb-scores>
+  </sports-scores>
+</sports-statistics>

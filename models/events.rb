@@ -55,12 +55,15 @@ class Events < Sequel::Model
         y = y.empty? ? -1 : y
         team_id = event['@global_team_id']
         team_alias = Teams[team_id][:alias]
+
         stoppage_minutes = event.fetch('@additional_minutes',0).to_i
         minutes = event.fetch('@minutes',0).to_i + stoppage_minutes
+        minutes -= 1 if event['@event_number'].to_i == 21 # Subtract a minute for half starts
         half = event.fetch('@half',1).to_i
         seconds = event.fetch('@seconds',0).to_i
         half_seconds = (minutes-45*(half-1))*60+seconds
         button_text = "#{sprintf '%02d', minutes}:#{sprintf '%02d', seconds}"
+
         off_player = Players[event['@global_offensive_player_id'].to_i] || {full_name: "", id: 0 }
         def_player = Players[event['@global_defensive_player_id'].to_i] || {full_name: "", id: 0 }
         ast_player = Players[event['@global_assisting_player_id'].to_i] || {full_name: "", id: 0 }
@@ -74,10 +77,10 @@ class Events < Sequel::Model
         team_alias, half_seconds, button_text, off_player_id, off_player_name,
         def_player_id, def_player_name, ast_player_id, ast_player_name)
         VALUES (#{game_id}, #{event['@seq_number']}, #{event['@event_number']},
-        '#{event['@event_text']}', '#{event['@text'].gsub("'","''")}', #{event['@half']},
-        #{event['@minutes']}, #{event['@seconds']}, #{event['@additional_minutes']},
-        #{event['@away_score']}, #{event['@home_score']}, #{x}, #{y}, #{team_id},
-        '#{team_alias}', #{half_seconds}, '#{button_text}', #{off_player[:id]},
+        '#{event['@event_text']}', '#{event['@text'].gsub("'","''")}', #{half},
+        #{minutes}, #{seconds}, #{stoppage_minutes}, #{event['@away_score']},
+        #{event['@home_score']}, #{x}, #{y}, #{team_id}, '#{team_alias}',
+        #{half_seconds}, '#{button_text}', #{off_player[:id]},
         '#{off_full_name}', #{def_player[:id]}, '#{def_full_name}',
         #{ast_player[:id]}, '#{ast_full_name}' )"
 

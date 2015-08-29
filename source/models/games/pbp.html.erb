@@ -1,3 +1,51 @@
+<% content_for :title do %>
+  <%= game[:home] %> vs <%= game[:away] %> - Play By Play
+<% end %>
+<% content_for :head do %>
+    <script src="http://www.youtube.com/player_api"></script>
+    <script type="text/javascript">
+        var player, seconds = 0;
+        var firstHalf = <%= game[:first_half_start] %>;
+        var secondHalf = <%= game[:second_half_start] %>;
+        function onYouTubeIframeAPIReady() {
+            console.log("player");
+            player = new YT.Player('player', {
+                events: {
+                    'onReady': onPlayerReady
+                }
+            });
+        }
+
+        function onPlayerReady(event) {
+            event.target.playVideo();
+        }
+
+        function seek(half, sec){
+            if(player){
+                if(half==1){
+                    player.seekTo(sec+firstHalf, true);
+                } else {
+                    player.seekTo(sec+secondHalf, true);
+                }
+            }
+        }
+
+        function reverse(){
+            if(player){
+                seconds = player.getCurrentTime() - 15;
+                player.seekTo(seconds, true);
+            }
+        }
+
+        function forward(){
+            if(player){
+                seconds = player.getCurrentTime() + 15;
+                player.seekTo(seconds, true);
+            }
+        }
+    </script>
+<% end %>
+
 <div class="h5 mxn1">
   <a href="../../../" title="Home" class="btn compact btn-link p1">Home</a>
   <span class="">
@@ -25,6 +73,10 @@
     Video URL: <%= game[:video_embed_url] %>
   </p>
 </div>
+
+<!--
+<iframe id="player" width="854" height="480" src="" frameborder="0"></iframe>
+-->
 
 <div>
   <table class="table-light overflow-hidden bg-white border rounded">
