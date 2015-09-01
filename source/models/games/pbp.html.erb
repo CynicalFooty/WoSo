@@ -1,50 +1,13 @@
 <% content_for :title do %>
-  <%= game[:home] %> vs <%= game[:away] %> - Play By Play
+<%= game[:home] %> vs <%= game[:away] %> - Play By Play
 <% end %>
-<% content_for :head do %>
-    <script src="http://www.youtube.com/player_api"></script>
-    <script type="text/javascript">
-        var player, seconds = 0;
-        var firstHalf = <%= game[:first_half_start] %>;
-        var secondHalf = <%= game[:second_half_start] %>;
-        function onYouTubeIframeAPIReady() {
-            console.log("player");
-            player = new YT.Player('player', {
-                events: {
-                    'onReady': onPlayerReady
-                }
-            });
-        }
 
-        function onPlayerReady(event) {
-            event.target.playVideo();
-        }
-
-        function seek(half, sec){
-            if(player){
-                if(half==1){
-                    player.seekTo(sec+firstHalf, true);
-                } else {
-                    player.seekTo(sec+secondHalf, true);
-                }
-            }
-        }
-
-        function reverse(){
-            if(player){
-                seconds = player.getCurrentTime() - 15;
-                player.seekTo(seconds, true);
-            }
-        }
-
-        function forward(){
-            if(player){
-                seconds = player.getCurrentTime() + 15;
-                player.seekTo(seconds, true);
-            }
-        }
-    </script>
-<% end %>
+<script>
+// Game specific varibles
+var firstHalf = <%= game[:first_half_start] %>;
+var secondHalf = <%= game[:second_half_start] %>;
+var videoId = "<%= game[:video_embed_id] %>";
+</script>
 
 <div class="h5 mxn1">
   <a href="../../../" title="Home" class="btn compact btn-link p1">Home</a>
@@ -70,69 +33,54 @@
   <p>
     First Half: <%= game[:first_half_start] %> /
     Second Half: <%= game[:second_half_start] %> /
-    Video URL: <%= game[:video_embed_url] %>
+    Video URL: <%= game[:video_embed_id] %>
   </p>
 </div>
 
-<!--
-<iframe id="player" width="854" height="480" src="" frameborder="0"></iframe>
--->
+<div id="player"></div>
 
-<div>
+<div id="controls">
+  <button type="button" onclick="reverse()">Reverse 15 Seconds</button>
+  <button type="button" onclick="forward()">Forward 15 Seconds</button>
+  <button type="button" onclick="changeSize()">Change Size</button>
+</div>
+
+<div id="events" style="height: 200px; overflow: auto;">
   <table class="table-light overflow-hidden bg-white border rounded">
     <thead>
       <tr>
+        <th>Half</th>
         <th>Time</th>
         <th>Team</th>
         <th>Event</th>
         <th>Players</th>
       </tr>
     </thead>
-    <% events.each do |event| %>
-      <% if event[:half] ==1 %>
-        <tr onclick="seek(<%= "#{event[:half]},#{event[:seconds]}" %>)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td><%= event[:button_text]%></td>
-          <td><%= event[:team_alias] %></td>
-          <td><%= event[:event_text] %></td>
-          <td>
-            <% if event[:off_player_name] != "" %>
-              OFF: <%= event[:off_player_name] %><br>
-            <% end %>
-            <% if event[:def_player_name] != "" %>
-              DEF: <%= event[:def_player_name] %><br>
-            <% end %>
-            <% if event[:ast_player_name] != "" %>
-              AST: <%= event[:ast_player_name] %>
-            <% end %>
-          </td>
-        </tr>
+    <tbody>
+      <% events.each do |event| %>
+      <tr onclick="seek(<%= "#{event[:half]},#{event[:half_seconds]}" %>);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td><%= event[:half]        %></td>
+        <td><%= event[:button_text] %></td>
+        <td><%= event[:team_alias]  %></td>
+        <td><%= event[:event_text]  %></td>
+        <td>
+          <% if event[:off_player_name] != "" %>
+            OFF: <%= event[:off_player_name] %><br>
+          <% end %>
+          <% if event[:def_player_name] != "" %>
+            DEF: <%= event[:def_player_name] %><br>
+          <% end %>
+          <% if event[:ast_player_name] != "" %>
+            AST: <%= event[:ast_player_name] %>
+          <% end %>
+        </td>
+      </tr>
       <% end %>
-    <% end %>
-    <% events.each do |event| %>
-      <% if event[:half] == 2 %>
-        <tr onclick="seek(<%= "#{event[:half]},#{event[:seconds]}" %>)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td><%= event[:button_text]%></td>
-          <td><%= event[:team_alias] %></td>
-          <td><%= event[:event_text] %></td>
-          <td>
-            <% if event[:off_player_name] != "" %>
-              OFF: <%= event[:off_player_name] %><br>
-            <% end %>
-            <% if event[:def_player_name] != "" %>
-              DEF: <%= event[:def_player_name] %><br>
-            <% end %>
-            <% if event[:ast_player_name] != "" %>
-              AST: <%= event[:ast_player_name] %>
-            <% end %>
-          </td>
-        </tr>
-      <% end %>
-    <% end %>
+    </tbody>
   </table>
-</div>
+</nav>
+
+<%= javascript_include_tag "play_by_play" %>

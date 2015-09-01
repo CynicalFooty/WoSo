@@ -1,4 +1,4 @@
-id,home,away,week,date,first_half_start,second_half_start,overtime_one_start,overtime_two_start,penalty_kicks,video_embed_url
+id,home,away,week,date,first_half_start,second_half_start,overtime_one_start,overtime_two_start,penalty_kicks,video_embed_id
 1528189,WAS,BOS,9,2015-6-6,0,0,0,0,0,""
 1528190,WNY,CHI,9,2015-6-6,0,0,0,0,0,""
 1528191,HOU,POR,9,2015-6-6,0,0,0,0,0,""
@@ -59,7 +59,7 @@ id,home,away,week,date,first_half_start,second_half_start,overtime_one_start,ove
 1528246,NJ,HOU,8,2015-5-31,0,0,0,0,0,""
 1528247,SEA,WNY,1,2015-4-12,0,0,0,0,0,""
 1528248,POR,BOS,1,2015-4-11,0,0,0,0,0,""
-1528249,HOU,WAS,1,2015-4-10,0,0,0,0,0,""
+1528249,HOU,WAS,1,2015-4-10,1033,5240,0,0,0,oFNUMEI6IBI
 1528250,HOU,KC,16,2015-7-29,0,0,0,0,0,""
 1528253,BOS,SEA,16,2015-8-1,0,0,0,0,0,""
 1528256,WAS,HOU,16,2015-8-1,0,0,0,0,0,""

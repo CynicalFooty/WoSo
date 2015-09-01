@@ -57,8 +57,8 @@ class Events < Sequel::Model
         team_alias = Teams[team_id][:alias]
 
         stoppage_minutes = event.fetch('@additional_minutes',0).to_i
-        minutes = event.fetch('@minutes',0).to_i + stoppage_minutes
-        minutes -= 1 if event['@event_number'].to_i == 21 # Subtract a minute for half starts
+        #Every entry seems to be a minute too late. Backing it up a bit.
+        minutes = event.fetch('@minutes',0).to_i + stoppage_minutes - 1
         half = event.fetch('@half',1).to_i
         seconds = event.fetch('@seconds',0).to_i
         half_seconds = (minutes-45*(half-1))*60+seconds
