@@ -4,7 +4,7 @@ var firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 var player;
 var seconds = 0;
-var size = 'medium'
+var size = "medium"
 
 function onYouTubeIframeAPIReady() {
   player = new YT.Player('player', {
@@ -37,7 +37,6 @@ function seek(half, sec, videoId){
     } else {
       player.seekTo(sec+secondHalf, true);
     }
-    //player.loadVideoById({videoId:String,startSeconds:Number,endSeconds:Number,suggestedQuality:String}):Void
   }
 }
 
@@ -59,15 +58,15 @@ function changeSize(){
   if(player){
     switch (size) {
       case "medium":
-        player.setSize(720,405)
+        player.setSize(480,270)
         size = "small"
         break;
       case "small":
-        player.setSize(480,270)
+        player.setSize(1024,576)
         size = "large"
         break;
         case "large":
-          player.setSize(1200,675)
+          player.setSize(720,405)
           size = "medium"
           break;
       default:

@@ -27,25 +27,22 @@ var videoId = "<%= game[:video_embed_id] %>";
   </span>
 </div>
 
+
 <div>
-  <h1><%= game[:home] %> vs <%= game[:away] %> - Play By Play</h1>
-  <p>Week <%= game[:week] %> / <%= game[:date] %></p>
-  <p>
-    First Half: <%= game[:first_half_start] %> /
-    Second Half: <%= game[:second_half_start] %> /
-    Video URL: <%= game[:video_embed_id] %>
-  </p>
+  <h1 class="border-bottom" ><%= game[:home] %> vs <%= game[:away] %> - Play By Play</h1>
+  <p class="bold">Week <%= game[:week] %> / <%= game[:date] %></p>
 </div>
 
 <div id="player"></div>
 
 <div id="controls">
-  <button type="button" onclick="reverse()">Reverse 15 Seconds</button>
-  <button type="button" onclick="forward()">Forward 15 Seconds</button>
-  <button type="button" onclick="changeSize()">Change Size</button>
+  <button class="btn btn-primary" type="button" onclick="reverse()">Reverse 15 Seconds</button>
+  <button class="btn btn-primary" type="button" onclick="forward()">Forward 15 Seconds</button>
+  <button class="btn btn-primary" type="button" onclick="changeSize()">Change Size</button>
 </div>
-
-<div id="events" style="height: 200px; overflow: auto;">
+<br>
+<div id="events" class="Sidebar"
+  style="height: 300px; overflow: auto; -webkit-overflow-scrolling:touch; border: black 1px solid">
   <table class="table-light overflow-hidden bg-white border rounded">
     <thead>
       <tr>
@@ -68,19 +65,27 @@ var videoId = "<%= game[:video_embed_id] %>";
         <td><%= event[:event_text]  %></td>
         <td>
           <% if event[:off_player_name] != "" %>
-            OFF: <%= event[:off_player_name] %><br>
+          OFF: <%= event[:off_player_name] %><br>
           <% end %>
           <% if event[:def_player_name] != "" %>
-            DEF: <%= event[:def_player_name] %><br>
+          DEF: <%= event[:def_player_name] %><br>
           <% end %>
           <% if event[:ast_player_name] != "" %>
-            AST: <%= event[:ast_player_name] %>
+          AST: <%= event[:ast_player_name] %>
           <% end %>
         </td>
       </tr>
       <% end %>
     </tbody>
   </table>
-</nav>
+</div>
+<br>
+<div>
+  <p>Debug info ->
+    First Half: <%= game[:first_half_start] %> /
+    Second Half: <%= game[:second_half_start] %> /
+    Video URL: <%= game[:video_embed_id] %>
+  </p>
+</div>
 
 <%= javascript_include_tag "play_by_play" %>
