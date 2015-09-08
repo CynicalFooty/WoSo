@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sports-statistics>
     <sports-schedule>
-    <date year="2015" month="8" date="28" day="5"/>
-    <time hour="18" minute="14" second="26" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <date year="2015" month="9" date="7" day="1"/>
+    <time hour="18" minute="03" second="35" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
     <version number="5"/>
     <league global-id="513" name="National Womens Soccer League" alias="NWSL" display-name=""/>
     <season year="2015" id="1" description="2015 NWSL Season"/>
@@ -2178,17 +2178,20 @@
        <aggregate-partner-game global-code=""/>
        <game-type id="1" description="Regular Season" replay="false"/>
        <week week="20" original-week="20"/>
-       <status status-id="1" status="Pre-Game"/>
+       <status status-id="4" status="Final"/>
        <stadium global-id="9840" id="2836" name="Sahlen's Stadium"/>
        <match-number number=""/>
        <tv>
        </tv>
        <home-team>
         <team-info global-id="23845" id="2701" location="Western New York" name="Flash" alias="WNY" display-name="Western New York"/>
+        <outcome outcome="Loss" score="0" shootout-goals="0" shootout-outcome=""/>
        </home-team>
        <visiting-team>
         <team-info global-id="11271" id="1870" location="Chicago" name="Red Stars" alias="CHI" display-name="Chicago"/>
+        <outcome outcome="Win" score="2" shootout-goals="0" shootout-outcome=""/>
        </visiting-team>
+       <total-periods periods="2"/>
       </game-schedule>
       <game-schedule>
        <date year="2015" month="8" date="29" day="6"/>
@@ -2201,17 +2204,20 @@
        <aggregate-partner-game global-code=""/>
        <game-type id="1" description="Regular Season" replay="false"/>
        <week week="20" original-week="20"/>
-       <status status-id="1" status="Pre-Game"/>
+       <status status-id="4" status="Final"/>
        <stadium global-id="14113" id="3770" name="Memorial Stadium"/>
        <match-number number=""/>
        <tv>
        </tv>
        <home-team>
         <team-info global-id="26581" id="3341" location="Seattle" name="Reign FC" alias="SEA" display-name="Seattle"/>
+        <outcome outcome="Tie" score="1" shootout-goals="0" shootout-outcome=""/>
        </home-team>
        <visiting-team>
         <team-info global-id="11275" id="1874" location="Sky Blue FC" name="" alias="NJ" display-name="Sky Blue FC"/>
+        <outcome outcome="Tie" score="1" shootout-goals="0" shootout-outcome=""/>
        </visiting-team>
+       <total-periods periods="2"/>
       </game-schedule>
       <game-schedule>
        <date year="2015" month="8" date="30" day="7"/>
@@ -2224,17 +2230,20 @@
        <aggregate-partner-game global-code=""/>
        <game-type id="1" description="Regular Season" replay="false"/>
        <week week="20" original-week="20"/>
-       <status status-id="1" status="Pre-Game"/>
+       <status status-id="4" status="Final"/>
        <stadium global-id="10327" id="2261" name="BBVA Compass Stadium"/>
        <match-number number=""/>
        <tv>
        </tv>
        <home-team>
         <team-info global-id="27349" id="3603" location="Houston" name="Dash" alias="HOU" display-name="Houston"/>
+        <outcome outcome="Win" score="1" shootout-goals="0" shootout-outcome=""/>
        </home-team>
        <visiting-team>
         <team-info global-id="11270" id="1869" location="Boston" name="Breakers" alias="BOS" display-name="Boston"/>
+        <outcome outcome="Loss" score="0" shootout-goals="0" shootout-outcome=""/>
        </visiting-team>
+       <total-periods periods="2"/>
       </game-schedule>
       <game-schedule>
        <date year="2015" month="8" date="30" day="7"/>
@@ -2247,7 +2256,7 @@
        <aggregate-partner-game global-code=""/>
        <game-type id="1" description="Regular Season" replay="false"/>
        <week week="20" original-week="20"/>
-       <status status-id="1" status="Pre-Game"/>
+       <status status-id="4" status="Final"/>
        <stadium global-id="3031" id="257" name="Providence Park"/>
        <match-number number=""/>
        <tv>
@@ -2255,10 +2264,39 @@
        </tv>
        <home-team>
         <team-info global-id="26580" id="3340" location="Portland" name="Thorns FC" alias="POR" display-name="Portland"/>
+        <outcome outcome="Tie" score="3" shootout-goals="0" shootout-outcome=""/>
        </home-team>
        <visiting-team>
         <team-info global-id="26582" id="3342" location="Washington" name="Spirit" alias="WAS" display-name="Washington"/>
+        <outcome outcome="Tie" score="3" shootout-goals="0" shootout-outcome=""/>
        </visiting-team>
+       <total-periods periods="2"/>
+      </game-schedule>
+      <game-schedule>
+       <date year="2015" month="9" date="2" day="3"/>
+       <time hour="19" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <local-game-date year="2015" month="9" date="2" day="3"/>
+       <local-time hour="19" minute="00"/>
+       <tba tba="false"/>
+       <gamecode global-code="1528252" code="2015090211874"/>
+       <coverage level="4"/>
+       <aggregate-partner-game global-code=""/>
+       <game-type id="1" description="Regular Season" replay="false"/>
+       <week week="21" original-week="21"/>
+       <status status-id="4" status="Final"/>
+       <stadium global-id="7862" id="1481" name="Yurcak Field"/>
+       <match-number number=""/>
+       <tv>
+       </tv>
+       <home-team>
+        <team-info global-id="11275" id="1874" location="Sky Blue FC" name="" alias="NJ" display-name="Sky Blue FC"/>
+        <outcome outcome="Loss" score="2" shootout-goals="0" shootout-outcome=""/>
+       </home-team>
+       <visiting-team>
+        <team-info global-id="26583" id="3343" location="FC Kansas City" name="" alias="KC" display-name="FC Kansas City"/>
+        <outcome outcome="Win" score="3" shootout-goals="0" shootout-outcome=""/>
+       </visiting-team>
+       <total-periods periods="2"/>
       </game-schedule>
       <game-schedule>
        <date year="2015" month="9" date="4" day="5"/>
@@ -2271,17 +2309,20 @@
        <aggregate-partner-game global-code=""/>
        <game-type id="1" description="Regular Season" replay="false"/>
        <week week="21" original-week="21"/>
-       <status status-id="1" status="Pre-Game"/>
+       <status status-id="4" status="Final"/>
        <stadium global-id="9840" id="2836" name="Sahlen's Stadium"/>
        <match-number number=""/>
        <tv>
        </tv>
        <home-team>
         <team-info global-id="23845" id="2701" location="Western New York" name="Flash" alias="WNY" display-name="Western New York"/>
+        <outcome outcome="Win" score="3" shootout-goals="0" shootout-outcome=""/>
        </home-team>
        <visiting-team>
         <team-info global-id="26580" id="3340" location="Portland" name="Thorns FC" alias="POR" display-name="Portland"/>
+        <outcome outcome="Loss" score="2" shootout-goals="0" shootout-outcome=""/>
        </visiting-team>
+       <total-periods periods="2"/>
       </game-schedule>
       <game-schedule>
        <date year="2015" month="9" date="5" day="6"/>
@@ -2294,17 +2335,20 @@
        <aggregate-partner-game global-code=""/>
        <game-type id="1" description="Regular Season" replay="false"/>
        <week week="21" original-week="21"/>
-       <status status-id="1" status="Pre-Game"/>
+       <status status-id="4" status="Final"/>
        <stadium global-id="10502" id="3114" name="Maryland SoccerPlex"/>
        <match-number number=""/>
        <tv>
        </tv>
        <home-team>
         <team-info global-id="26582" id="3342" location="Washington" name="Spirit" alias="WAS" display-name="Washington"/>
+        <outcome outcome="Loss" score="1" shootout-goals="0" shootout-outcome=""/>
        </home-team>
        <visiting-team>
         <team-info global-id="26581" id="3341" location="Seattle" name="Reign FC" alias="SEA" display-name="Seattle"/>
+        <outcome outcome="Win" score="2" shootout-goals="0" shootout-outcome=""/>
        </visiting-team>
+       <total-periods periods="2"/>
       </game-schedule>
       <game-schedule>
        <date year="2015" month="9" date="6" day="7"/>
@@ -2317,63 +2361,43 @@
        <aggregate-partner-game global-code=""/>
        <game-type id="1" description="Regular Season" replay="false"/>
        <week week="21" original-week="21"/>
-       <status status-id="1" status="Pre-Game"/>
+       <status status-id="4" status="Final"/>
        <stadium global-id="4933" id="2" name="TOYOTA PARK"/>
        <match-number number=""/>
        <tv>
        </tv>
        <home-team>
         <team-info global-id="11271" id="1870" location="Chicago" name="Red Stars" alias="CHI" display-name="Chicago"/>
+        <outcome outcome="Tie" score="1" shootout-goals="0" shootout-outcome=""/>
        </home-team>
        <visiting-team>
         <team-info global-id="27349" id="3603" location="Houston" name="Dash" alias="HOU" display-name="Houston"/>
+        <outcome outcome="Tie" score="1" shootout-goals="0" shootout-outcome=""/>
        </visiting-team>
-      </game-schedule>
-      <game-schedule>
-       <date year="2015" month="9" date="6" day="7"/>
-       <time hour="18" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
-       <local-game-date year="2015" month="9" date="6" day="7"/>
-       <local-time hour="18" minute="00"/>
-       <tba tba="false"/>
-       <gamecode global-code="1528252" code="2015090611874"/>
-       <coverage level="4"/>
-       <aggregate-partner-game global-code=""/>
-       <game-type id="1" description="Regular Season" replay="false"/>
-       <week week="21" original-week="21"/>
-       <status status-id="1" status="Pre-Game"/>
-       <stadium global-id="7862" id="1481" name="Yurcak Field"/>
-       <match-number number=""/>
-       <tv>
-       </tv>
-       <home-team>
-        <team-info global-id="11275" id="1874" location="Sky Blue FC" name="" alias="NJ" display-name="Sky Blue FC"/>
-       </home-team>
-       <visiting-team>
-        <team-info global-id="26583" id="3343" location="FC Kansas City" name="" alias="KC" display-name="FC Kansas City"/>
-       </visiting-team>
+       <total-periods periods="2"/>
       </game-schedule>
       <game-schedule>
        <date year="2015" month="9" date="13" day="7"/>
-       <time hour="13" minute="00" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+       <time hour="13" minute="30" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
        <local-game-date year="2015" month="9" date="13" day="7"/>
-       <local-time hour="12" minute="00"/>
-       <tba tba="true"/>
-       <gamecode global-code="1528266" code=""/>
+       <local-time hour="12" minute="30"/>
+       <tba tba="false"/>
+       <gamecode global-code="1528266" code="2015091311870"/>
        <coverage level="4"/>
        <aggregate-partner-game global-code=""/>
        <game-type id="3" description="Semifinal" replay="false"/>
        <week week="22" original-week="22"/>
        <status status-id="1" status="Pre-Game"/>
-       <stadium global-id="" id="" name=""/>
+       <stadium global-id="4933" id="2" name="TOYOTA PARK"/>
        <match-number number=""/>
        <tv>
         <station id="6" call-letters="FS1" name="FOX Sports 1" country-id="1" country="United States"/>
        </tv>
        <home-team>
-        <team-info global-id="" id="" location="" name="" alias="" display-name=""/>
+        <team-info global-id="11271" id="1870" location="Chicago" name="Red Stars" alias="CHI" display-name="Chicago"/>
        </home-team>
        <visiting-team>
-        <team-info global-id="" id="" location="" name="" alias="" display-name=""/>
+        <team-info global-id="26583" id="3343" location="FC Kansas City" name="" alias="KC" display-name="FC Kansas City"/>
        </visiting-team>
       </game-schedule>
       <game-schedule>
@@ -2397,7 +2421,7 @@
         <team-info global-id="26581" id="3341" location="Seattle" name="Reign FC" alias="SEA" display-name="Seattle"/>
        </home-team>
        <visiting-team>
-        <team-info global-id="" id="" location="" name="" alias="" display-name=""/>
+        <team-info global-id="26582" id="3342" location="Washington" name="Spirit" alias="WAS" display-name="Washington"/>
        </visiting-team>
       </game-schedule>
       <game-schedule>

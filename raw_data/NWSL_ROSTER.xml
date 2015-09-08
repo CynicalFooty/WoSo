@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sports-statistics>
   <sports-roster>
-    <date year="2015" month="8" date="28" day="5"/>
-    <time hour="18" minute="14" second="19" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
+    <date year="2015" month="9" date="7" day="1"/>
+    <time hour="18" minute="03" second="34" timezone="Eastern" utc-hour="-4" utc-minute="00"/>
     <version number="4"/>
     <league global-id="513" name="National Womens Soccer League" alias="NWSL" display-name=""/>
     <season year="2015" id="1" description="2015 NWSL Season"/>

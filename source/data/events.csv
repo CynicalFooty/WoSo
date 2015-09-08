@@ -6734,3 +6734,642 @@ game_id,seq_number,event_number,event_text,button_text,text,team_id,team_alias,o
 1528275,82,16,Offside,93:53,Offsides called on Crystal Dunn,26582,WAS,725480,0,0,Crystal Dunn,"","",2,93,53,2933,4,0,0,78,52
 1528275,83,13,Half Over,94:06,2nd Half ended,26583,KC,0,0,0,"","","",2,94,6,2946,5,0,0,-1,-1
 1528275,84,10,Game Over,94:06,Game Over,26583,KC,0,0,0,"","","",2,94,6,2946,5,0,0,-1,-1
+1528276,1,21,Start Half,00:00,1st Half started,23845,WNY,0,0,0,"","","",1,0,0,0,0,0,0,-1,-1
+1528276,2,5,Corner Kick,00:23,Corner kick taken by Danielle Colaprico,11271,CHI,869006,0,0,Danielle Colaprico,"","",1,0,23,23,0,0,0,0,0
+1528276,3,19,Shot,00:24,Shot taken by Taryn Hemmings,11271,CHI,537314,0,0,Taryn Hemmings,"","",1,0,24,24,0,0,0,-1,-1
+1528276,4,16,Offside,02:54,Offsides called on Sofia Huerta,11271,CHI,755333,0,0,Sofia Huerta,"","",1,2,54,174,0,0,0,-1,-1
+1528276,5,19,Shot,05:47,Shot taken by Christen Press,11271,CHI,593765,0,0,Christen Press,"","",1,5,47,347,0,0,0,-1,-1
+1528276,6,5,Corner Kick,06:21,Corner kick taken by Lady Andrade,23845,WNY,598397,732078,0,Lady Andrade,Adriana Leon,"",1,6,21,381,0,0,0,105,0
+1528276,7,20,Shot on Goal,09:11,Shot on goal by Michelle Heyman,23845,WNY,795603,869019,0,Michelle Heyman,Michele Dalton,"",1,9,11,551,0,0,0,-1,-1
+1528276,8,19,Shot,09:53,Shot taken by Lady Andrade,23845,WNY,598397,0,0,Lady Andrade,"","",1,9,53,593,0,0,0,-1,-1
+1528276,9,20,Shot on Goal,15:22,Shot on goal by Danielle Colaprico,11271,CHI,869006,732074,0,Danielle Colaprico,Chantel Jones,"",1,15,22,922,0,0,0,-1,-1
+1528276,10,8,Foul,20:30,Foul called on Christen Press,11271,CHI,593765,537247,0,Christen Press,Becky Edwards,"",1,20,30,1230,0,0,0,-1,-1
+1528276,11,8,Foul,20:50,Foul called on Samantha Mewis,23845,WNY,816072,537314,0,Samantha Mewis,Taryn Hemmings,"",1,20,50,1250,0,0,0,-1,-1
+1528276,12,8,Foul,24:00,Foul called on Julie Johnston,11271,CHI,725481,872196,0,Julie Johnston,Halimatu Ayinde,"",1,24,0,1440,0,0,0,-1,-1
+1528276,13,20,Shot on Goal,25:52,Shot on goal by Kristen Edmonds,23845,WNY,825232,869019,0,Kristen Edmonds,Michele Dalton,"",1,25,52,1552,0,0,0,-1,-1
+1528276,14,5,Corner Kick,26:24,Corner kick taken by Kristen Edmonds,23845,WNY,825232,869019,0,Kristen Edmonds,Michele Dalton,"",1,26,24,1584,0,0,0,105,70
+1528276,15,16,Offside,27:54,Offsides called on Sofia Huerta,11271,CHI,755333,0,0,Sofia Huerta,"","",1,27,54,1674,0,0,0,-1,-1
+1528276,16,5,Corner Kick,28:21,Corner kick taken by Lady Andrade,23845,WNY,598397,0,0,Lady Andrade,"","",1,28,21,1701,0,0,0,105,0
+1528276,17,19,Shot,28:22,Shot taken by Samantha Mewis against Michele Dalton,23845,WNY,816072,869019,0,Samantha Mewis,Michele Dalton,"",1,28,22,1702,0,0,0,-1,-1
+1528276,18,20,Shot on Goal,30:25,Shot on goal by Jasmyne Spencer,23845,WNY,644262,869019,0,Jasmyne Spencer,Michele Dalton,"",1,30,25,1825,0,0,0,-1,-1
+1528276,19,20,Shot on Goal,31:08,Shot on goal by Lori Chalupny,11271,CHI,370166,732074,0,Lori Chalupny,Chantel Jones,"",1,31,8,1868,0,0,0,-1,-1
+1528276,20,8,Foul,31:26,Foul called on Vanessa DiBernardo,11271,CHI,767216,644262,0,Vanessa DiBernardo,Jasmyne Spencer,"",1,31,26,1886,0,0,0,-1,-1
+1528276,21,8,Foul,31:57,Foul called on Halimatu Ayinde,23845,WNY,872196,869019,0,Halimatu Ayinde,Michele Dalton,"",1,31,57,1917,0,0,0,-1,-1
+1528276,22,16,Offside,33:18,Offsides called on Sofia Huerta,11271,CHI,755333,0,0,Sofia Huerta,"","",1,33,18,1998,0,0,0,-1,-1
+1528276,23,19,Shot,35:31,Shot taken by Adriana Leon,11271,CHI,732078,0,0,Adriana Leon,"","",1,35,31,2131,0,0,0,-1,-1
+1528276,24,20,Shot on Goal,35:59,Shot on goal by Christen Press,11271,CHI,593765,732074,0,Christen Press,Chantel Jones,"",1,35,59,2159,0,0,0,-1,-1
+1528276,25,16,Offside,36:58,Offsides called on Michelle Heyman,23845,WNY,795603,0,0,Michelle Heyman,"","",1,36,58,2218,0,0,0,-1,-1
+1528276,26,20,Shot on Goal,39:21,Shot on goal by Christen Press,11271,CHI,593765,0,0,Christen Press,"","",1,39,21,2361,0,0,0,-1,-1
+1528276,27,11,Goal,39:22,Christen Press scored a goal assisted by Julie Johnston,11271,CHI,593765,0,725481,Christen Press,"",Julie Johnston,1,39,22,2362,0,1,0,-1,-1
+1528276,28,5,Corner Kick,42:16,Corner kick taken by Vanessa DiBernardo,11271,CHI,767216,868991,0,Vanessa DiBernardo,Jaelene Hinkle,"",1,42,16,2536,0,1,0,0,0
+1528276,29,5,Corner Kick,44:28,Corner kick taken by Kristen Edmonds,23845,WNY,825232,0,0,Kristen Edmonds,"","",1,44,28,2668,0,1,0,105,70
+1528276,30,19,Shot,44:29,Shot taken by Samantha Mewis,23845,WNY,816072,0,0,Samantha Mewis,"","",1,44,29,2669,0,1,0,-1,-1
+1528276,31,13,Half Over,64:47,1st Half ended,23845,WNY,0,0,0,"","","",1,64,47,3887,20,1,0,-1,-1
+1528276,32,21,Start Half,45:00,2nd Half started,23845,WNY,0,0,0,"","","",2,45,0,0,0,1,0,-1,-1
+1528276,33,19,Shot,53:43,Shot taken by Vanessa DiBernardo,11271,CHI,767216,0,0,Vanessa DiBernardo,"","",2,53,43,523,0,1,0,-1,-1
+1528276,34,22,Substitution,55:40,Jen Hoy substituted in for Adriana Leon,11271,CHI,738830,0,0,Jen Hoy,"","",2,55,40,640,0,1,0,-1,-1
+1528276,35,5,Corner Kick,56:33,Corner kick taken by Danielle Colaprico,11271,CHI,869006,825232,0,Danielle Colaprico,Kristen Edmonds,"",2,56,33,693,0,1,0,105,0
+1528276,36,19,Shot,58:31,Shot taken by Arin Gilliland,11271,CHI,869004,0,0,Arin Gilliland,"","",2,58,31,811,0,1,0,-1,-1
+1528276,37,20,Shot on Goal,59:51,Shot on goal by Michelle Heyman,23845,WNY,795603,869019,0,Michelle Heyman,Michele Dalton,"",2,59,51,891,0,1,0,-1,-1
+1528276,38,8,Foul,62:28,Foul called on Vanessa DiBernardo,11271,CHI,767216,872196,0,Vanessa DiBernardo,Halimatu Ayinde,"",2,62,28,1048,0,1,0,-1,-1
+1528276,39,2,Caution,62:40,Yellow card given to Vanessa DiBernardo (Reckless Foul),11271,CHI,767216,0,0,Vanessa DiBernardo,"","",2,62,40,1060,0,1,0,-1,-1
+1528276,40,22,Substitution,63:06,Elizabeth Eddy substituted in for Jasmyne Spencer,23845,WNY,871933,0,0,Elizabeth Eddy,"","",2,63,6,1086,0,1,0,-1,-1
+1528276,41,22,Substitution,63:26,Ashley Nick substituted in for Samantha Mewis,23845,WNY,490937,0,0,Ashley Nick,"","",2,63,26,1106,0,1,0,-1,-1
+1528276,42,20,Shot on Goal,64:57,Shot on goal by Jen Hoy,11271,CHI,738830,0,0,Jen Hoy,"","",2,64,57,1197,0,1,0,-1,-1
+1528276,43,11,Goal,64:58,Jen Hoy scored a goal assisted by Christen Press,11271,CHI,738830,0,593765,Jen Hoy,"",Christen Press,2,64,58,1198,0,2,0,-1,-1
+1528276,44,8,Foul,67:56,Foul called on Lori Chalupny,11271,CHI,370166,825232,0,Lori Chalupny,Kristen Edmonds,"",2,67,56,1376,0,2,0,-1,-1
+1528276,45,20,Shot on Goal,69:10,Shot on goal by Kristen Edmonds,23845,WNY,825232,869019,0,Kristen Edmonds,Michele Dalton,"",2,69,10,1450,0,2,0,-1,-1
+1528276,46,5,Corner Kick,69:34,Corner kick taken by Becky Edwards,23845,WNY,537247,537314,0,Becky Edwards,Taryn Hemmings,"",2,69,34,1474,0,2,0,0,0
+1528276,47,5,Corner Kick,69:59,Corner kick taken by Lady Andrade,23845,WNY,598397,738830,0,Lady Andrade,Jen Hoy,"",2,69,59,1499,0,2,0,0,70
+1528276,48,8,Foul,73:14,Foul called on Lady Andrade,23845,WNY,598397,370166,0,Lady Andrade,Lori Chalupny,"",2,73,14,1694,0,2,0,-1,-1
+1528276,49,22,Substitution,74:14,Ajara Nchout substituted in for Lady Andrade,23845,WNY,868987,0,0,Ajara Nchout,"","",2,74,14,1754,0,2,0,-1,-1
+1528276,50,8,Foul,75:36,Foul called on Michelle Heyman,23845,WNY,795603,755333,0,Michelle Heyman,Sofia Huerta,"",2,75,36,1836,0,2,0,-1,-1
+1528276,51,16,Offside,76:38,Offsides called on Sofia Huerta,11271,CHI,755333,0,0,Sofia Huerta,"","",2,76,38,1898,0,2,0,-1,-1
+1528276,52,19,Shot,80:24,Shot taken by Halimatu Ayinde,23845,WNY,872196,0,0,Halimatu Ayinde,"","",2,80,24,2124,0,2,0,-1,-1
+1528276,53,22,Substitution,81:44,Melissa Tancredi substituted in for Lori Chalupny,11271,CHI,490175,0,0,Melissa Tancredi,"","",2,81,44,2204,0,2,0,-1,-1
+1528276,54,19,Shot,82:32,Shot taken by Jaelene Hinkle,23845,WNY,868991,0,0,Jaelene Hinkle,"","",2,82,32,2252,0,2,0,-1,-1
+1528276,55,8,Foul,85:32,Foul called on Abby Erceg,11271,CHI,597649,868987,0,Abby Erceg,Ajara Nchout,"",2,85,32,2432,0,2,0,-1,-1
+1528276,56,2,Caution,85:46,Yellow card given to Abby Erceg (Reckless Foul),11271,CHI,597649,0,0,Abby Erceg,"","",2,85,46,2446,0,2,0,-1,-1
+1528276,57,22,Substitution,86:19,Rachel Quon substituted in for Vanessa DiBernardo,11271,CHI,732024,0,0,Rachel Quon,"","",2,86,19,2479,0,2,0,-1,-1
+1528276,58,8,Foul,87:03,Foul called on Ajara Nchout,23845,WNY,868987,725481,0,Ajara Nchout,Julie Johnston,"",2,87,3,2523,0,2,0,-1,-1
+1528276,59,20,Shot on Goal,88:19,Shot on goal by Jen Hoy,11271,CHI,738830,732074,0,Jen Hoy,Chantel Jones,"",2,88,19,2599,0,2,0,-1,-1
+1528276,60,8,Foul,90:01,Foul called on Christen Press,11271,CHI,593765,490937,0,Christen Press,Ashley Nick,"",2,90,1,2701,1,2,0,-1,-1
+1528276,61,5,Corner Kick,92:17,Corner kick taken by Elizabeth Eddy,23845,WNY,871933,725481,0,Elizabeth Eddy,Julie Johnston,"",2,92,17,2837,3,2,0,0,70
+1528276,62,16,Offside,93:42,Offsides called on Halimatu Ayinde,23845,WNY,872196,0,0,Halimatu Ayinde,"","",2,93,42,2922,4,2,0,-1,-1
+1528276,63,13,Half Over,94:11,2nd Half ended,23845,WNY,0,0,0,"","","",2,94,11,2951,5,2,0,-1,-1
+1528276,64,10,Game Over,94:11,Game Over,23845,WNY,0,0,0,"","","",2,94,11,2951,5,2,0,-1,-1
+1528277,1,21,Start Half,00:00,1st Half started,26581,SEA,0,0,0,"","","",1,0,0,0,0,0,0,-1,-1
+1528277,2,16,Offside,02:43,Offsides called on Merritt Mathias,26581,SEA,732012,0,0,Merritt Mathias,"","",1,2,43,163,0,0,0,13,3
+1528277,3,8,Foul,03:36,Foul called on Sarah Killion,11275,NJ,821394,725494,0,Sarah Killion,Kim Little,"",1,3,36,216,0,0,0,77,16
+1528277,4,16,Offside,03:52,Offsides called on Merritt Mathias,26581,SEA,732012,0,0,Merritt Mathias,"","",1,3,52,232,0,0,0,38,5
+1528277,5,8,Foul,04:56,Foul called on Jessica Fishlock,26581,SEA,732082,640743,0,Jessica Fishlock,Katy Freels,"",1,4,56,296,0,0,0,83,58
+1528277,6,20,Shot on Goal,05:35,Shot on goal by Nadia Nadim,11275,NJ,821422,0,0,Nadia Nadim,"","",1,5,35,335,0,0,0,84,53
+1528277,7,11,Goal,05:36,Nadia Nadim scored a goal,11275,NJ,821422,0,0,Nadia Nadim,"","",1,5,36,336,0,1,0,84,53
+1528277,8,16,Offside,07:04,Offsides called on Merritt Mathias,26581,SEA,732012,0,0,Merritt Mathias,"","",1,7,4,424,0,1,0,43,30
+1528277,9,8,Foul,10:48,Foul called on Megan Rapinoe,26581,SEA,490447,821394,0,Megan Rapinoe,Sarah Killion,"",1,10,48,648,0,1,0,69,10
+1528277,10,6,Cross,12:00,Cross by Megan Rapinoe,26581,SEA,490447,490933,0,Megan Rapinoe,Brittany Cameron,"",1,12,0,720,0,1,0,10,8
+1528277,11,8,Foul,12:51,Foul called on Megan Rapinoe,26581,SEA,490447,640743,0,Megan Rapinoe,Katy Freels,"",1,12,51,771,0,1,0,95,9
+1528277,12,8,Foul,13:36,Foul called on Katy Freels,11275,NJ,640743,0,0,Katy Freels,"","",1,13,36,816,0,1,0,91,31
+1528277,13,5,Corner Kick,14:38,Corner kick taken by Kelley O'Hara,11275,NJ,537236,0,0,Kelley O'Hara,"","",1,14,38,878,0,1,0,105,0
+1528277,14,8,Foul,14:39,Foul called on Nadia Nadim,11275,NJ,821422,370177,0,Nadia Nadim,Hope Solo,"",1,14,39,879,0,1,0,98,33
+1528277,15,19,Shot,20:55,Shot taken by Caitlin Foord,11275,NJ,597680,0,0,Caitlin Foord,"","",1,20,55,1255,0,1,0,92,58
+1528277,16,46,Goal Kick,21:12,Goal kick taken by Hope Solo,26581,SEA,370177,0,0,Hope Solo,"","",1,21,12,1272,0,1,0,-1,-1
+1528277,17,8,Foul,22:09,Foul called on Megan Rapinoe,26581,SEA,490447,821422,0,Megan Rapinoe,Nadia Nadim,"",1,22,9,1329,0,1,0,56,35
+1528277,18,6,Cross,23:13,Cross by Caitlin Foord,11275,NJ,597680,370177,0,Caitlin Foord,Hope Solo,"",1,23,13,1393,0,1,0,103,51
+1528277,19,6,Cross,25:44,Cross by Megan Rapinoe,26581,SEA,490447,490933,0,Megan Rapinoe,Brittany Cameron,"",1,25,44,1544,0,1,0,9,3
+1528277,20,5,Corner Kick,29:49,Corner kick taken by Megan Rapinoe,26581,SEA,490447,597680,0,Megan Rapinoe,Caitlin Foord,"",1,29,49,1789,0,1,0,0,70
+1528277,21,46,Goal Kick,30:44,Goal kick taken by Brittany Cameron,11275,NJ,490933,0,0,Brittany Cameron,"","",1,30,44,1844,0,1,0,-1,-1
+1528277,22,46,Goal Kick,31:41,Goal kick taken by Brittany Cameron,11275,NJ,490933,0,0,Brittany Cameron,"","",1,31,41,1901,0,1,0,-1,-1
+1528277,23,8,Foul,32:52,Foul called on Megan Rapinoe,26581,SEA,490447,0,0,Megan Rapinoe,"","",1,32,52,1972,0,1,0,10,27
+1528277,24,8,Foul,33:49,Foul called on Nadia Nadim,11275,NJ,821422,725494,0,Nadia Nadim,Kim Little,"",1,33,49,2029,0,1,0,86,35
+1528277,25,8,Foul,34:29,Foul called on Kim Little,26581,SEA,725494,821394,0,Kim Little,Sarah Killion,"",1,34,29,2069,0,1,0,26,60
+1528277,26,6,Cross,36:02,Cross by Samantha Kerr,11275,NJ,597674,370177,0,Samantha Kerr,Hope Solo,"",1,36,2,2162,0,1,0,98,59
+1528277,27,6,Cross,37:08,Cross by Kendall Fletcher,26581,SEA,490162,490933,0,Kendall Fletcher,Brittany Cameron,"",1,37,8,2228,0,1,0,24,6
+1528277,28,20,Shot on Goal,39:27,Shot on goal by Kim Little,26581,SEA,725494,490933,0,Kim Little,Brittany Cameron,"",1,39,27,2367,0,1,0,7,29
+1528277,29,5,Corner Kick,39:48,Corner kick taken by Stephanie Cox,26581,SEA,490160,0,0,Stephanie Cox,"","",1,39,48,2388,0,1,0,0,0
+1528277,30,8,Foul,42:55,Foul called on Megan Rapinoe,26581,SEA,490447,597680,0,Megan Rapinoe,Caitlin Foord,"",1,42,55,2575,0,1,0,28,61
+1528277,31,6,Cross,45:08,Cross by Katrine Veje,26581,SEA,821408,0,0,Katrine Veje,"","",1,45,8,2708,1,1,0,13,14
+1528277,32,13,Half Over,46:00,1st Half ended,26581,SEA,0,0,0,"","","",1,46,0,2760,2,1,0,-1,-1
+1528277,33,21,Start Half,45:00,2nd Half started,26581,SEA,0,0,0,"","","",2,45,0,0,0,1,0,-1,-1
+1528277,34,8,Foul,48:13,Foul called on Katrine Veje,26581,SEA,821408,597680,0,Katrine Veje,Caitlin Foord,"",2,48,13,193,0,1,0,92,4
+1528277,35,8,Foul,49:14,Foul called on Samantha Kerr,11275,NJ,597674,821408,0,Samantha Kerr,Katrine Veje,"",2,49,14,254,0,1,0,61,4
+1528277,36,16,Offside,50:03,Offsides called on Merritt Mathias,26581,SEA,732012,0,0,Merritt Mathias,"","",2,50,3,303,0,1,0,85,65
+1528277,37,6,Cross,51:02,Cross by Megan Rapinoe,26581,SEA,490447,819336,0,Megan Rapinoe,Hayley Haagsma,"",2,51,2,362,0,1,0,95,53
+1528277,38,46,Goal Kick,52:59,Goal kick taken by Brittany Cameron,11275,NJ,490933,0,0,Brittany Cameron,"","",2,52,59,479,0,1,0,-1,-1
+1528277,39,8,Foul,56:59,Foul called on Caitlin Foord,11275,NJ,597680,725494,0,Caitlin Foord,Kim Little,"",2,56,59,719,0,1,0,85,11
+1528277,40,20,Shot on Goal,57:43,Shot on goal by Jessica Fishlock,26581,SEA,732082,490933,0,Jessica Fishlock,Brittany Cameron,"",2,57,43,763,0,1,0,102,28
+1528277,41,5,Corner Kick,58:03,Corner kick taken by Megan Rapinoe,26581,SEA,490447,0,0,Megan Rapinoe,"","",2,58,3,783,0,1,0,105,0
+1528277,42,46,Goal Kick,58:29,Goal kick taken by Brittany Cameron,11275,NJ,490933,0,0,Brittany Cameron,"","",2,58,29,809,0,1,0,-1,-1
+1528277,43,8,Foul,59:30,Foul called on Jessica Fishlock,26581,SEA,732082,640743,0,Jessica Fishlock,Katy Freels,"",2,59,30,870,0,1,0,46,53
+1528277,44,6,Cross,61:23,Cross by Nadia Nadim,11275,NJ,821422,370177,0,Nadia Nadim,Hope Solo,"",2,61,23,983,0,1,0,8,9
+1528277,45,8,Foul,61:37,Foul called on Hayley Haagsma,11275,NJ,819336,725494,0,Hayley Haagsma,Kim Little,"",2,61,37,997,0,1,0,42,27
+1528277,46,2,Caution,61:51,Yellow card given to Hayley Haagsma (Reckless Foul),11275,NJ,819336,0,0,Hayley Haagsma,"","",2,61,51,1011,0,1,0,-1,-1
+1528277,47,6,Cross,64:17,Cross by Katrine Veje,26581,SEA,821408,0,0,Katrine Veje,"","",2,64,17,1157,0,1,0,92,23
+1528277,48,8,Foul,64:55,Foul called on Stephanie Cox,26581,SEA,490160,597680,0,Stephanie Cox,Caitlin Foord,"",2,64,55,1195,0,1,0,21,4
+1528277,49,8,Foul,66:36,Foul called on Keelin Winters,26581,SEA,593736,821422,0,Keelin Winters,Nadia Nadim,"",2,66,36,1296,0,1,0,63,22
+1528277,50,2,Caution,67:04,Yellow card given to Keelin Winters (Reckless Foul),26581,SEA,593736,0,0,Keelin Winters,"","",2,67,4,1324,0,1,0,-1,-1
+1528277,51,8,Foul,67:32,Foul called on Katy Freels,11275,NJ,640743,490160,0,Katy Freels,Stephanie Cox,"",2,67,32,1352,0,1,0,16,5
+1528277,52,5,Corner Kick,68:02,Corner kick taken by Stephanie Cox,26581,SEA,490160,640708,0,Stephanie Cox,Cami Levin,"",2,68,2,1382,0,1,0,105,70
+1528277,53,20,Shot on Goal,68:59,Shot on goal by Merritt Mathias,26581,SEA,732012,490933,0,Merritt Mathias,Brittany Cameron,"",2,68,59,1439,0,1,0,77,34
+1528277,54,20,Shot on Goal,69:48,Shot on goal by Kim Little,26581,SEA,725494,597680,0,Kim Little,Caitlin Foord,"",2,69,48,1488,0,1,0,90,19
+1528277,55,22,Substitution,70:52,Mariah Bullock substituted in for Keelin Winters,26581,SEA,732084,0,0,Mariah Bullock,"","",2,70,52,1552,0,1,0,-1,-1
+1528277,56,19,Shot,71:59,Shot taken by Megan Rapinoe against Kelley O'Hara,26581,SEA,490447,537236,0,Megan Rapinoe,Kelley O'Hara,"",2,71,59,1619,0,1,0,80,48
+1528277,57,5,Corner Kick,72:16,Corner kick taken by Stephanie Cox,26581,SEA,490160,490933,0,Stephanie Cox,Brittany Cameron,"",2,72,16,1636,0,1,0,105,70
+1528277,58,19,Shot,73:30,Shot taken by Kim Little,26581,SEA,725494,0,0,Kim Little,"","",2,73,30,1710,0,1,0,85,42
+1528277,59,46,Goal Kick,73:52,Goal kick taken by Brittany Cameron,11275,NJ,490933,0,0,Brittany Cameron,"","",2,73,52,1732,0,1,0,-1,-1
+1528277,60,22,Substitution,74:07,Nikki Stanton substituted in for Katy Freels,11275,NJ,826344,0,0,Nikki Stanton,"","",2,74,7,1747,0,1,0,-1,-1
+1528277,61,8,Foul,75:30,Foul called on Kelley O'Hara,11275,NJ,537236,821408,0,Kelley O'Hara,Katrine Veje,"",2,75,30,1830,0,1,0,67,7
+1528277,62,6,Cross,76:10,Cross by Megan Rapinoe,26581,SEA,490447,0,0,Megan Rapinoe,"","",2,76,10,1870,0,1,0,94,51
+1528277,63,19,Shot,76:44,Shot taken by Kim Little,26581,SEA,725494,0,0,Kim Little,"","",2,76,44,1904,0,1,0,97,28
+1528277,64,22,Substitution,79:47,Danielle Foxhoven substituted in for Merritt Mathias,26581,SEA,640768,0,0,Danielle Foxhoven,"","",2,79,47,2087,0,1,0,-1,-1
+1528277,65,22,Substitution,79:57,Elli Reed substituted in for Katrine Veje,26581,SEA,593735,0,0,Elli Reed,"","",2,79,57,2097,0,1,0,-1,-1
+1528277,66,19,Shot,80:43,Shot taken by Megan Rapinoe,26581,SEA,490447,0,0,Megan Rapinoe,"","",2,80,43,2143,0,1,0,86,55
+1528277,67,46,Goal Kick,80:55,Goal kick taken by Brittany Cameron,11275,NJ,490933,0,0,Brittany Cameron,"","",2,80,55,2155,0,1,0,-1,-1
+1528277,68,8,Foul,81:55,Foul called on Nikki Stanton,11275,NJ,826344,490447,0,Nikki Stanton,Megan Rapinoe,"",2,81,55,2215,0,1,0,80,52
+1528277,69,19,Shot,82:44,Shot taken by Kim Little,26581,SEA,725494,0,0,Kim Little,"","",2,82,44,2264,0,1,0,87,52
+1528277,70,19,Shot,83:59,Shot taken by Kim Little,26581,SEA,725494,0,0,Kim Little,"","",2,83,59,2339,0,1,0,85,55
+1528277,71,46,Goal Kick,84:15,Goal kick taken by Brittany Cameron,11275,NJ,490933,0,0,Brittany Cameron,"","",2,84,15,2355,0,1,0,-1,-1
+1528277,72,20,Shot on Goal,84:37,Shot on goal by Megan Rapinoe,26581,SEA,490447,490933,0,Megan Rapinoe,Brittany Cameron,"",2,84,37,2377,0,1,0,83,57
+1528277,73,8,Foul,87:15,Foul called on Kelley O'Hara,11275,NJ,537236,490447,0,Kelley O'Hara,Megan Rapinoe,"",2,87,15,2535,0,1,0,41,56
+1528277,74,6,Cross,89:04,Cross by Kendall Fletcher,26581,SEA,490162,597680,0,Kendall Fletcher,Caitlin Foord,"",2,89,4,2644,0,1,0,86,58
+1528277,75,20,Shot on Goal,89:57,Shot on goal by Jessica Fishlock,26581,SEA,732082,0,0,Jessica Fishlock,"","",2,89,57,2697,0,1,0,94,13
+1528277,76,11,Goal,89:58,Jessica Fishlock scored a goal assisted by Kim Little,26581,SEA,732082,0,725494,Jessica Fishlock,"",Kim Little,2,89,58,2698,0,1,1,94,13
+1528277,77,6,Cross,91:48,Cross by Nadia Nadim,11275,NJ,821422,370177,0,Nadia Nadim,Hope Solo,"",2,91,48,2808,2,1,1,14,7
+1528277,78,8,Foul,92:02,Foul called on Megan Rapinoe,26581,SEA,490447,640708,0,Megan Rapinoe,Cami Levin,"",2,92,2,2822,3,1,1,49,64
+1528277,79,19,Shot,92:32,Shot taken by Danielle Foxhoven,26581,SEA,640768,0,0,Danielle Foxhoven,"","",2,92,32,2852,3,1,1,99,24
+1528277,80,46,Goal Kick,92:47,Goal kick taken by Brittany Cameron,11275,NJ,490933,0,0,Brittany Cameron,"","",2,92,47,2867,3,1,1,-1,-1
+1528277,81,13,Half Over,93:10,2nd Half ended,26581,SEA,0,0,0,"","","",2,93,10,2890,4,1,1,-1,-1
+1528277,82,10,Game Over,93:10,Game Over,26581,SEA,0,0,0,"","","",2,93,10,2890,4,1,1,-1,-1
+1528279,1,21,Start Half,00:00,1st Half started,26580,POR,0,0,0,"","","",1,0,0,0,0,0,0,-1,-1
+1528279,2,16,Offside,02:11,Offsides called on Sinead Farrelly,26580,POR,592096,0,0,Sinead Farrelly,"","",1,2,11,131,0,0,0,97,62
+1528279,3,5,Corner Kick,03:07,Corner kick taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",1,3,7,187,0,0,0,105,70
+1528279,4,19,Shot,03:08,Shot taken by Clare Polkinghorne against Ashlyn Harris,26580,POR,597668,537263,0,Clare Polkinghorne,Ashlyn Harris,"",1,3,8,188,0,0,0,97,24
+1528279,5,5,Corner Kick,03:51,Corner kick taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",1,3,51,231,0,0,0,105,0
+1528279,6,5,Corner Kick,05:07,Corner kick taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",1,5,7,307,0,0,0,105,70
+1528279,7,20,Shot on Goal,05:45,Shot on goal by Francisca Ordega,26582,WAS,598541,0,0,Francisca Ordega,"","",1,5,45,345,0,0,0,8,41
+1528279,8,11,Goal,05:46,Francisca Ordega scored a goal assisted by Crystal Dunn,26582,WAS,598541,0,725480,Francisca Ordega,"",Crystal Dunn,1,5,46,346,0,1,0,8,41
+1528279,9,5,Corner Kick,07:20,Corner kick taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",1,7,20,440,0,1,0,105,70
+1528279,10,8,Foul,08:29,Foul called on Francisca Ordega,26582,WAS,598541,490452,0,Francisca Ordega,Allie Long,"",1,8,29,509,0,1,0,42,36
+1528279,11,19,Shot,09:08,Shot taken by Sinead Farrelly against Ashlyn Harris,26580,POR,592096,537263,0,Sinead Farrelly,Ashlyn Harris,"",1,9,8,548,0,1,0,99,43
+1528279,12,16,Offside,11:12,Offsides called on Joanna Lohman,26582,WAS,490174,0,0,Joanna Lohman,"","",1,11,12,672,0,1,0,7,64
+1528279,13,8,Foul,12:35,Foul called on Katherine Reynolds,26582,WAS,537281,540988,0,Katherine Reynolds,Lianne Sanderson,"",1,12,35,755,0,1,0,94,62
+1528279,14,19,Shot,13:39,Shot taken by Crystal Dunn against Kat Williamson,26582,WAS,725480,732016,0,Crystal Dunn,Kat Williamson,"",1,13,39,819,0,1,0,11,29
+1528279,15,5,Corner Kick,13:54,Corner kick taken by Christine Nairn,26582,WAS,732091,490452,0,Christine Nairn,Allie Long,"",1,13,54,834,0,1,0,0,0
+1528279,16,20,Shot on Goal,15:35,Shot on goal by Francisca Ordega,26582,WAS,598541,370261,0,Francisca Ordega,Nadine Angerer,"",1,15,35,935,0,1,0,3,25
+1528279,17,5,Corner Kick,16:04,Corner kick taken by Christine Nairn,26582,WAS,732091,592096,0,Christine Nairn,Sinead Farrelly,"",1,16,4,964,0,1,0,0,0
+1528279,18,8,Foul,16:27,Foul called on Diana Matheson,26582,WAS,370192,592096,0,Diana Matheson,Sinead Farrelly,"",1,16,27,987,0,1,0,45,19
+1528279,19,2,Caution,16:40,Yellow card given to Diana Matheson (Reckless Foul),26582,WAS,370192,0,0,Diana Matheson,"","",1,16,40,1000,0,1,0,-1,-1
+1528279,20,5,Corner Kick,19:34,Corner kick taken by Tobin Heath,26580,POR,537234,0,0,Tobin Heath,"","",1,19,34,1174,0,1,0,105,0
+1528279,21,19,Shot,20:15,Shot taken by Kendall Johnson,26580,POR,732027,0,0,Kendall Johnson,"","",1,20,15,1215,0,1,0,86,35
+1528279,22,5,Corner Kick,20:26,Corner kick taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",1,20,26,1226,0,1,0,105,0
+1528279,23,19,Shot,20:26,Shot taken by Sinead Farrelly,26580,POR,592096,0,0,Sinead Farrelly,"","",1,20,26,1226,0,1,0,99,38
+1528279,24,8,Foul,21:22,Foul called on McCall Zerboni,26580,POR,490490,598541,0,McCall Zerboni,Francisca Ordega,"",1,21,22,1282,0,1,0,44,32
+1528279,25,16,Offside,22:46,Offsides called on Diana Matheson,26582,WAS,370192,0,0,Diana Matheson,"","",1,22,46,1366,0,1,0,36,52
+1528279,26,5,Corner Kick,24:55,Corner kick taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",1,24,55,1495,0,1,0,0,70
+1528279,27,19,Shot,24:56,Shot taken by Joanna Lohman,26582,WAS,490174,0,0,Joanna Lohman,"","",1,24,56,1496,0,1,0,9,32
+1528279,28,16,Offside,28:30,Offsides called on Alex Morgan,26580,POR,593750,0,0,Alex Morgan,"","",1,28,30,1710,0,1,0,85,28
+1528279,29,19,Shot,31:48,Shot taken by Ali Krieger,26582,WAS,490191,0,0,Ali Krieger,"","",1,31,48,1908,0,1,0,14,42
+1528279,30,19,Shot,32:51,Shot taken by Tobin Heath,26580,POR,537234,0,0,Tobin Heath,"","",1,32,51,1971,0,1,0,95,43
+1528279,31,22,Substitution,33:03,Kaylyn Kyle substituted in for McCall Zerboni,26580,POR,598355,0,0,Kaylyn Kyle,"","",1,33,3,1983,0,1,0,-1,-1
+1528279,32,16,Offside,36:06,Offsides called on Francisca Ordega,26582,WAS,598541,0,0,Francisca Ordega,"","",1,36,6,2166,0,1,0,38,11
+1528279,33,8,Foul,39:27,Foul called on Joanna Lohman,26582,WAS,490174,490452,0,Joanna Lohman,Allie Long,"",1,39,27,2367,0,1,0,39,50
+1528279,34,20,Shot on Goal,40:49,Shot on goal by Diana Matheson,26582,WAS,370192,370261,0,Diana Matheson,Nadine Angerer,"",1,40,49,2449,0,1,0,11,47
+1528279,35,5,Corner Kick,41:05,Corner kick taken by Christine Nairn,26582,WAS,732091,593750,0,Christine Nairn,Alex Morgan,"",1,41,5,2465,0,1,0,0,70
+1528279,36,19,Shot,41:42,Shot taken by Ali Krieger,26582,WAS,490191,0,0,Ali Krieger,"","",1,41,42,2502,0,1,0,19,30
+1528279,37,8,Foul,43:19,Foul called on Kendall Johnson,26580,POR,732027,725480,0,Kendall Johnson,Crystal Dunn,"",1,43,19,2599,0,1,0,11,9
+1528279,38,5,Corner Kick,45:17,Corner kick taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",1,45,17,2717,1,1,0,0,0
+1528279,39,20,Shot on Goal,45:17,Shot on goal by Crystal Dunn,26582,WAS,725480,0,0,Crystal Dunn,"","",1,45,17,2717,1,1,0,6,33
+1528279,40,11,Goal,45:17,Crystal Dunn scored a goal assisted by Christine Nairn,26582,WAS,725480,0,732091,Crystal Dunn,"",Christine Nairn,1,45,17,2717,1,2,0,6,33
+1528279,41,20,Shot on Goal,47:25,Shot on goal by Alex Morgan,26580,POR,593750,537263,0,Alex Morgan,Ashlyn Harris,"",1,47,25,2845,3,2,0,90,35
+1528279,42,13,Half Over,47:55,1st Half ended,26580,POR,0,0,0,"","","",1,47,55,2875,3,2,0,-1,-1
+1528279,43,21,Start Half,45:00,2nd Half started,26580,POR,0,0,0,"","","",2,45,0,0,0,2,0,-1,-1
+1528279,44,16,Offside,45:25,Offsides called on Crystal Dunn,26582,WAS,725480,0,0,Crystal Dunn,"","",2,45,25,25,0,2,0,59,29
+1528279,45,16,Offside,49:53,Offsides called on Francisca Ordega,26582,WAS,598541,0,0,Francisca Ordega,"","",2,49,53,293,0,2,0,82,62
+1528279,46,8,Foul,50:31,Foul called on Sinead Farrelly,26580,POR,592096,537281,0,Sinead Farrelly,Katherine Reynolds,"",2,50,31,331,0,2,0,13,18
+1528279,47,8,Foul,51:25,Foul called on Francisca Ordega,26582,WAS,598541,490452,0,Francisca Ordega,Allie Long,"",2,51,25,385,0,2,0,77,35
+1528279,48,8,Foul,51:44,Foul called on Estelle Johnson,26582,WAS,537272,593750,0,Estelle Johnson,Alex Morgan,"",2,51,44,404,0,2,0,30,35
+1528279,49,20,Shot on Goal,52:53,Shot on goal by Alex Morgan,26580,POR,593750,0,0,Alex Morgan,"","",2,52,53,473,0,2,0,12,31
+1528279,50,11,Goal,52:54,Alex Morgan scored a goal assisted by Lianne Sanderson,26580,POR,593750,0,540988,Alex Morgan,"",Lianne Sanderson,2,52,54,474,0,2,1,12,31
+1528279,51,19,Shot,55:41,Shot taken by Alex Morgan against Megan Oyster,26580,POR,593750,868978,0,Alex Morgan,Megan Oyster,"",2,55,41,641,0,2,1,8,24
+1528279,52,5,Corner Kick,55:50,Corner kick taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",2,55,50,650,0,2,1,0,0
+1528279,53,20,Shot on Goal,55:51,Shot on goal by Alex Morgan,26580,POR,593750,537263,0,Alex Morgan,Ashlyn Harris,"",2,55,51,651,0,2,1,9,37
+1528279,54,16,Offside,58:08,Offsides called on Alex Morgan,26580,POR,593750,0,0,Alex Morgan,"","",2,58,8,788,0,2,1,15,45
+1528279,55,8,Foul,59:34,Foul called on Francisca Ordega,26582,WAS,598541,732027,0,Francisca Ordega,Kendall Johnson,"",2,59,34,874,0,2,1,10,61
+1528279,56,8,Foul,59:54,Foul called on Francisca Ordega,26582,WAS,598541,593750,0,Francisca Ordega,Alex Morgan,"",2,59,54,894,0,2,1,6,59
+1528279,57,9,Free Kick,60:23,Free kick taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",2,60,23,923,0,2,1,8,60
+1528279,58,20,Shot on Goal,60:24,Shot on goal by Allie Long,26580,POR,490452,537263,0,Allie Long,Ashlyn Harris,"",2,60,24,924,0,2,1,8,60
+1528279,59,19,Shot,60:44,Shot taken by Lianne Sanderson,26580,POR,540988,0,0,Lianne Sanderson,"","",2,60,44,944,0,2,1,24,35
+1528279,60,8,Foul,61:03,Foul called on Sinead Farrelly,26580,POR,592096,490174,0,Sinead Farrelly,Joanna Lohman,"",2,61,3,963,0,2,1,46,19
+1528279,61,19,Shot,61:28,Shot taken by Joanna Lohman against Kaylyn Kyle,26582,WAS,490174,598355,0,Joanna Lohman,Kaylyn Kyle,"",2,61,28,988,0,2,1,77,32
+1528279,62,22,Substitution,64:42,Jodie Taylor substituted in for Lianne Sanderson,26580,POR,824961,0,0,Jodie Taylor,"","",2,64,42,1182,0,2,1,-1,-1
+1528279,63,8,Foul,66:19,Foul called on Allie Long,26580,POR,490452,490174,0,Allie Long,Joanna Lohman,"",2,66,19,1279,0,2,1,34,63
+1528279,64,2,Caution,66:28,Yellow card given to Allie Long (Reckless Foul),26580,POR,490452,0,0,Allie Long,"","",2,66,28,1288,0,2,1,-1,-1
+1528279,65,19,Shot,68:09,Shot taken by Ali Krieger,26582,WAS,490191,0,0,Ali Krieger,"","",2,68,9,1389,0,2,1,81,40
+1528279,66,8,Foul,69:07,Foul called on Estelle Johnson,26582,WAS,537272,537234,0,Estelle Johnson,Tobin Heath,"",2,69,7,1447,0,2,1,11,26
+1528279,67,9,Free Kick,70:01,Free kick taken by Tobin Heath,26580,POR,537234,0,0,Tobin Heath,"","",2,70,1,1501,0,2,1,11,35
+1528279,68,20,Shot on Goal,70:01,Shot on goal by Tobin Heath,26580,POR,537234,0,0,Tobin Heath,"","",2,70,1,1501,0,2,1,11,35
+1528279,69,17,Penalty Kick - Good,70:01,Penalty kick taken by Tobin Heath - GOOD,26580,POR,537234,537263,0,Tobin Heath,Ashlyn Harris,"",2,70,1,1501,0,2,2,11,35
+1528279,70,22,Substitution,70:59,Tori Huster substituted in for Joanna Lohman,26582,WAS,640736,0,0,Tori Huster,"","",2,70,59,1559,0,2,2,-1,-1
+1528279,71,19,Shot,72:05,Shot taken by Rachel Van Hollebeke,26580,POR,490150,0,0,Rachel Van Hollebeke,"","",2,72,5,1625,0,2,2,29,23
+1528279,72,20,Shot on Goal,73:13,Shot on goal by Christine Nairn,26582,WAS,732091,370261,0,Christine Nairn,Nadine Angerer,"",2,73,13,1693,0,2,2,73,36
+1528279,73,8,Foul,73:35,Foul called on Allie Long,26580,POR,490452,598541,0,Allie Long,Francisca Ordega,"",2,73,35,1715,0,2,2,57,49
+1528279,74,5,Corner Kick,74:22,Corner kick taken by Allie Long,26580,POR,490452,725480,0,Allie Long,Crystal Dunn,"",2,74,22,1762,0,2,2,0,0
+1528279,75,5,Corner Kick,75:04,Corner kick taken by Allie Long,26580,POR,490452,868978,0,Allie Long,Megan Oyster,"",2,75,4,1804,0,2,2,0,0
+1528279,76,22,Substitution,75:42,Ngozi Okobi substituted in for Francisca Ordega,26582,WAS,872199,0,0,Ngozi Okobi,"","",2,75,42,1842,0,2,2,-1,-1
+1528279,77,19,Shot,76:52,Shot taken by Tobin Heath,26580,POR,537234,0,0,Tobin Heath,"","",2,76,52,1912,0,2,2,22,23
+1528279,78,19,Shot,78:18,Shot taken by Diana Matheson,26582,WAS,370192,0,0,Diana Matheson,"","",2,78,18,1998,0,2,2,73,28
+1528279,79,8,Foul,78:48,Foul called on Christine Nairn,26582,WAS,732091,598355,0,Christine Nairn,Kaylyn Kyle,"",2,78,48,2028,0,2,2,62,30
+1528279,80,20,Shot on Goal,79:03,Shot on goal by Jodie Taylor,26580,POR,824961,0,0,Jodie Taylor,"","",2,79,3,2043,0,2,2,4,30
+1528279,81,11,Goal,79:04,Jodie Taylor scored a goal assisted by Alex Morgan,26580,POR,824961,0,593750,Jodie Taylor,"",Alex Morgan,2,79,4,2044,0,2,3,4,30
+1528279,82,20,Shot on Goal,80:00,Shot on goal by Crystal Dunn,26582,WAS,725480,0,0,Crystal Dunn,"","",2,80,0,2100,0,2,3,89,34
+1528279,83,11,Goal,80:01,Crystal Dunn scored a goal,26582,WAS,725480,0,0,Crystal Dunn,"","",2,80,1,2101,0,3,3,89,34
+1528279,84,8,Foul,81:23,Foul called on Sinead Farrelly,26580,POR,592096,868978,0,Sinead Farrelly,Megan Oyster,"",2,81,23,2183,0,3,3,16,35
+1528279,85,20,Shot on Goal,82:31,Shot on goal by Tobin Heath,26580,POR,537234,537263,0,Tobin Heath,Ashlyn Harris,"",2,82,31,2251,0,3,3,32,25
+1528279,86,22,Substitution,84:12,Meleana Shim substituted in for Rachel Van Hollebeke,26580,POR,732017,0,0,Meleana Shim,"","",2,84,12,2352,0,3,3,-1,-1
+1528279,87,8,Foul,85:05,Foul called on Kat Williamson,26580,POR,732016,725480,0,Kat Williamson,Crystal Dunn,"",2,85,5,2405,0,3,3,78,35
+1528279,88,2,Caution,85:14,Yellow card given to Kat Williamson (Tactical Foul),26580,POR,732016,0,0,Kat Williamson,"","",2,85,14,2414,0,3,3,-1,-1
+1528279,89,9,Free Kick,86:16,Free kick taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",2,86,16,2476,0,3,3,80,35
+1528279,90,19,Shot,86:17,Shot taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",2,86,17,2477,0,3,3,80,35
+1528279,91,19,Shot,88:37,Shot taken by Tobin Heath against Christine Nairn,26580,POR,537234,732091,0,Tobin Heath,Christine Nairn,"",2,88,37,2617,0,3,3,21,31
+1528279,92,5,Corner Kick,88:57,Corner kick taken by Allie Long,26580,POR,490452,868978,0,Allie Long,Megan Oyster,"",2,88,57,2637,0,3,3,0,70
+1528279,93,19,Shot,89:27,Shot taken by Jodie Taylor,26580,POR,824961,0,0,Jodie Taylor,"","",2,89,27,2667,0,3,3,28,33
+1528279,94,19,Shot,89:50,Shot taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",2,89,50,2690,0,3,3,11,39
+1528279,95,19,Shot,90:42,Shot taken by Jodie Taylor,26580,POR,824961,0,0,Jodie Taylor,"","",2,90,42,2742,1,3,3,11,42
+1528279,96,8,Foul,91:12,Foul called on Kaylyn Kyle,26580,POR,598355,640736,0,Kaylyn Kyle,Tori Huster,"",2,91,12,2772,2,3,3,41,10
+1528279,97,8,Foul,92:48,Foul called on Tori Huster,26582,WAS,640736,598355,0,Tori Huster,Kaylyn Kyle,"",2,92,48,2868,3,3,3,49,47
+1528279,98,20,Shot on Goal,93:00,Shot on goal by Kaylyn Kyle,26580,POR,598355,537263,0,Kaylyn Kyle,Ashlyn Harris,"",2,93,0,2880,4,3,3,9,32
+1528279,99,19,Shot,93:41,Shot taken by Sinead Farrelly against Estelle Johnson,26580,POR,592096,537272,0,Sinead Farrelly,Estelle Johnson,"",2,93,41,2921,4,3,3,18,25
+1528279,100,19,Shot,94:10,Shot taken by Jodie Taylor,26580,POR,824961,0,0,Jodie Taylor,"","",2,94,10,2950,5,3,3,13,28
+1528278,1,21,Start Half,00:00,1st Half started,27349,HOU,0,0,0,"","","",1,0,0,0,0,0,0,-1,-1
+1528278,2,5,Corner Kick,02:27,Corner kick taken by Kristie Mewis,11270,BOS,725483,0,0,Kristie Mewis,"","",1,2,27,147,0,0,0,0,0
+1528278,3,19,Shot,02:28,Shot taken by Kyah Simon,11270,BOS,597678,0,0,Kyah Simon,"","",1,2,28,148,0,0,0,3,43
+1528278,4,8,Foul,06:59,Foul called on Rachel Wood,11270,BOS,829324,537259,0,Rachel Wood,Jessica McDonald,"",1,6,59,419,0,0,0,60,62
+1528278,5,20,Shot on Goal,08:56,Shot on goal by Stephanie McCaffrey,11270,BOS,868990,370194,0,Stephanie McCaffrey,Erin McLeod,"",1,8,56,536,0,0,0,19,24
+1528278,6,8,Foul,09:34,Foul called on Rachel Wood,11270,BOS,829324,537259,0,Rachel Wood,Jessica McDonald,"",1,9,34,574,0,0,0,68,61
+1528278,7,19,Shot,11:07,Shot taken by Meghan Klingenberg against Kassey Kallman,27349,HOU,593764,824946,0,Meghan Klingenberg,Kassey Kallman,"",1,11,7,667,0,0,0,86,39
+1528278,8,20,Shot on Goal,12:36,Shot on goal by Stephanie McCaffrey,11270,BOS,868990,370194,0,Stephanie McCaffrey,Erin McLeod,"",1,12,36,756,0,0,0,12,25
+1528278,9,19,Shot,13:58,Shot taken by Kealia Ohai against Mollie Pathman,27349,HOU,824959,824953,0,Kealia Ohai,Mollie Pathman,"",1,13,58,838,0,0,0,90,48
+1528278,10,19,Shot,16:28,Shot taken by Stephanie McCaffrey,11270,BOS,868990,0,0,Stephanie McCaffrey,"","",1,16,28,988,0,0,0,13,22
+1528278,11,8,Foul,20:23,Foul called on Carli Lloyd,27349,HOU,490142,829324,0,Carli Lloyd,Rachel Wood,"",1,20,23,1223,0,0,0,74,56
+1528278,12,19,Shot,21:17,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",1,21,17,1277,0,0,0,85,40
+1528278,13,19,Shot,22:50,Shot taken by Kealia Ohai,27349,HOU,824959,0,0,Kealia Ohai,"","",1,22,50,1370,0,0,0,87,20
+1528278,14,19,Shot,23:20,Shot taken by Kyah Simon,11270,BOS,597678,0,0,Kyah Simon,"","",1,23,20,1400,0,0,0,20,23
+1528278,15,5,Corner Kick,25:42,Corner kick taken by Andressa,27349,HOU,872110,0,0, Andressa,"","",1,25,42,1542,0,0,0,105,70
+1528278,16,19,Shot,25:43,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",1,25,43,1543,0,0,0,98,31
+1528278,17,5,Corner Kick,28:06,Corner kick taken by Kristie Mewis,11270,BOS,725483,0,0,Kristie Mewis,"","",1,28,6,1686,0,0,0,0,0
+1528278,18,19,Shot,28:07,Shot taken by Maddy Evans against Jessica McDonald,11270,BOS,736519,537259,0,Maddy Evans,Jessica McDonald,"",1,28,7,1687,0,0,0,0,45
+1528278,19,8,Foul,30:24,Foul called on Lauren Lazo,11270,BOS,871174,872110,0,Lauren Lazo, Andressa,"",1,30,24,1824,0,0,0,45,20
+1528278,20,8,Foul,30:45,Foul called on Lauren Lazo,11270,BOS,871174,490142,0,Lauren Lazo,Carli Lloyd,"",1,30,45,1845,0,0,0,78,24
+1528278,21,9,Free Kick,31:19,Free kick taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",1,31,19,1879,0,0,0,81,22
+1528278,22,19,Shot,31:20,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",1,31,20,1880,0,0,0,81,22
+1528278,23,20,Shot on Goal,33:47,Shot on goal by Ella Masar,27349,HOU,490144,0,0,Ella Masar,"","",1,33,47,2027,0,0,0,102,38
+1528278,24,11,Goal,33:48,Ella Masar scored a goal assisted by Jessica McDonald,27349,HOU,490144,0,537259,Ella Masar,"",Jessica McDonald,1,33,48,2028,0,0,1,102,38
+1528278,25,5,Corner Kick,35:38,Corner kick taken by Kristie Mewis,11270,BOS,725483,370194,0,Kristie Mewis,Erin McLeod,"",1,35,38,2138,0,0,1,0,0
+1528278,26,16,Offside,36:18,Offsides called on Lauren Lazo,11270,BOS,871174,0,0,Lauren Lazo,"","",1,36,18,2178,0,0,1,28,25
+1528278,27,19,Shot,37:13,Shot taken by Kristie Mewis,11270,BOS,725483,0,0,Kristie Mewis,"","",1,37,13,2233,0,0,1,28,39
+1528278,28,5,Corner Kick,38:29,Corner kick taken by Kristie Mewis,11270,BOS,725483,0,0,Kristie Mewis,"","",1,38,29,2309,0,0,1,0,0
+1528278,29,16,Offside,42:37,Offsides called on Kyah Simon,11270,BOS,597678,0,0,Kyah Simon,"","",1,42,37,2557,0,0,1,39,43
+1528278,30,8,Foul,43:21,Foul called on Ellie Brush,27349,HOU,871937,597678,0,Ellie Brush,Kyah Simon,"",1,43,21,2601,0,0,1,34,57
+1528278,31,5,Corner Kick,44:04,Corner kick taken by Kristie Mewis,11270,BOS,725483,0,0,Kristie Mewis,"","",1,44,4,2644,0,0,1,0,0
+1528278,32,19,Shot,44:05,Shot taken by Stephanie McCaffrey against Jessica McDonald,11270,BOS,868990,537259,0,Stephanie McCaffrey,Jessica McDonald,"",1,44,5,2645,0,0,1,9,32
+1528278,33,20,Shot on Goal,45:43,Shot on goal by Andressa,27349,HOU,872110,537246,0, Andressa,Alyssa Naeher,"",1,45,43,2743,1,0,1,85,24
+1528278,34,5,Corner Kick,46:02,Corner kick taken by Andressa,27349,HOU,872110,0,0, Andressa,"","",1,46,2,2762,2,0,1,105,70
+1528278,35,19,Shot,46:03,Shot taken by Jessica McDonald,27349,HOU,537259,0,0,Jessica McDonald,"","",1,46,3,2763,2,0,1,97,36
+1528278,36,13,Half Over,47:53,1st Half ended,27349,HOU,0,0,0,"","","",1,47,53,2873,3,0,1,-1,-1
+1528278,37,21,Start Half,45:00,2nd Half started,27349,HOU,0,0,0,"","","",2,45,0,0,0,0,1,-1,-1
+1528278,38,19,Shot,45:38,Shot taken by Kealia Ohai,27349,HOU,824959,0,0,Kealia Ohai,"","",2,45,38,38,0,0,1,13,41
+1528278,39,16,Offside,46:14,Offsides called on Kealia Ohai,27349,HOU,824959,0,0,Kealia Ohai,"","",2,46,14,74,0,0,1,12,28
+1528278,40,20,Shot on Goal,47:23,Shot on goal by Kealia Ohai,27349,HOU,824959,537246,0,Kealia Ohai,Alyssa Naeher,"",2,47,23,143,0,0,1,2,44
+1528278,41,8,Foul,49:39,Foul called on Jessica McDonald,27349,HOU,537259,824953,0,Jessica McDonald,Mollie Pathman,"",2,49,39,279,0,0,1,38,44
+1528278,42,8,Foul,50:11,Foul called on Ellie Brush,27349,HOU,871937,868994,0,Ellie Brush,Suzane Pires,"",2,50,11,311,0,0,1,93,9
+1528278,43,19,Shot,50:43,Shot taken by Kassey Kallman,11270,BOS,824946,0,0,Kassey Kallman,"","",2,50,43,343,0,0,1,99,34
+1528278,44,8,Foul,51:54,Foul called on Kristie Mewis,11270,BOS,725483,0,0,Kristie Mewis,"","",2,51,54,414,0,0,1,90,24
+1528278,45,20,Shot on Goal,52:27,Shot on goal by Ella Masar,27349,HOU,490144,537246,0,Ella Masar,Alyssa Naeher,"",2,52,27,447,0,0,1,15,59
+1528278,46,5,Corner Kick,53:19,Corner kick taken by Andressa,27349,HOU,872110,0,0, Andressa,"","",2,53,19,499,0,0,1,0,70
+1528278,47,19,Shot,53:20,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",2,53,20,500,0,0,1,11,23
+1528278,48,22,Substitution,54:26,Rafaela substituted in for Stephanie McCaffrey,11270,BOS,868995,0,0, Rafaela,"","",2,54,26,566,0,0,1,-1,-1
+1528278,49,8,Foul,55:42,Foul called on Carli Lloyd,27349,HOU,490142,736519,0,Carli Lloyd,Maddy Evans,"",2,55,42,642,0,0,1,10,23
+1528278,50,19,Shot,58:33,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",2,58,33,813,0,0,1,23,40
+1528278,51,19,Shot,61:08,Shot taken by Kristie Mewis,11270,BOS,725483,0,0,Kristie Mewis,"","",2,61,8,968,0,0,1,92,31
+1528278,52,22,Substitution,61:49,Katie Schoepfer substituted in for Suzane Pires,11270,BOS,537273,0,0,Katie Schoepfer,"","",2,61,49,1009,0,0,1,-1,-1
+1528278,53,19,Shot,62:18,Shot taken by Carli Lloyd against Kassey Kallman,27349,HOU,490142,824946,0,Carli Lloyd,Kassey Kallman,"",2,62,18,1038,0,0,1,3,23
+1528278,54,5,Corner Kick,62:59,Corner kick taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",2,62,59,1079,0,0,1,0,0
+1528278,55,6,Cross,63:00,Cross by Andressa,27349,HOU,872110,716092,0, Andressa,Julie King,"",2,63,0,1080,0,0,1,4,3
+1528278,56,5,Corner Kick,64:39,Corner kick taken by Andressa,27349,HOU,872110,725483,0, Andressa,Kristie Mewis,"",2,64,39,1179,0,0,1,0,0
+1528278,57,19,Shot,66:07,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",2,66,7,1267,0,0,1,3,24
+1528278,58,20,Shot on Goal,67:02,Shot on goal by Rafaela,11270,BOS,868995,370194,0, Rafaela,Erin McLeod,"",2,67,2,1322,0,0,1,91,59
+1528278,59,8,Foul,69:44,Foul called on Rachel Wood,11270,BOS,829324,490142,0,Rachel Wood,Carli Lloyd,"",2,69,44,1484,0,0,1,38,57
+1528278,60,22,Substitution,71:08,Camila substituted in for Ella Masar,27349,HOU,873751,0,0, Camila,"","",2,71,8,1568,0,0,1,-1,-1
+1528278,61,22,Substitution,72:32,Amy Barczuk substituted in for Maddy Evans,11270,BOS,732090,0,0,Amy Barczuk,"","",2,72,32,1652,0,0,1,-1,-1
+1528278,62,19,Shot,75:18,Shot taken by Jessica McDonald,27349,HOU,537259,0,0,Jessica McDonald,"","",2,75,18,1818,0,0,1,10,43
+1528278,63,19,Shot,76:00,Shot taken by Camila,27349,HOU,873751,0,0, Camila,"","",2,76,0,1860,0,0,1,13,44
+1528278,64,16,Offside,76:24,Offsides called on Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",2,76,24,1884,0,0,1,1,33
+1528278,65,20,Shot on Goal,76:41,Shot on goal by Kristie Mewis,11270,BOS,725483,370194,0,Kristie Mewis,Erin McLeod,"",2,76,41,1901,0,0,1,91,19
+1528278,66,20,Shot on Goal,81:00,Shot on goal by Jessica McDonald,27349,HOU,537259,537246,0,Jessica McDonald,Alyssa Naeher,"",2,81,0,2160,0,0,1,7,44
+1528278,67,5,Corner Kick,82:22,Corner kick taken by Andressa,27349,HOU,872110,0,0, Andressa,"","",2,82,22,2242,0,0,1,0,0
+1528278,68,19,Shot,82:22,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",2,82,22,2242,0,0,1,11,28
+1528278,69,8,Foul,83:10,Foul called on Kyah Simon,11270,BOS,597678,737287,0,Kyah Simon,Morgan Brian,"",2,83,10,2290,0,0,1,64,36
+1528278,70,20,Shot on Goal,85:00,Shot on goal by Carli Lloyd,27349,HOU,490142,537246,0,Carli Lloyd,Alyssa Naeher,"",2,85,0,2400,0,0,1,14,30
+1528278,71,22,Substitution,85:14,Melissa Henderson substituted in for Kealia Ohai,27349,HOU,640704,0,0,Melissa Henderson,"","",2,85,14,2414,0,0,1,-1,-1
+1528278,72,8,Foul,86:22,Foul called on Julie King,11270,BOS,716092,490142,0,Julie King,Carli Lloyd,"",2,86,22,2482,0,0,1,22,48
+1528278,73,5,Corner Kick,87:57,Corner kick taken by Rafaela,11270,BOS,868995,868997,0, Rafaela,Allysha Chapman,"",2,87,57,2577,0,0,1,105,70
+1528278,74,22,Substitution,88:55,Tiffany McCarty substituted in for Jessica McDonald,27349,HOU,732077,0,0,Tiffany McCarty,"","",2,88,55,2635,0,0,1,-1,-1
+1528278,75,16,Offside,89:53,Offsides called on Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",2,89,53,2693,0,0,1,35,14
+1528278,76,20,Shot on Goal,91:16,Shot on goal by Lauren Lazo,11270,BOS,871174,370194,0,Lauren Lazo,Erin McLeod,"",2,91,16,2776,2,0,1,86,46
+1528278,77,8,Foul,92:24,Foul called on Toni Pressley,27349,HOU,640754,725483,0,Toni Pressley,Kristie Mewis,"",2,92,24,2844,3,0,1,84,25
+1528278,78,13,Half Over,93:29,2nd Half ended,27349,HOU,0,0,0,"","","",2,93,29,2909,4,0,1,-1,-1
+1528278,79,10,Game Over,93:29,Game Over,27349,HOU,0,0,0,"","","",2,93,29,2909,4,0,1,-1,-1
+1528252,1,21,Start Half,00:00,1st Half started,11275,NJ,0,0,0,"","","",1,0,0,0,0,0,0,-1,-1
+1528252,2,20,Shot on Goal,04:20,Shot on goal by Sarah Hagen,26583,KC,640711,0,0,Sarah Hagen,"","",1,4,20,260,0,0,0,11,48
+1528252,3,11,Goal,04:22,Sarah Hagen scored a goal assisted by Amy Rodriguez,26583,KC,640711,0,490446,Sarah Hagen,"",Amy Rodriguez,1,4,22,262,0,1,0,11,48
+1528252,4,20,Shot on Goal,07:12,Shot on goal by Jonelle Filigno,11275,NJ,598352,380557,0,Jonelle Filigno,Nicole Barnhart,"",1,7,12,432,0,1,0,94,49
+1528252,5,20,Shot on Goal,09:28,Shot on goal by Heather O'Reilly,26583,KC,370174,490933,0,Heather O'Reilly,Brittany Cameron,"",1,9,28,568,0,1,0,32,19
+1528252,6,20,Shot on Goal,11:29,Shot on goal by Samantha Kerr,11275,NJ,597674,380557,0,Samantha Kerr,Nicole Barnhart,"",1,11,29,689,0,1,0,91,21
+1528252,7,5,Corner Kick,11:54,Corner kick taken by Kelley O'Hara,11275,NJ,537236,0,0,Kelley O'Hara,"","",1,11,54,714,0,1,0,105,0
+1528252,8,19,Shot,12:29,Shot taken by Hayley Haagsma,11275,NJ,819336,0,0,Hayley Haagsma,"","",1,12,29,749,0,1,0,102,35
+1528252,9,8,Foul,13:02,Foul called on Christie Rampone,11275,NJ,362389,640711,0,Christie Rampone,Sarah Hagen,"",1,13,2,782,0,1,0,26,41
+1528252,10,8,Foul,15:56,Foul called on Cami Levin,11275,NJ,640708,0,0,Cami Levin,"","",1,15,56,956,0,1,0,41,14
+1528252,11,8,Foul,20:17,Foul called on Amy LePeilbet,26583,KC,490133,537236,0,Amy LePeilbet,Kelley O'Hara,"",1,20,17,1217,0,1,0,71,19
+1528252,12,19,Shot,22:10,Shot taken by Lauren Holiday,26583,KC,537235,0,0,Lauren Holiday,"","",1,22,10,1330,0,1,0,3,49
+1528252,13,5,Corner Kick,27:33,Corner kick taken by Lauren Holiday,26583,KC,537235,0,0,Lauren Holiday,"","",1,27,33,1653,0,1,0,0,0
+1528252,14,19,Shot,29:10,Shot taken by Sarah Hagen,26583,KC,640711,0,0,Sarah Hagen,"","",1,29,10,1750,0,1,0,12,40
+1528252,15,9,Free Kick,31:10,Free kick taken by Sarah Hagen,26583,KC,640711,0,0,Sarah Hagen,"","",1,31,10,1870,0,1,0,12,41
+1528252,16,19,Shot,31:11,Shot taken by Sarah Hagen,26583,KC,640711,0,0,Sarah Hagen,"","",1,31,11,1871,0,1,0,12,41
+1528252,17,19,Shot,31:22,Shot taken by Amy Rodriguez,26583,KC,490446,0,0,Amy Rodriguez,"","",1,31,22,1882,0,1,0,9,43
+1528252,18,8,Foul,31:52,Foul called on Caitlin Foord,11275,NJ,597680,490149,0,Caitlin Foord,Liz Bogus,"",1,31,52,1912,0,1,0,35,36
+1528252,19,20,Shot on Goal,33:18,Shot on goal by Lauren Holiday,26583,KC,537235,490933,0,Lauren Holiday,Brittany Cameron,"",1,33,18,1998,0,1,0,13,43
+1528252,20,19,Shot,33:20,Shot taken by Amy Rodriguez,26583,KC,490446,0,0,Amy Rodriguez,"","",1,33,20,2000,0,1,0,4,39
+1528252,21,16,Offside,35:37,Offsides called on Jonelle Filigno,11275,NJ,598352,0,0,Jonelle Filigno,"","",1,35,37,2137,0,1,0,78,20
+1528252,22,20,Shot on Goal,38:23,Shot on goal by Samantha Kerr,11275,NJ,597674,0,0,Samantha Kerr,"","",1,38,23,2303,0,1,0,92,20
+1528252,23,11,Goal,38:24,Samantha Kerr scored a goal assisted by Kelley O'Hara,11275,NJ,597674,0,537236,Samantha Kerr,"",Kelley O'Hara,1,38,24,2304,0,1,1,92,20
+1528252,24,20,Shot on Goal,40:35,Shot on goal by Kelley O'Hara,11275,NJ,537236,380557,0,Kelley O'Hara,Nicole Barnhart,"",1,40,35,2435,0,1,1,89,28
+1528252,25,20,Shot on Goal,41:15,Shot on goal by Amy Rodriguez,26583,KC,490446,0,0,Amy Rodriguez,"","",1,41,15,2475,0,1,1,7,34
+1528252,26,11,Goal,41:16,Amy Rodriguez scored a goal assisted by Heather O'Reilly,26583,KC,490446,0,370174,Amy Rodriguez,"",Heather O'Reilly,1,41,16,2476,0,2,1,7,34
+1528252,27,5,Corner Kick,43:30,Corner kick taken by Amy LePeilbet,26583,KC,490133,0,0,Amy LePeilbet,"","",1,43,30,2610,0,2,1,0,70
+1528252,28,5,Corner Kick,43:51,Corner kick taken by Lauren Holiday,26583,KC,537235,0,0,Lauren Holiday,"","",1,43,51,2631,0,2,1,0,0
+1528252,29,19,Shot,44:50,Shot taken by Samantha Kerr,11275,NJ,597674,0,0,Samantha Kerr,"","",1,44,50,2690,0,2,1,93,28
+1528252,30,19,Shot,45:12,Shot taken by Katy Freels,11275,NJ,640743,0,0,Katy Freels,"","",1,45,12,2712,1,2,1,93,28
+1528252,31,13,Half Over,47:10,1st Half ended,11275,NJ,0,0,0,"","","",1,47,10,2830,3,2,1,-1,-1
+1528252,32,21,Start Half,45:00,2nd Half started,11275,NJ,0,0,0,"","","",2,45,0,0,0,2,1,-1,-1
+1528252,33,19,Shot,47:09,Shot taken by Jonelle Filigno,11275,NJ,598352,0,0,Jonelle Filigno,"","",2,47,9,129,0,2,1,27,39
+1528252,34,19,Shot,48:55,Shot taken by Kelley O'Hara,11275,NJ,537236,0,0,Kelley O'Hara,"","",2,48,55,235,0,2,1,24,30
+1528252,35,19,Shot,49:05,Shot taken by Kelley O'Hara,11275,NJ,537236,0,0,Kelley O'Hara,"","",2,49,5,245,0,2,1,12,45
+1528252,36,19,Shot,50:53,Shot taken by Katy Freels,11275,NJ,640743,0,0,Katy Freels,"","",2,50,53,353,0,2,1,27,50
+1528252,37,20,Shot on Goal,51:42,Shot on goal by Amy Rodriguez,26583,KC,490446,0,0,Amy Rodriguez,"","",2,51,42,402,0,2,1,94,42
+1528252,38,11,Goal,51:42,Amy Rodriguez scored a goal assisted by Becca Moros,26583,KC,490446,0,490481,Amy Rodriguez,"",Becca Moros,2,51,42,402,0,3,1,94,42
+1528252,39,19,Shot,54:04,Shot taken by Amy Rodriguez,26583,KC,490446,0,0,Amy Rodriguez,"","",2,54,4,544,0,3,1,96,23
+1528252,40,8,Foul,55:29,Foul called on Jen Buczkowski,26583,KC,490484,598352,0,Jen Buczkowski,Jonelle Filigno,"",2,55,29,629,0,3,1,31,26
+1528252,41,20,Shot on Goal,57:21,Shot on goal by Kelley O'Hara,11275,NJ,537236,380557,0,Kelley O'Hara,Nicole Barnhart,"",2,57,21,741,0,3,1,12,30
+1528252,42,20,Shot on Goal,58:16,Shot on goal by Hayley Haagsma,11275,NJ,819336,380557,0,Hayley Haagsma,Nicole Barnhart,"",2,58,16,796,0,3,1,31,27
+1528252,43,19,Shot,59:21,Shot taken by Sarah Hagen,26583,KC,640711,0,0,Sarah Hagen,"","",2,59,21,861,0,3,1,97,48
+1528252,44,5,Corner Kick,60:04,Corner kick taken by Lauren Holiday,26583,KC,537235,0,0,Lauren Holiday,"","",2,60,4,904,0,3,1,0,0
+1528252,45,22,Substitution,60:50,Mandy Laddish substituted in for Lauren Holiday,26583,KC,824948,0,0,Mandy Laddish,"","",2,60,50,950,0,3,1,-1,-1
+1528252,46,22,Substitution,61:21,Yael Averbuch substituted in for Amy Rodriguez,26583,KC,490449,0,0,Yael Averbuch,"","",2,61,21,981,0,3,1,-1,-1
+1528252,47,19,Shot,64:34,Shot taken by Cami Levin,11275,NJ,640708,0,0,Cami Levin,"","",2,64,34,1174,0,3,1,14,49
+1528252,48,19,Shot,66:45,Shot taken by Hayley Haagsma,11275,NJ,819336,0,0,Hayley Haagsma,"","",2,66,45,1305,0,3,1,13,27
+1528252,49,19,Shot,67:26,Shot taken by Heather O'Reilly,26583,KC,370174,0,0,Heather O'Reilly,"","",2,67,26,1346,0,3,1,93,50
+1528252,50,22,Substitution,67:41,Maya Hayes substituted in for Jonelle Filigno,11275,NJ,818417,0,0,Maya Hayes,"","",2,67,41,1361,0,3,1,-1,-1
+1528252,51,22,Substitution,68:03,Shawna Gordon substituted in for Hayley Haagsma,11275,NJ,738967,0,0,Shawna Gordon,"","",2,68,3,1383,0,3,1,-1,-1
+1528252,52,8,Foul,68:35,Foul called on Sarah Hagen,26583,KC,640711,738967,0,Sarah Hagen,Shawna Gordon,"",2,68,35,1415,0,3,1,69,28
+1528252,53,19,Shot,72:17,Shot taken by Shawna Gordon,11275,NJ,738967,0,0,Shawna Gordon,"","",2,72,17,1637,0,3,1,33,38
+1528252,54,20,Shot on Goal,72:43,Shot on goal by Samantha Kerr,11275,NJ,597674,0,0,Samantha Kerr,"","",2,72,43,1663,0,3,1,11,40
+1528252,55,11,Goal,72:44,Samantha Kerr scored a goal assisted by Sarah Killion,11275,NJ,597674,0,821394,Samantha Kerr,"",Sarah Killion,2,72,44,1664,0,3,2,11,40
+1528252,56,19,Shot,75:17,Shot taken by Liz Bogus,26583,KC,490149,0,0,Liz Bogus,"","",2,75,17,1817,0,3,2,12,40
+1528252,57,22,Substitution,78:57,Frances Silva substituted in for Liz Bogus,26583,KC,824950,0,0,Frances Silva,"","",2,78,57,2037,0,3,2,-1,-1
+1528252,58,16,Offside,79:38,Offsides called on Frances Silva,26583,KC,824950,0,0,Frances Silva,"","",2,79,38,2078,0,3,2,81,47
+1528252,59,8,Foul,80:38,Foul called on Yael Averbuch,26583,KC,490449,537236,0,Yael Averbuch,Kelley O'Hara,"",2,80,38,2138,0,3,2,32,46
+1528252,60,19,Shot,81:07,Shot taken by Caitlin Foord,11275,NJ,597680,0,0,Caitlin Foord,"","",2,81,7,2167,0,3,2,29,46
+1528252,61,8,Foul,83:20,Foul called on Yael Averbuch,26583,KC,490449,640743,0,Yael Averbuch,Katy Freels,"",2,83,20,2300,0,3,2,36,48
+1528252,62,8,Foul,83:46,Foul called on Katy Freels,11275,NJ,640743,490449,0,Katy Freels,Yael Averbuch,"",2,83,46,2326,0,3,2,16,40
+1528252,63,8,Foul,86:23,Foul called on Caitlin Foord,11275,NJ,597680,824950,0,Caitlin Foord,Frances Silva,"",2,86,23,2483,0,3,2,32,15
+1528252,64,16,Offside,88:19,Offsides called on Sarah Hagen,26583,KC,640711,0,0,Sarah Hagen,"","",2,88,19,2599,0,3,2,71,52
+1528252,65,8,Foul,90:53,Foul called on Christie Rampone,11275,NJ,362389,640711,0,Christie Rampone,Sarah Hagen,"",2,90,53,2753,1,3,2,35,17
+1528252,66,2,Caution,91:14,Yellow card given to Becky Sauerbrunn (Delay of Game),26583,KC,490195,0,0,Becky Sauerbrunn,"","",2,91,14,2774,2,3,2,-1,-1
+1528252,67,13,Half Over,93:32,2nd Half ended,11275,NJ,0,0,0,"","","",2,93,32,2912,4,3,2,-1,-1
+1528252,68,10,Game Over,93:32,Game Over,11275,NJ,0,0,0,"","","",2,93,32,2912,4,3,2,-1,-1
+1528255,1,21,Start Half,00:00,1st Half started,23845,WNY,0,0,0,"","","",1,0,0,0,0,0,0,-1,-1
+1528255,2,8,Foul,02:18,Foul called on Tobin Heath,26580,POR,537234,598397,0,Tobin Heath,Lady Andrade,"",1,2,18,138,0,0,0,-1,-1
+1528255,3,8,Foul,02:53,Foul called on Michelle Heyman,23845,WNY,795603,597668,0,Michelle Heyman,Clare Polkinghorne,"",1,2,53,173,0,0,0,-1,-1
+1528255,4,5,Corner Kick,03:11,Corner kick taken by Jodie Taylor,26580,POR,824961,732074,0,Jodie Taylor,Chantel Jones,"",1,3,11,191,0,0,0,0,0
+1528255,5,19,Shot,04:51,Shot taken by Samantha Mewis,23845,WNY,816072,0,0,Samantha Mewis,"","",1,4,51,291,0,0,0,83,25
+1528255,6,20,Shot on Goal,05:08,Shot on goal by Halimatu Ayinde,23845,WNY,872196,0,0,Halimatu Ayinde,"","",1,5,8,308,0,0,0,-1,-1
+1528255,7,11,Goal,05:08,Halimatu Ayinde scored a goal assisted by Samantha Mewis,23845,WNY,872196,0,816072,Halimatu Ayinde,"",Samantha Mewis,1,5,8,308,0,0,1,-1,-1
+1528255,8,16,Offside,07:15,Offsides called on Michelle Heyman,23845,WNY,795603,0,0,Michelle Heyman,"","",1,7,15,435,0,0,1,75,56
+1528255,9,20,Shot on Goal,07:25,Shot on goal by Michelle Heyman,23845,WNY,795603,732073,0,Michelle Heyman,Michelle Betos,"",1,7,25,445,0,0,1,96,36
+1528255,10,9,Free Kick,07:50,Free kick taken by Jasmyne Spencer,23845,WNY,644262,0,0,Jasmyne Spencer,"","",1,7,50,470,0,0,1,94,35
+1528255,11,20,Shot on Goal,07:50,Shot on goal by Jasmyne Spencer,23845,WNY,644262,0,0,Jasmyne Spencer,"","",1,7,50,470,0,0,1,85,37
+1528255,12,11,Goal,07:50,Jasmyne Spencer scored a goal assisted by Michelle Heyman,23845,WNY,644262,0,795603,Jasmyne Spencer,"",Michelle Heyman,1,7,50,470,0,0,2,85,37
+1528255,13,8,Foul,11:23,Foul called on Halimatu Ayinde,23845,WNY,872196,540988,0,Halimatu Ayinde,Lianne Sanderson,"",1,11,23,683,0,0,2,19,47
+1528255,14,19,Shot,13:59,Shot taken by Tobin Heath,26580,POR,537234,0,0,Tobin Heath,"","",1,13,59,839,0,0,2,17,48
+1528255,15,16,Offside,15:52,Offsides called on Michelle Heyman,23845,WNY,795603,0,0,Michelle Heyman,"","",1,15,52,952,0,0,2,69,32
+1528255,16,9,Free Kick,20:51,Free kick taken by Jodie Taylor,26580,POR,824961,0,0,Jodie Taylor,"","",1,20,51,1251,0,0,2,-1,-1
+1528255,17,20,Shot on Goal,20:52,Shot on goal by Jodie Taylor,26580,POR,824961,732074,0,Jodie Taylor,Chantel Jones,"",1,20,52,1252,0,0,2,-1,-1
+1528255,18,20,Shot on Goal,23:39,Shot on goal by Samantha Mewis,23845,WNY,816072,0,0,Samantha Mewis,"","",1,23,39,1419,0,0,2,-1,-1
+1528255,19,11,Goal,23:40,Samantha Mewis scored a goal,23845,WNY,816072,0,0,Samantha Mewis,"","",1,23,40,1420,0,0,3,-1,-1
+1528255,20,20,Shot on Goal,28:38,Shot on goal by Jodie Taylor,26580,POR,824961,0,0,Jodie Taylor,"","",1,28,38,1718,0,0,3,-1,-1
+1528255,21,11,Goal,28:39,Jodie Taylor scored a goal assisted by Alex Morgan,26580,POR,824961,0,593750,Jodie Taylor,"",Alex Morgan,1,28,39,1719,0,1,3,-1,-1
+1528255,22,16,Offside,37:27,Offsides called on Alex Morgan,26580,POR,593750,0,0,Alex Morgan,"","",1,37,27,2247,0,1,3,14,25
+1528255,23,8,Foul,40:12,Foul called on Allie Long,26580,POR,490452,644262,0,Allie Long,Jasmyne Spencer,"",1,40,12,2412,0,1,3,-1,-1
+1528255,24,8,Foul,42:06,Foul called on Sinead Farrelly,26580,POR,592096,598397,0,Sinead Farrelly,Lady Andrade,"",1,42,6,2526,0,1,3,-1,-1
+1528255,25,19,Shot,43:48,Shot taken by Jodie Taylor,26580,POR,824961,0,0,Jodie Taylor,"","",1,43,48,2628,0,1,3,14,35
+1528255,26,8,Foul,44:51,Foul called on Michelle Heyman,23845,WNY,795603,490452,0,Michelle Heyman,Allie Long,"",1,44,51,2691,0,1,3,-1,-1
+1528255,27,9,Free Kick,45:28,Free kick taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",1,45,28,2728,1,1,3,19,51
+1528255,28,19,Shot,45:29,Shot taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",1,45,29,2729,1,1,3,19,51
+1528255,29,13,Half Over,46:10,1st Half ended,23845,WNY,0,0,0,"","","",1,46,10,2770,2,1,3,-1,-1
+1528255,30,22,Substitution,45:00,Stephanie Catley substituted in for Kat Williamson,26580,POR,795599,0,0,Stephanie Catley,"","",2,45,0,0,0,1,3,-1,-1
+1528255,31,22,Substitution,45:00,Meleana Shim substituted in for McCall Zerboni,26580,POR,732017,0,0,Meleana Shim,"","",2,45,0,0,0,1,3,-1,-1
+1528255,32,21,Start Half,45:00,2nd Half started,23845,WNY,0,0,0,"","","",2,45,0,0,0,1,3,-1,-1
+1528255,33,8,Foul,46:37,Foul called on Lady Andrade,23845,WNY,598397,0,0,Lady Andrade,"","",2,46,37,97,0,1,3,-1,-1
+1528255,34,16,Offside,47:12,Offsides called on Jodie Taylor,26580,POR,824961,0,0,Jodie Taylor,"","",2,47,12,132,0,1,3,68,28
+1528255,35,8,Foul,49:21,Foul called on Lady Andrade,23845,WNY,598397,537234,0,Lady Andrade,Tobin Heath,"",2,49,21,261,0,1,3,70,38
+1528255,36,9,Free Kick,50:32,Free kick taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",2,50,32,332,0,1,3,78,34
+1528255,37,19,Shot,50:33,Shot taken by Allie Long,26580,POR,490452,0,0,Allie Long,"","",2,50,33,333,0,1,3,78,34
+1528255,38,20,Shot on Goal,55:18,Shot on goal by Abby Dahlkemper,23845,WNY,868982,732073,0,Abby Dahlkemper,Michelle Betos,"",2,55,18,618,0,1,3,30,19
+1528255,39,8,Foul,55:42,Foul called on Lianne Sanderson,26580,POR,540988,598397,0,Lianne Sanderson,Lady Andrade,"",2,55,42,642,0,1,3,-1,-1
+1528255,40,19,Shot,56:20,Shot taken by Tobin Heath against Chantel Jones,26580,POR,537234,732074,0,Tobin Heath,Chantel Jones,"",2,56,20,680,0,1,3,68,53
+1528255,41,8,Foul,57:04,Foul called on Jaelene Hinkle,23845,WNY,868991,0,0,Jaelene Hinkle,"","",2,57,4,724,0,1,3,94,58
+1528255,42,2,Caution,58:18,Yellow card given to Alex Morgan (Dissent),26580,POR,593750,0,0,Alex Morgan,"","",2,58,18,798,0,1,3,-1,-1
+1528255,43,20,Shot on Goal,59:42,Shot on goal by Alex Morgan,26580,POR,593750,732074,0,Alex Morgan,Chantel Jones,"",2,59,42,882,0,1,3,77,29
+1528255,44,20,Shot on Goal,60:04,Shot on goal by Alex Morgan,26580,POR,593750,732074,0,Alex Morgan,Chantel Jones,"",2,60,4,904,0,1,3,98,21
+1528255,45,2,Caution,61:15,Yellow card given to Sinead Farrelly (Reckless Foul),26580,POR,592096,0,0,Sinead Farrelly,"","",2,61,15,975,0,1,3,-1,-1
+1528255,46,8,Foul,61:15,Foul called on Sinead Farrelly,26580,POR,592096,0,0,Sinead Farrelly,"","",2,61,15,975,0,1,3,-1,-1
+1528255,47,20,Shot on Goal,62:22,Shot on goal by Samantha Mewis,23845,WNY,816072,732073,0,Samantha Mewis,Michelle Betos,"",2,62,22,1042,0,1,3,4,31
+1528255,48,8,Foul,64:11,Foul called on Brittany Taylor,23845,WNY,537240,593750,0,Brittany Taylor,Alex Morgan,"",2,64,11,1151,0,1,3,-1,-1
+1528255,49,2,Caution,64:29,Yellow card given to Brittany Taylor (Delay of Game),23845,WNY,537240,0,0,Brittany Taylor,"","",2,64,29,1169,0,1,3,-1,-1
+1528255,50,22,Substitution,66:18,Ashley Nick substituted in for Halimatu Ayinde,23845,WNY,490937,0,0,Ashley Nick,"","",2,66,18,1278,0,1,3,-1,-1
+1528255,51,20,Shot on Goal,67:32,Shot on goal by Jasmyne Spencer,23845,WNY,644262,732073,0,Jasmyne Spencer,Michelle Betos,"",2,67,32,1352,0,1,3,15,22
+1528255,52,5,Corner Kick,67:56,Corner kick taken by Lady Andrade,23845,WNY,598397,592096,0,Lady Andrade,Sinead Farrelly,"",2,67,56,1376,0,1,3,0,0
+1528255,53,8,Foul,70:45,Foul called on Abby Dahlkemper,23845,WNY,868982,732027,0,Abby Dahlkemper,Kendall Johnson,"",2,70,45,1545,0,1,3,-1,-1
+1528255,54,19,Shot,71:12,Shot taken by Clare Polkinghorne,26580,POR,597668,0,0,Clare Polkinghorne,"","",2,71,12,1572,0,1,3,93,35
+1528255,55,8,Foul,72:26,Foul called on Kendall Johnson,26580,POR,732027,868982,0,Kendall Johnson,Abby Dahlkemper,"",2,72,26,1646,0,1,3,-1,-1
+1528255,56,22,Substitution,73:46,Elizabeth Eddy substituted in for Lady Andrade,23845,WNY,871933,0,0,Elizabeth Eddy,"","",2,73,46,1726,0,1,3,-1,-1
+1528255,57,8,Foul,76:04,Foul called on Ashley Nick,23845,WNY,490937,0,0,Ashley Nick,"","",2,76,4,1864,0,1,3,-1,-1
+1528255,58,22,Substitution,81:23,Kaylyn Kyle substituted in for Kendall Johnson,26580,POR,598355,0,0,Kaylyn Kyle,"","",2,81,23,2183,0,1,3,-1,-1
+1528255,59,8,Foul,82:56,Foul called on Kaylyn Kyle,26580,POR,598355,0,0,Kaylyn Kyle,"","",2,82,56,2276,0,1,3,-1,-1
+1528255,60,8,Foul,83:56,Foul called on Brittany Taylor,23845,WNY,537240,540988,0,Brittany Taylor,Lianne Sanderson,"",2,83,56,2336,0,1,3,-1,-1
+1528255,61,9,Free Kick,84:34,Free kick taken by Lianne Sanderson,26580,POR,540988,0,0,Lianne Sanderson,"","",2,84,34,2374,0,1,3,81,23
+1528255,62,20,Shot on Goal,84:35,Shot on goal by Lianne Sanderson,26580,POR,540988,732074,0,Lianne Sanderson,Chantel Jones,"",2,84,35,2375,0,1,3,81,23
+1528255,63,8,Foul,85:39,Foul called on Brittany Taylor,23845,WNY,537240,824961,0,Brittany Taylor,Jodie Taylor,"",2,85,39,2439,0,1,3,-1,-1
+1528255,64,5,Corner Kick,87:42,Corner kick taken by Samantha Mewis,23845,WNY,816072,0,0,Samantha Mewis,"","",2,87,42,2562,0,1,3,0,0
+1528255,65,22,Substitution,88:19,Kristen Hamilton substituted in for Michelle Heyman,23845,WNY,825078,0,0,Kristen Hamilton,"","",2,88,19,2599,0,1,3,-1,-1
+1528255,66,20,Shot on Goal,89:30,Shot on goal by Kristen Hamilton,23845,WNY,825078,537234,0,Kristen Hamilton,Tobin Heath,"",2,89,30,2670,0,1,3,13,46
+1528255,67,8,Foul,90:14,Foul called on Samantha Mewis,23845,WNY,816072,537234,0,Samantha Mewis,Tobin Heath,"",2,90,14,2714,1,1,3,-1,-1
+1528255,68,20,Shot on Goal,91:01,Shot on goal by Meleana Shim,26580,POR,732017,732074,0,Meleana Shim,Chantel Jones,"",2,91,1,2761,2,1,3,95,25
+1528255,69,20,Shot on Goal,91:25,Shot on goal by Allie Long,26580,POR,490452,0,0,Allie Long,"","",2,91,25,2785,2,1,3,-1,-1
+1528255,70,11,Goal,91:26,Allie Long scored a goal assisted by Meleana Shim,26580,POR,490452,0,732017,Allie Long,"",Meleana Shim,2,91,26,2786,2,2,3,-1,-1
+1528255,71,13,Half Over,93:10,2nd Half ended,26580,POR,0,0,0,"","","",2,93,10,2890,4,2,3,-1,-1
+1528255,72,10,Game Over,93:10,Game Over,23845,WNY,0,0,0,"","","",2,93,10,2890,4,2,3,-1,-1
+1528254,1,21,Start Half,00:00,1st Half started,26582,WAS,0,0,0,"","","",1,0,0,0,0,0,0,-1,-1
+1528254,2,46,Goal Kick,02:29,Goal kick taken by Hope Solo,26581,SEA,370177,0,0,Hope Solo,"","",1,2,29,149,0,0,0,-1,-1
+1528254,3,19,Shot,03:11,Shot taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",1,3,11,191,0,0,0,21,24
+1528254,4,46,Goal Kick,03:21,Goal kick taken by Hope Solo,26581,SEA,370177,0,0,Hope Solo,"","",1,3,21,201,0,0,0,-1,-1
+1528254,5,5,Corner Kick,04:56,Corner kick taken by Megan Rapinoe,26581,SEA,490447,0,0,Megan Rapinoe,"","",1,4,56,296,0,0,0,105,0
+1528254,6,16,Offside,06:01,Offsides called on Crystal Dunn,26582,WAS,725480,0,0,Crystal Dunn,"","",1,6,1,361,0,0,0,40,55
+1528254,7,19,Shot,07:22,Shot taken by Kim Little against Estelle Johnson,26581,SEA,725494,537272,0,Kim Little,Estelle Johnson,"",1,7,22,442,0,0,0,97,32
+1528254,8,19,Shot,07:36,Shot taken by Kim Little against Megan Oyster,26581,SEA,725494,868978,0,Kim Little,Megan Oyster,"",1,7,36,456,0,0,0,94,29
+1528254,9,19,Shot,07:45,Shot taken by Jessica Fishlock,26581,SEA,732082,0,0,Jessica Fishlock,"","",1,7,45,465,0,0,0,95,33
+1528254,10,46,Goal Kick,07:56,Goal kick taken by Ashlyn Harris,26582,WAS,537263,0,0,Ashlyn Harris,"","",1,7,56,476,0,0,0,-1,-1
+1528254,11,19,Shot,09:38,Shot taken by Merritt Mathias,26581,SEA,732012,0,0,Merritt Mathias,"","",1,9,38,578,0,0,0,101,35
+1528254,12,46,Goal Kick,09:47,Goal kick taken by Ashlyn Harris,26582,WAS,537263,0,0,Ashlyn Harris,"","",1,9,47,587,0,0,0,-1,-1
+1528254,13,16,Offside,11:25,Offsides called on Ali Krieger,26582,WAS,490191,0,0,Ali Krieger,"","",1,11,25,685,0,0,0,29,7
+1528254,14,5,Corner Kick,12:42,Corner kick taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",1,12,42,762,0,0,0,0,0
+1528254,15,19,Shot,13:53,Shot taken by Francisca Ordega,26582,WAS,598541,0,0,Francisca Ordega,"","",1,13,53,833,0,0,0,7,41
+1528254,16,46,Goal Kick,14:01,Goal kick taken by Hope Solo,26581,SEA,370177,0,0,Hope Solo,"","",1,14,1,841,0,0,0,-1,-1
+1528254,17,20,Shot on Goal,14:40,Shot on goal by Jessica Fishlock,26581,SEA,732082,0,0,Jessica Fishlock,"","",1,14,40,880,0,0,0,83,39
+1528254,18,11,Goal,14:41,Jessica Fishlock scored a goal,26581,SEA,732082,0,0,Jessica Fishlock,"","",1,14,41,881,0,1,0,83,39
+1528254,19,16,Offside,16:28,Offsides called on Crystal Dunn,26582,WAS,725480,0,0,Crystal Dunn,"","",1,16,28,988,0,1,0,35,61
+1528254,20,46,Goal Kick,17:15,Goal kick taken by Ashlyn Harris,26582,WAS,537263,0,0,Ashlyn Harris,"","",1,17,15,1035,0,1,0,-1,-1
+1528254,21,5,Corner Kick,20:28,Corner kick taken by Christine Nairn,26582,WAS,732091,370177,0,Christine Nairn,Hope Solo,"",1,20,28,1228,0,1,0,0,0
+1528254,22,20,Shot on Goal,24:27,Shot on goal by Megan Rapinoe,26581,SEA,490447,0,0,Megan Rapinoe,"","",1,24,27,1467,0,1,0,90,28
+1528254,23,11,Goal,24:28,Megan Rapinoe scored a goal,26581,SEA,490447,0,0,Megan Rapinoe,"","",1,24,28,1468,0,2,0,90,28
+1528254,24,20,Shot on Goal,30:07,Shot on goal by Francisca Ordega,26582,WAS,598541,370177,0,Francisca Ordega,Hope Solo,"",1,30,7,1807,0,2,0,4,27
+1528254,25,8,Foul,35:47,Foul called on Lauren Barnes,26581,SEA,592092,370192,0,Lauren Barnes,Diana Matheson,"",1,35,47,2147,0,2,0,-1,-1
+1528254,26,9,Free Kick,36:47,Free kick taken by Diana Matheson,26582,WAS,370192,0,0,Diana Matheson,"","",1,36,47,2207,0,2,0,11,35
+1528254,27,20,Shot on Goal,36:47,Shot on goal by Diana Matheson,26582,WAS,370192,0,0,Diana Matheson,"","",1,36,47,2207,0,2,0,11,35
+1528254,28,17,Penalty Kick - Good,36:47,Penalty kick taken by Diana Matheson - GOOD,26582,WAS,370192,370177,0,Diana Matheson,Hope Solo,"",1,36,47,2207,0,2,1,11,35
+1528254,29,20,Shot on Goal,40:35,Shot on goal by Crystal Dunn,26582,WAS,725480,370177,0,Crystal Dunn,Hope Solo,"",1,40,35,2435,0,2,1,11,28
+1528254,30,5,Corner Kick,40:48,Corner kick taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",1,40,48,2448,0,2,1,0,70
+1528254,31,8,Foul,42:24,Foul called on Crystal Dunn,26582,WAS,725480,869005,0,Crystal Dunn,Rachel Corsie,"",1,42,24,2544,0,2,1,20,50
+1528254,32,8,Foul,44:35,Foul called on Megan Rapinoe,26581,SEA,490447,490191,0,Megan Rapinoe,Ali Krieger,"",1,44,35,2675,0,2,1,83,18
+1528254,33,19,Shot,45:15,Shot taken by Francisca Ordega,26582,WAS,598541,0,0,Francisca Ordega,"","",1,45,15,2715,1,2,1,21,21
+1528254,34,46,Goal Kick,45:27,Goal kick taken by Hope Solo,26581,SEA,370177,0,0,Hope Solo,"","",1,45,27,2727,1,2,1,-1,-1
+1528254,35,20,Shot on Goal,46:25,Shot on goal by Merritt Mathias,26581,SEA,732012,537263,0,Merritt Mathias,Ashlyn Harris,"",1,46,25,2785,2,2,1,94,43
+1528254,36,13,Half Over,47:10,1st Half ended,26582,WAS,0,0,0,"","","",1,47,10,2830,3,2,1,-1,-1
+1528254,37,21,Start Half,45:00,2nd Half started,26582,WAS,0,0,0,"","","",2,45,0,0,0,2,1,-1,-1
+1528254,38,20,Shot on Goal,49:39,Shot on goal by Kim Little,26581,SEA,725494,537263,0,Kim Little,Ashlyn Harris,"",2,49,39,279,0,2,1,18,24
+1528254,39,8,Foul,50:06,Foul called on Lauren Barnes,26581,SEA,592092,598541,0,Lauren Barnes,Francisca Ordega,"",2,50,6,306,0,2,1,80,40
+1528254,40,19,Shot,51:05,Shot taken by Christine Nairn against Merritt Mathias,26582,WAS,732091,732012,0,Christine Nairn,Merritt Mathias,"",2,51,5,365,0,2,1,82,47
+1528254,41,5,Corner Kick,51:19,Corner kick taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",2,51,19,379,0,2,1,105,70
+1528254,42,16,Offside,52:23,Offsides called on Francisca Ordega,26582,WAS,598541,0,0,Francisca Ordega,"","",2,52,23,443,0,2,1,91,40
+1528254,43,8,Foul,53:29,Foul called on Francisca Ordega,26582,WAS,598541,490162,0,Francisca Ordega,Kendall Fletcher,"",2,53,29,509,0,2,1,45,21
+1528254,44,22,Substitution,53:43,Katrine Veje substituted in for Megan Rapinoe,26581,SEA,821408,0,0,Katrine Veje,"","",2,53,43,523,0,2,1,-1,-1
+1528254,45,20,Shot on Goal,55:31,Shot on goal by Katrine Veje,26581,SEA,821408,537263,0,Katrine Veje,Ashlyn Harris,"",2,55,31,631,0,2,1,20,36
+1528254,46,5,Corner Kick,55:45,Corner kick taken by Stephanie Cox,26581,SEA,490160,868978,0,Stephanie Cox,Megan Oyster,"",2,55,45,645,0,2,1,0,0
+1528254,47,2,Caution,56:36,Yellow card given to Katrine Veje (Delay of Game),26581,SEA,821408,0,0,Katrine Veje,"","",2,56,36,696,0,2,1,-1,-1
+1528254,48,8,Foul,57:50,Foul called on Jessica Fishlock,26581,SEA,732082,490191,0,Jessica Fishlock,Ali Krieger,"",2,57,50,770,0,2,1,43,50
+1528254,49,5,Corner Kick,58:53,Corner kick taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",2,58,53,833,0,2,1,105,70
+1528254,50,5,Corner Kick,60:11,Corner kick taken by Stephanie Cox,26581,SEA,490160,537263,0,Stephanie Cox,Ashlyn Harris,"",2,60,11,911,0,2,1,0,0
+1528254,51,19,Shot,63:13,Shot taken by Francisca Ordega,26582,WAS,598541,0,0,Francisca Ordega,"","",2,63,13,1093,0,2,1,99,33
+1528254,52,46,Goal Kick,63:23,Goal kick taken by Hope Solo,26581,SEA,370177,0,0,Hope Solo,"","",2,63,23,1103,0,2,1,-1,-1
+1528254,53,8,Foul,63:58,Foul called on Rachel Corsie,26581,SEA,869005,732091,0,Rachel Corsie,Christine Nairn,"",2,63,58,1138,0,2,1,57,33
+1528254,54,46,Goal Kick,64:14,Goal kick taken by Hope Solo,26581,SEA,370177,0,0,Hope Solo,"","",2,64,14,1154,0,2,1,-1,-1
+1528254,55,22,Substitution,65:31,Hayley Raso substituted in for Francisca Ordega,26582,WAS,870818,0,0,Hayley Raso,"","",2,65,31,1231,0,2,1,-1,-1
+1528254,56,16,Offside,66:12,Offsides called on Merritt Mathias,26581,SEA,732012,0,0,Merritt Mathias,"","",2,66,12,1272,0,2,1,32,59
+1528254,57,16,Offside,67:14,Offsides called on Elli Reed,26581,SEA,593735,0,0,Elli Reed,"","",2,67,14,1334,0,2,1,23,27
+1528254,58,8,Foul,68:26,Foul called on Katherine Reynolds,26582,WAS,537281,732012,0,Katherine Reynolds,Merritt Mathias,"",2,68,26,1406,0,2,1,67,11
+1528254,59,8,Foul,69:14,Foul called on Jessica Fishlock,26581,SEA,732082,370192,0,Jessica Fishlock,Diana Matheson,"",2,69,14,1454,0,2,1,85,44
+1528254,60,5,Corner Kick,70:40,Corner kick taken by Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",2,70,40,1540,0,2,1,105,70
+1528254,61,19,Shot,71:16,Shot taken by Estelle Johnson,26582,WAS,537272,0,0,Estelle Johnson,"","",2,71,16,1576,0,2,1,97,33
+1528254,62,46,Goal Kick,71:23,Goal kick taken by Hope Solo,26581,SEA,370177,0,0,Hope Solo,"","",2,71,23,1583,0,2,1,-1,-1
+1528254,63,22,Substitution,71:27,Kiersten Dallstream substituted in for Merritt Mathias,26581,SEA,537244,0,0,Kiersten Dallstream,"","",2,71,27,1587,0,2,1,-1,-1
+1528254,64,16,Offside,72:46,Offsides called on Elli Reed,26581,SEA,593735,0,0,Elli Reed,"","",2,72,46,1666,0,2,1,44,57
+1528254,65,8,Foul,74:55,Foul called on Crystal Dunn,26582,WAS,725480,593736,0,Crystal Dunn,Keelin Winters,"",2,74,55,1795,0,2,1,79,45
+1528254,66,8,Foul,75:55,Foul called on Kiersten Dallstream,26581,SEA,537244,870818,0,Kiersten Dallstream,Hayley Raso,"",2,75,55,1855,0,2,1,72,19
+1528254,67,2,Caution,76:07,Yellow card given to Kim Little (Tactical Foul),26581,SEA,725494,0,0,Kim Little,"","",2,76,7,1867,0,2,1,-1,-1
+1528254,68,19,Shot,76:57,Shot taken by Megan Oyster,26582,WAS,868978,0,0,Megan Oyster,"","",2,76,57,1917,0,2,1,-1,-1
+1528254,69,20,Shot on Goal,77:57,Shot on goal by Kiersten Dallstream,26581,SEA,537244,537263,0,Kiersten Dallstream,Ashlyn Harris,"",2,77,57,1977,0,2,1,21,24
+1528254,70,8,Foul,78:18,Foul called on Jessica Fishlock,26581,SEA,732082,732091,0,Jessica Fishlock,Christine Nairn,"",2,78,18,1998,0,2,1,35,46
+1528254,71,8,Foul,79:07,Foul called on Estelle Johnson,26582,WAS,537272,593735,0,Estelle Johnson,Elli Reed,"",2,79,7,2047,0,2,1,-1,-1
+1528254,72,2,Caution,79:19,Yellow card given to Estelle Johnson (Tactical Foul),26582,WAS,537272,0,0,Estelle Johnson,"","",2,79,19,2059,0,2,1,-1,-1
+1528254,73,5,Corner Kick,80:35,Corner kick taken by Stephanie Cox,26581,SEA,490160,0,0,Stephanie Cox,"","",2,80,35,2135,0,2,1,0,0
+1528254,74,20,Shot on Goal,81:15,Shot on goal by Keelin Winters,26581,SEA,593736,537263,0,Keelin Winters,Ashlyn Harris,"",2,81,15,2175,0,2,1,6,42
+1528254,75,19,Shot,82:30,Shot taken by Keelin Winters,26581,SEA,593736,0,0,Keelin Winters,"","",2,82,30,2250,0,2,1,27,44
+1528254,76,22,Substitution,83:37,Mariah Bullock substituted in for Elli Reed,26581,SEA,732084,0,0,Mariah Bullock,"","",2,83,37,2317,0,2,1,-1,-1
+1528254,77,22,Substitution,83:56,Ngozi Okobi substituted in for Whitney Church,26582,WAS,872199,0,0,Ngozi Okobi,"","",2,83,56,2336,0,2,1,-1,-1
+1528254,78,8,Foul,85:17,Foul called on Ngozi Okobi,26582,WAS,872199,0,0,Ngozi Okobi,"","",2,85,17,2417,0,2,1,64,21
+1528254,79,19,Shot,85:45,Shot taken by Jessica Fishlock,26581,SEA,732082,0,0,Jessica Fishlock,"","",2,85,45,2445,0,2,1,36,37
+1528254,80,2,Caution,87:18,Yellow card given to Hayley Raso (Tactical Foul),26582,WAS,870818,0,0,Hayley Raso,"","",2,87,18,2538,0,2,1,-1,-1
+1528254,81,8,Foul,87:43,Foul called on Hayley Raso,26582,WAS,870818,370177,0,Hayley Raso,Hope Solo,"",2,87,43,2563,0,2,1,99,34
+1528254,82,22,Substitution,88:02,Amanda Da Costa substituted in for Angela Salem,26582,WAS,593762,0,0,Amanda Da Costa,"","",2,88,2,2582,0,2,1,-1,-1
+1528254,83,8,Foul,89:08,Foul called on Christine Nairn,26582,WAS,732091,0,0,Christine Nairn,"","",2,89,8,2648,0,2,1,48,36
+1528254,84,46,Goal Kick,90:30,Goal kick taken by Ashlyn Harris,26582,WAS,537263,0,0,Ashlyn Harris,"","",2,90,30,2730,1,2,1,-1,-1
+1528254,85,8,Foul,92:52,Foul called on Katherine Reynolds,26582,WAS,537281,725494,0,Katherine Reynolds,Kim Little,"",2,92,52,2872,3,2,1,10,6
+1528254,86,46,Goal Kick,93:59,Goal kick taken by Hope Solo,26581,SEA,370177,0,0,Hope Solo,"","",2,93,59,2939,4,2,1,-1,-1
+1528254,87,13,Half Over,95:09,2nd Half ended,26582,WAS,0,0,0,"","","",2,95,9,3009,6,2,1,-1,-1
+1528254,88,10,Game Over,95:09,Game Over,26582,WAS,0,0,0,"","","",2,95,9,3009,6,2,1,-1,-1
+1528251,1,21,Start Half,00:00,1st Half started,11271,CHI,0,0,0,"","","",1,0,0,0,0,0,0,-1,-1
+1528251,2,16,Offside,02:06,Offsides called on Danielle Colaprico,11271,CHI,869006,0,0,Danielle Colaprico,"","",1,2,6,126,0,0,0,89,30
+1528251,3,16,Offside,02:42,Offsides called on Christen Press,11271,CHI,593765,0,0,Christen Press,"","",1,2,42,162,0,0,0,70,32
+1528251,4,19,Shot,04:39,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",1,4,39,279,0,0,0,10,39
+1528251,5,8,Foul,06:07,Foul called on Arin Gilliland,11271,CHI,869004,0,0,Arin Gilliland,"","",1,6,7,367,0,0,0,37,7
+1528251,6,19,Shot,06:58,Shot taken by Jen Hoy,11271,CHI,738830,0,0,Jen Hoy,"","",1,6,58,418,0,0,0,87,25
+1528251,7,19,Shot,08:33,Shot taken by Lori Chalupny,11271,CHI,370166,0,0,Lori Chalupny,"","",1,8,33,513,0,0,0,84,27
+1528251,8,19,Shot,11:20,Shot taken by Andressa,27349,HOU,872110,0,0, Andressa,"","",1,11,20,680,0,0,0,18,35
+1528251,9,8,Foul,12:32,Foul called on Lori Chalupny,11271,CHI,370166,370194,0,Lori Chalupny,Erin McLeod,"",1,12,32,752,0,0,0,98,35
+1528251,10,20,Shot on Goal,14:07,Shot on goal by Allysha Chapman,27349,HOU,868997,362274,0,Allysha Chapman,Karina LeBlanc,"",1,14,7,847,0,0,0,7,56
+1528251,11,20,Shot on Goal,17:25,Shot on goal by Adriana Leon,11271,CHI,732078,370194,0,Adriana Leon,Erin McLeod,"",1,17,25,1045,0,0,0,97,43
+1528251,12,20,Shot on Goal,19:41,Shot on goal by Danielle Colaprico,11271,CHI,869006,370194,0,Danielle Colaprico,Erin McLeod,"",1,19,41,1181,0,0,0,87,29
+1528251,13,5,Corner Kick,20:41,Corner kick taken by Vanessa DiBernardo,11271,CHI,767216,640754,0,Vanessa DiBernardo,Toni Pressley,"",1,20,41,1241,0,0,0,105,0
+1528251,14,19,Shot,21:33,Shot taken by Michelle Lomnicki,11271,CHI,495283,0,0,Michelle Lomnicki,"","",1,21,33,1293,0,0,0,104,24
+1528251,15,5,Corner Kick,22:09,Corner kick taken by Melissa Henderson,27349,HOU,640704,362274,0,Melissa Henderson,Karina LeBlanc,"",1,22,9,1329,0,0,0,0,0
+1528251,16,20,Shot on Goal,22:45,Shot on goal by Ellie Brush,27349,HOU,871937,362274,0,Ellie Brush,Karina LeBlanc,"",1,22,45,1365,0,0,0,5,40
+1528251,17,8,Foul,23:34,Foul called on Meghan Klingenberg,27349,HOU,593764,370166,0,Meghan Klingenberg,Lori Chalupny,"",1,23,34,1414,0,0,0,81,7
+1528251,18,20,Shot on Goal,24:58,Shot on goal by Lori Chalupny,11271,CHI,370166,370194,0,Lori Chalupny,Erin McLeod,"",1,24,58,1498,0,0,0,95,39
+1528251,19,5,Corner Kick,25:24,Corner kick taken by Vanessa DiBernardo,11271,CHI,767216,640704,0,Vanessa DiBernardo,Melissa Henderson,"",1,25,24,1524,0,0,0,105,0
+1528251,20,20,Shot on Goal,26:17,Shot on goal by Ella Masar,27349,HOU,490144,362274,0,Ella Masar,Karina LeBlanc,"",1,26,17,1577,0,0,0,10,43
+1528251,21,5,Corner Kick,28:14,Corner kick taken by Danielle Colaprico,11271,CHI,869006,0,0,Danielle Colaprico,"","",1,28,14,1694,0,0,0,105,70
+1528251,22,19,Shot,28:15,Shot taken by Michelle Lomnicki,11271,CHI,495283,0,0,Michelle Lomnicki,"","",1,28,15,1695,0,0,0,97,31
+1528251,23,22,Substitution,32:16,Tiffany McCarty substituted in for Melissa Henderson,27349,HOU,732077,0,0,Tiffany McCarty,"","",1,32,16,1936,0,0,0,-1,-1
+1528251,24,20,Shot on Goal,34:43,Shot on goal by Ella Masar,27349,HOU,490144,362274,0,Ella Masar,Karina LeBlanc,"",1,34,43,2083,0,0,0,18,24
+1528251,25,16,Offside,35:57,Offsides called on Tiffany McCarty,27349,HOU,732077,0,0,Tiffany McCarty,"","",1,35,57,2157,0,0,0,29,18
+1528251,26,19,Shot,36:33,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",1,36,33,2193,0,0,0,16,29
+1528251,27,8,Foul,36:58,Foul called on Allysha Chapman,27349,HOU,868997,732078,0,Allysha Chapman,Adriana Leon,"",1,36,58,2218,0,0,0,60,51
+1528251,28,16,Offside,38:24,Offsides called on Adriana Leon,11271,CHI,732078,0,0,Adriana Leon,"","",1,38,24,2304,0,0,0,90,64
+1528251,29,20,Shot on Goal,41:34,Shot on goal by Carli Lloyd,27349,HOU,490142,362274,0,Carli Lloyd,Karina LeBlanc,"",1,41,34,2494,0,0,0,19,44
+1528251,30,5,Corner Kick,42:14,Corner kick taken by Danielle Colaprico,11271,CHI,869006,370194,0,Danielle Colaprico,Erin McLeod,"",1,42,14,2534,0,0,0,105,70
+1528251,31,5,Corner Kick,44:22,Corner kick taken by Andressa,27349,HOU,872110,495283,0, Andressa,Michelle Lomnicki,"",1,44,22,2662,0,0,0,0,0
+1528251,32,20,Shot on Goal,45:38,Shot on goal by Morgan Brian,27349,HOU,737287,362274,0,Morgan Brian,Karina LeBlanc,"",1,45,38,2738,1,0,0,7,30
+1528251,33,13,Half Over,46:24,1st Half ended,11271,CHI,0,0,0,"","","",1,46,24,2784,2,0,0,-1,-1
+1528251,34,22,Substitution,45:00,Samantha Johnson substituted in for Michelle Lomnicki,11271,CHI,825085,0,0,Samantha Johnson,"","",2,45,0,0,0,0,0,-1,-1
+1528251,35,21,Start Half,45:00,2nd Half started,11271,CHI,0,0,0,"","","",2,45,0,0,0,0,0,-1,-1
+1528251,36,16,Offside,45:54,Offsides called on Arin Gilliland,11271,CHI,869004,0,0,Arin Gilliland,"","",2,45,54,54,0,0,0,25,59
+1528251,37,5,Corner Kick,49:15,Corner kick taken by Andressa,27349,HOU,872110,725481,0, Andressa,Julie Johnston,"",2,49,15,255,0,0,0,105,70
+1528251,38,20,Shot on Goal,49:55,Shot on goal by Jessica McDonald,27349,HOU,537259,362274,0,Jessica McDonald,Karina LeBlanc,"",2,49,55,295,0,0,0,98,35
+1528251,39,16,Offside,50:53,Offsides called on Christen Press,11271,CHI,593765,0,0,Christen Press,"","",2,50,53,353,0,0,0,20,30
+1528251,40,19,Shot,51:44,Shot taken by Vanessa DiBernardo,11271,CHI,767216,0,0,Vanessa DiBernardo,"","",2,51,44,404,0,0,0,12,44
+1528251,41,5,Corner Kick,52:44,Corner kick taken by Vanessa DiBernardo,11271,CHI,767216,0,0,Vanessa DiBernardo,"","",2,52,44,464,0,0,0,0,70
+1528251,42,19,Shot,52:45,Shot taken by Julie Johnston,11271,CHI,725481,0,0,Julie Johnston,"","",2,52,45,465,0,0,0,1,42
+1528251,43,20,Shot on Goal,53:08,Shot on goal by Lori Chalupny,11271,CHI,370166,370194,0,Lori Chalupny,Erin McLeod,"",2,53,8,488,0,0,0,9,40
+1528251,44,19,Shot,53:33,Shot taken by Carli Lloyd,27349,HOU,490142,0,0,Carli Lloyd,"","",2,53,33,513,0,0,0,72,30
+1528251,45,20,Shot on Goal,55:09,Shot on goal by Arin Gilliland,11271,CHI,869004,370194,0,Arin Gilliland,Erin McLeod,"",2,55,9,609,0,0,0,8,48
+1528251,46,16,Offside,55:47,Offsides called on Christen Press,11271,CHI,593765,0,0,Christen Press,"","",2,55,47,647,0,0,0,34,32
+1528251,47,20,Shot on Goal,56:39,Shot on goal by Carli Lloyd,27349,HOU,490142,362274,0,Carli Lloyd,Karina LeBlanc,"",2,56,39,699,0,0,0,94,30
+1528251,48,19,Shot,57:36,Shot taken by Jessica McDonald,27349,HOU,537259,0,0,Jessica McDonald,"","",2,57,36,756,0,0,0,96,28
+1528251,49,8,Foul,58:06,Foul called on Julie Johnston,11271,CHI,725481,490144,0,Julie Johnston,Ella Masar,"",2,58,6,786,0,0,0,68,54
+1528251,50,19,Shot,58:50,Shot taken by Ellie Brush,27349,HOU,871937,0,0,Ellie Brush,"","",2,58,50,830,0,0,0,96,25
+1528251,51,20,Shot on Goal,61:28,Shot on goal by Ella Masar,27349,HOU,490144,0,0,Ella Masar,"","",2,61,28,988,0,0,0,88,28
+1528251,52,11,Goal,61:29,Ella Masar scored a goal assisted by Morgan Brian,27349,HOU,490144,0,737287,Ella Masar,"",Morgan Brian,2,61,29,989,0,1,0,88,28
+1528251,53,19,Shot,63:51,Shot taken by Christen Press,11271,CHI,593765,0,0,Christen Press,"","",2,63,51,1131,0,1,0,14,32
+1528251,54,8,Foul,64:34,Foul called on Tiffany McCarty,27349,HOU,732077,370166,0,Tiffany McCarty,Lori Chalupny,"",2,64,34,1174,0,1,0,31,52
+1528251,55,5,Corner Kick,65:15,Corner kick taken by Vanessa DiBernardo,11271,CHI,767216,871937,0,Vanessa DiBernardo,Ellie Brush,"",2,65,15,1215,0,1,0,0,70
+1528251,56,20,Shot on Goal,65:58,Shot on goal by Christen Press,11271,CHI,593765,370194,0,Christen Press,Erin McLeod,"",2,65,58,1258,0,1,0,20,48
+1528251,57,20,Shot on Goal,66:28,Shot on goal by Tiffany McCarty,27349,HOU,732077,869006,0,Tiffany McCarty,Danielle Colaprico,"",2,66,28,1288,0,1,0,97,32
+1528251,58,20,Shot on Goal,67:16,Shot on goal by Vanessa DiBernardo,11271,CHI,767216,370194,0,Vanessa DiBernardo,Erin McLeod,"",2,67,16,1336,0,1,0,18,45
+1528251,59,8,Foul,68:18,Foul called on Carli Lloyd,27349,HOU,490142,725481,0,Carli Lloyd,Julie Johnston,"",2,68,18,1398,0,1,0,74,47
+1528251,60,22,Substitution,68:30,Melissa Tancredi substituted in for Adriana Leon,11271,CHI,490175,0,0,Melissa Tancredi,"","",2,68,30,1410,0,1,0,-1,-1
+1528251,61,19,Shot,69:28,Shot taken by Christen Press,11271,CHI,593765,0,0,Christen Press,"","",2,69,28,1468,0,1,0,22,35
+1528251,62,5,Corner Kick,69:39,Corner kick taken by Vanessa DiBernardo,11271,CHI,767216,370194,0,Vanessa DiBernardo,Erin McLeod,"",2,69,39,1479,0,1,0,0,70
+1528251,63,5,Corner Kick,70:44,Corner kick taken by Andressa,27349,HOU,872110,725481,0, Andressa,Julie Johnston,"",2,70,44,1544,0,1,0,105,70
+1528251,64,5,Corner Kick,72:00,Corner kick taken by Danielle Colaprico,11271,CHI,869006,871937,0,Danielle Colaprico,Ellie Brush,"",2,72,0,1620,0,1,0,0,0
+1528251,65,5,Corner Kick,73:17,Corner kick taken by Vanessa DiBernardo,11271,CHI,767216,0,0,Vanessa DiBernardo,"","",2,73,17,1697,0,1,0,0,70
+1528251,66,20,Shot on Goal,74:07,Shot on goal by Jen Hoy,11271,CHI,738830,871937,0,Jen Hoy,Ellie Brush,"",2,74,7,1747,0,1,0,6,38
+1528251,67,20,Shot on Goal,74:24,Shot on goal by Melissa Tancredi,11271,CHI,490175,370194,0,Melissa Tancredi,Erin McLeod,"",2,74,24,1764,0,1,0,2,40
+1528251,68,19,Shot,74:55,Shot taken by Meghan Klingenberg,27349,HOU,593764,0,0,Meghan Klingenberg,"","",2,74,55,1795,0,1,0,86,30
+1528251,69,22,Substitution,75:05,Rachael Axon substituted in for Jessica McDonald,27349,HOU,857561,0,0,Rachael Axon,"","",2,75,5,1805,0,1,0,-1,-1
+1528251,70,5,Corner Kick,76:15,Corner kick taken by Vanessa DiBernardo,11271,CHI,767216,490142,0,Vanessa DiBernardo,Carli Lloyd,"",2,76,15,1875,0,1,0,0,70
+1528251,71,16,Offside,77:09,Offsides called on Tiffany McCarty,27349,HOU,732077,0,0,Tiffany McCarty,"","",2,77,9,1929,0,1,0,56,37
+1528251,72,22,Substitution,77:58,Rachel Quon substituted in for Jen Hoy,11271,CHI,732024,0,0,Rachel Quon,"","",2,77,58,1978,0,1,0,-1,-1
+1528251,73,19,Shot,78:19,Shot taken by Tiffany McCarty,27349,HOU,732077,0,0,Tiffany McCarty,"","",2,78,19,1999,0,1,0,89,43
+1528251,74,8,Foul,81:30,Foul called on Vanessa DiBernardo,11271,CHI,767216,872110,0,Vanessa DiBernardo, Andressa,"",2,81,30,2190,0,1,0,58,5
+1528251,75,2,Caution,81:51,Yellow card given to Vanessa DiBernardo (Reckless Foul),11271,CHI,767216,0,0,Vanessa DiBernardo,"","",2,81,51,2211,0,1,0,-1,-1
+1528251,76,19,Shot,82:47,Shot taken by Christen Press,11271,CHI,593765,0,0,Christen Press,"","",2,82,47,2267,0,1,0,32,35
+1528251,77,8,Foul,83:22,Foul called on Samantha Johnson,11271,CHI,825085,490144,0,Samantha Johnson,Ella Masar,"",2,83,22,2302,0,1,0,64,65
+1528251,78,8,Foul,84:29,Foul called on Arin Gilliland,11271,CHI,869004,593764,0,Arin Gilliland,Meghan Klingenberg,"",2,84,29,2369,0,1,0,23,45
+1528251,79,22,Substitution,84:46,Camila substituted in for Ella Masar,27349,HOU,873751,0,0, Camila,"","",2,84,46,2386,0,1,0,-1,-1
+1528251,80,20,Shot on Goal,86:01,Shot on goal by Christen Press,11271,CHI,593765,0,0,Christen Press,"","",2,86,1,2461,0,1,0,9,30
+1528251,81,11,Goal,86:02,Christen Press scored a goal assisted by Julie Johnston,11271,CHI,593765,0,725481,Christen Press,"",Julie Johnston,2,86,2,2462,0,1,1,9,30
+1528251,82,8,Foul,87:34,Foul called on Rachel Quon,11271,CHI,732024,873751,0,Rachel Quon, Camila,"",2,87,34,2554,0,1,1,71,11
+1528251,83,20,Shot on Goal,91:40,Shot on goal by Carli Lloyd,27349,HOU,490142,362274,0,Carli Lloyd,Karina LeBlanc,"",2,91,40,2800,2,1,1,96,29
+1528251,84,19,Shot,92:58,Shot taken by Rachael Axon,27349,HOU,857561,0,0,Rachael Axon,"","",2,92,58,2878,3,1,1,86,30
+1528251,85,13,Half Over,93:23,2nd Half ended,11271,CHI,0,0,0,"","","",2,93,23,2903,4,1,1,-1,-1
+1528251,86,10,Game Over,93:23,Game Over,11271,CHI,0,0,0,"","","",2,93,23,2903,4,1,1,-1,-1
