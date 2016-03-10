@@ -21,24 +21,37 @@ Tasks.load_info
 Tasks.dump_info
 
 teams = Teams.all
+games = Games.order(:week)
+players = Players.all
+
+game_videos = {}
+games.each do |game|
+  game_videos[game[:id]] =  {
+    'video_embed_id' => game[:video_embed_id],
+    'first_half_start' => game[:first_half_start],
+    'second_half_start' => game[:second_half_start]
+  }
+end
+
 teams.each do |team|
   roster= Rosters.hash(team[:id])
-  players = roster.map { |r| Players.find(id: r[:player_id]) }
+  team_players = roster.map { |r| Players.find(id: r[:player_id]) }
   proxy "/teams/#{team[:alias].downcase}/index.html", "/models/teams/single.html",
-        :locals => { :team_info => team, :roster => players }, :ignore => true
+        :locals => { :team_info => team, :roster => team_players }, :ignore => true
 end
 proxy '/teams/index.html', '/models/teams/list.html',
       :locals => { :teams => teams}, :ignore => true
 
-players = Players.all
 players.each do |player|
   proxy "/players/#{player[:url_name]}/index.html", "/models/players/single.html",
         :locals => { :player => player }, :ignore => true
 end
 proxy '/players/index.html', '/models/players/list.html',
       :locals => { :players => players}, :ignore => true
+proxy "/players/hopesolo/goals/shots.html", "/models/players/pbp.html",
+      :locals => { :game_videos => game_videos, :events => Events.where( :event_number => [19,20], :def_player_id => 370177)},
+      :ignore => true
 
-games = Games.order(:week)
 games.each do |game|
   proxy "/games/NWSL#{game[:id]}/index.html", "/models/games/single.html",
         :locals => { :game => game }, :ignore => true

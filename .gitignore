@@ -9,6 +9,7 @@
 
 # Ignore the build directory
 /build
+/.idea
 
 # Ignore cache
 /.sass-cache

@@ -1,0 +1,63 @@
+<% content_for :title do %>
+Hope Solo - All Shots
+<% end %>
+
+<script>
+// Game specific varibles
+var firstHalf = 0;
+var secondHalf = 0;
+var videoId = "";
+</script>
+
+<div id="player"></div>
+
+<div id="controls">
+  <button class="btn btn-primary" type="button" onclick="reverse()">Reverse 15 Seconds</button>
+  <button class="btn btn-primary" type="button" onclick="forward()">Forward 15 Seconds</button>
+  <button class="btn btn-primary" type="button" onclick="changeSize()">Change Size</button>
+</div>
+<br>
+<div id="events" class="Sidebar"
+  style="height: 300px; overflow: auto; -webkit-overflow-scrolling:touch; border: black 1px solid">
+  <table class="table-light overflow-hidden bg-white border rounded">
+    <thead>
+      <tr>
+        <th>Half</th>
+        <th>Time</th>
+        <th>Team</th>
+        <th>Event</th>
+        <th>Players</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% events.each do |event| %>
+      <tr onclick="seekGame(<%= "#{game_videos[event[:game_id]]['video_embed_id']},
+        #{game_videos[event[:game_id]]['first_half_start']},
+        #{game_videos[event[:game_id]]['second_half_start']},
+        #{event[:half]},#{event[:half_seconds]}" %>);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td><%= event[:half]        %></td>
+        <td><%= event[:button_text] %></td>
+        <td><%= event[:team_alias]  %></td>
+        <td><%= event[:event_text]  %></td>
+        <td>
+          <% if event[:off_player_name] != "" %>
+          OFF: <%= event[:off_player_name] %><br>
+          <% end %>
+          <% if event[:def_player_name] != "" %>
+          DEF: <%= event[:def_player_name] %><br>
+          <% end %>
+          <% if event[:ast_player_name] != "" %>
+          AST: <%= event[:ast_player_name] %>
+          <% end %>
+        </td>
+      </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div>
+<br>
+
+<%= javascript_include_tag "play_by_play" %>
