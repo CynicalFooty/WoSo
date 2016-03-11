@@ -10,6 +10,7 @@ class Events < Sequel::Model
   def self.create_table
     DB.create_table! :events do
       Integer     :game_id
+      String      :game_name
       Integer     :seq_number
       Integer     :event_number
       String      :event_text
@@ -47,6 +48,9 @@ class Events < Sequel::Model
       game_hash = parser.parse(File.read(file))
       event_hashes = parser.parse(File.read(file))['sports_statistics']['sports_play_by_play']['soccer_ifb_game']['plays']['play']
       game_id = game_hash['sports_statistics']['sports_play_by_play']['soccer_ifb_game']['gamecode']['@global_code']
+      home_team_alias =game_hash['sports_statistics']['sports_play_by_play']['soccer_ifb_game']['home_team']['team_info']['@alias']
+      away_team_alias =game_hash['sports_statistics']['sports_play_by_play']['soccer_ifb_game']['visiting_team']['team_info']['@alias']
+      game_name = "#{home_team_alias}-#{away_team_alias}"
       event_hashes.each do |event|
         #puts event
         x = event.fetch('@x_coord',-1)
@@ -72,18 +76,17 @@ class Events < Sequel::Model
         ast_full_name = ast_player[:full_name].gsub("'","''")
 
         game_sql = "INSERT or IGNORE INTO events
-        (game_id, seq_number, event_number, event_text, text, half, minutes,
+        (game_id, game_name, seq_number, event_number, event_text, text, half, minutes,
         seconds, additional_minutes, away_score, home_score, x, y, team_id,
         team_alias, half_seconds, button_text, off_player_id, off_player_name,
         def_player_id, def_player_name, ast_player_id, ast_player_name)
-        VALUES (#{game_id}, #{event['@seq_number']}, #{event['@event_number']},
+        VALUES (#{game_id}, '#{game_name}', #{event['@seq_number']}, #{event['@event_number']},
         '#{event['@event_text']}', '#{event['@text'].gsub("'","''")}', #{half},
         #{minutes}, #{seconds}, #{stoppage_minutes}, #{event['@away_score']},
         #{event['@home_score']}, #{x}, #{y}, #{team_id}, '#{team_alias}',
         #{half_seconds}, '#{button_text}', #{off_player[:id]},
         '#{off_full_name}', #{def_player[:id]}, '#{def_full_name}',
         #{ast_player[:id]}, '#{ast_full_name}' )"
-
         DB.run(game_sql)
 
       end

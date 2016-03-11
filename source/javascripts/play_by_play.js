@@ -40,6 +40,16 @@ function seek(half, sec, videoId){
   }
 }
 
+function seekGame(videoId, firstHalf, secondHalf, half, sec){
+  if(player){
+    if(half==1){
+      player.loadVideoById(videoId, sec+firstHalf-10, size)
+    } else {
+      player.loadVideoById(videoId, sec+secondHalf-10, size);
+    }
+  }
+}
+
 function reverse(){
   if(player){
     seconds = player.getCurrentTime() - 15;

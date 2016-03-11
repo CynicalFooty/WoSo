@@ -1,13 +1,22 @@
 <% content_for :title do %>
-Hope Solo - All Shots
+Every NWSL Goal - 2015
 <% end %>
 
 <script>
 // Game specific varibles
 var firstHalf = 0;
 var secondHalf = 0;
-var videoId = "";
+var videoId = "oFNUMEI6IBI";
 </script>
+
+<div class="h5 mxn1">
+  <a href="../" title="Home" class="btn compact btn-link p1">Home</a>
+</div>
+
+<div>
+  <h1>Every NWSL Goal - 2015</h1>
+  <h3>Compiled by <a href="http://twitter.com/dannypage">Danny Page</a> / Video and PBP files via <a href="http://nwslsoccer.com/">NWSL</a></h3>
+</div>
 
 <div id="player"></div>
 
@@ -22,35 +31,30 @@ var videoId = "";
   <table class="table-light overflow-hidden bg-white border rounded">
     <thead>
       <tr>
-        <th>Half</th>
-        <th>Time</th>
+        <th>Game</th>
+        <th>Half | Time</th>
         <th>Team</th>
-        <th>Event</th>
         <th>Players</th>
       </tr>
     </thead>
     <tbody>
       <% events.each do |event| %>
-      <tr onclick="seekGame(<%= "#{game_videos[event[:game_id]]['video_embed_id']},
+      <tr onclick="seekGame(<%= "'#{game_videos[event[:game_id]]['video_embed_id']}',
         #{game_videos[event[:game_id]]['first_half_start']},
         #{game_videos[event[:game_id]]['second_half_start']},
         #{event[:half]},#{event[:half_seconds]}" %>);"
         style = "cursor: pointer;"
         onMouseOver="this.style.backgroundColor='silver'"
         onMouseOut="this.style.backgroundColor='transparent'" >
-        <td><%= event[:half]        %></td>
-        <td><%= event[:button_text] %></td>
+        <td><%= event[:game_name] %></td>
+        <td><%= "#{event[:half]} | #{event[:button_text]}" %></td>
         <td><%= event[:team_alias]  %></td>
-        <td><%= event[:event_text]  %></td>
         <td>
           <% if event[:off_player_name] != "" %>
-          OFF: <%= event[:off_player_name] %><br>
-          <% end %>
-          <% if event[:def_player_name] != "" %>
-          DEF: <%= event[:def_player_name] %><br>
+          Goal: <%= event[:off_player_name] %><br>
           <% end %>
           <% if event[:ast_player_name] != "" %>
-          AST: <%= event[:ast_player_name] %>
+          Assist: <%= event[:ast_player_name] %>
           <% end %>
         </td>
       </tr>

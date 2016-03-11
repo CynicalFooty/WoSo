@@ -63,6 +63,9 @@ games.each do |game|
 end
 proxy '/games/index.html', '/models/games/list.html',
       :locals => { :games => games}, :ignore => true
+proxy "/goals.html", "/models/players/pbp.html",
+      :locals => { :game_videos => game_videos, :events => Events.where( :event_number => [17,11])},
+      :ignore => true
 
 activate :deploy do |deploy|
   deploy.build_before = true # default: false
