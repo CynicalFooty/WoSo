@@ -20,6 +20,8 @@ class Games < Sequel::Model
       Integer     :overtime_two_start
       Integer     :penalty_kicks
       String      :video_embed_id
+      String      :video_first
+      String      :video_second
     end
   end
 
