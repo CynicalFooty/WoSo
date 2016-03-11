@@ -3,15 +3,27 @@
   <head>
     <meta charset="utf-8">
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
-    <title>NWSL Directory</title>
+    <title>WAS vs POR - Play By Play
+</title>
 
     <link href="../../../stylesheets/basscss.min.css" rel="stylesheet" type="text/css" />
     <script src="../../../javascripts/all.js" type="text/javascript"></script>
+    <script src="../../../javascripts/ga.js" type="text/javascript"></script>
+
+    
   </head>
 
   <body class="games games_NWSL1528237 games_NWSL1528237_pbp games_NWSL1528237_pbp_index">
     <div class="container px2 sm-px3" style="max-width:64rem;">
-      <div class="h5 mxn1">
+      
+<script>
+// Game specific varibles
+var firstHalf = 422;
+var secondHalf = 4175;
+var videoId = "TsbfUGTnSYE";
+</script>
+
+<div class="h5 mxn1">
   <a href="../../../" title="Home" class="btn compact btn-link p1">Home</a>
   <span class="">
     <span class="muted"> / </span>
@@ -29,1010 +41,1111 @@
   </span>
 </div>
 
-<div>
-  <h1>WAS vs POR - Play By Play</h1>
-  <p>Week 8 / 2015-5-30</p>
-  <p>
-    First Half: 0 /
-    Second Half: 0 /
-    Video URL: 
-  </p>
-</div>
 
 <div>
+  <h1 class="border-bottom" >WAS vs POR - Play By Play</h1>
+  <p class="bold">Week 8 / 05/30/15</p>
+</div>
+
+<div id="player"></div>
+
+<div id="controls">
+  <button class="btn btn-primary" type="button" onclick="reverse()">Reverse 15 Seconds</button>
+  <button class="btn btn-primary" type="button" onclick="forward()">Forward 15 Seconds</button>
+  <button class="btn btn-primary" type="button" onclick="changeSize()">Change Size</button>
+</div>
+<br>
+<div id="events" class="Sidebar"
+  style="height: 300px; overflow: auto; -webkit-overflow-scrolling:touch; border: black 1px solid">
   <table class="table-light overflow-hidden bg-white border rounded">
     <thead>
       <tr>
+        <th>Half</th>
         <th>Time</th>
         <th>Team</th>
         <th>Event</th>
         <th>Players</th>
       </tr>
     </thead>
-        <tr onclick="seek(1,0)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>01:00</td>
-          <td>WAS</td>
-          <td>Start Half</td>
-          <td>
-          </td>
-        </tr>
-        <tr onclick="seek(1,29)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>03:29</td>
-          <td>POR</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,4)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>04:04</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Crystal Dunn<br>
-              DEF: Kat Williamson<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,15)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>05:15</td>
-          <td>WAS</td>
-          <td>Corner Kick</td>
-          <td>
-              OFF: Angela Salem<br>
-              DEF: Taylor Comeau<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,22)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>05:22</td>
-          <td>POR</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,59)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>05:59</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Sinead Farrelly<br>
-              DEF: Amanda Da Costa<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,36)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>06:36</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Kelsey Haycook<br>
-              DEF: Angela Salem<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,13)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>08:13</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Joanna Lohman<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,36)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>09:36</td>
-          <td>POR</td>
-          <td>Shot</td>
-          <td>
-              OFF: Kelsey Haycook<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,58)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>09:58</td>
-          <td>WAS</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,5)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>11:05</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Allie Long<br>
-              DEF: Laura del Rio<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,49)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>11:49</td>
-          <td>POR</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,37)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>15:37</td>
-          <td>WAS</td>
-          <td>Foul</td>
-          <td>
-              OFF: Estelle Johnson<br>
-              DEF: Sinead Farrelly<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,1)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>16:01</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Kendall Johnson<br>
-              DEF: Amanda Da Costa<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,36)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>16:36</td>
-          <td>WAS</td>
-          <td>Foul</td>
-          <td>
-              OFF: Joanna Lohman<br>
-              DEF: Sinead Farrelly<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,50)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>17:50</td>
-          <td>WAS</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,13)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>18:13</td>
-          <td>POR</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Ayo Anonma<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,14)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>18:14</td>
-          <td>POR</td>
-          <td>Goal</td>
-          <td>
-              OFF: Ayo Anonma<br>
-              AST: Allie Long
-          </td>
-        </tr>
-        <tr onclick="seek(1,14)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>19:14</td>
-          <td>WAS</td>
-          <td>Shot</td>
-          <td>
-              OFF: Crystal Dunn<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,16)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>20:16</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Taylor Comeau<br>
-              DEF: Laura del Rio<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,57)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>22:57</td>
-          <td>POR</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,57)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>23:57</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: McCall Zerboni<br>
-              DEF: Joanna Lohman<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,34)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>24:34</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Christine Nairn<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,25)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>26:25</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Amanda Da Costa<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,26)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>26:26</td>
-          <td>WAS</td>
-          <td>Goal</td>
-          <td>
-              OFF: Amanda Da Costa<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,2)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>28:02</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Ayo Anonma<br>
-              DEF: Whitney Church<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,33)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>28:33</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Crystal Dunn<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,34)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>28:34</td>
-          <td>WAS</td>
-          <td>Goal</td>
-          <td>
-              OFF: Crystal Dunn<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,4)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>32:04</td>
-          <td>POR</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Sinead Farrelly<br>
-              DEF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,15)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>32:15</td>
-          <td>POR</td>
-          <td>Corner Kick</td>
-          <td>
-              OFF: Allie Long<br>
-              DEF: Angela Salem<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,58)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>32:58</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Ayo Anonma<br>
-              DEF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,46)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>33:46</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Crystal Dunn<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,36)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>34:36</td>
-          <td>WAS</td>
-          <td>Offside</td>
-          <td>
-              OFF: Crystal Dunn<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,29)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>35:29</td>
-          <td>POR</td>
-          <td>Corner Kick</td>
-          <td>
-              OFF: Allie Long<br>
-              DEF: Megan Oyster<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,44)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>39:44</td>
-          <td>WAS</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,37)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>40:37</td>
-          <td>WAS</td>
-          <td>Foul</td>
-          <td>
-              OFF: Crystal Dunn<br>
-              DEF: Taylor Comeau<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,10)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>42:10</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Laura del Rio<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,5)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>44:05</td>
-          <td>POR</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(1,38)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>46:38</td>
-          <td>WAS</td>
-          <td>Half Over</td>
-          <td>
-          </td>
-        </tr>
-        <tr onclick="seek(2,0)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>46:00</td>
-          <td>POR</td>
-          <td>Substitution</td>
-          <td>
-              OFF: Rachel Van Hollebeke<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,0)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>46:00</td>
-          <td>WAS</td>
-          <td>Start Half</td>
-          <td>
-          </td>
-        </tr>
-        <tr onclick="seek(2,57)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>48:57</td>
-          <td>WAS</td>
-          <td>Foul</td>
-          <td>
-              OFF: Amanda Da Costa<br>
-              DEF: Kendall Johnson<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,41)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>49:41</td>
-          <td>WAS</td>
-          <td>Offside</td>
-          <td>
-              OFF: Crystal Dunn<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,48)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>50:48</td>
-          <td>WAS</td>
-          <td>Corner Kick</td>
-          <td>
-              OFF: Angela Salem<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,54)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>51:54</td>
-          <td>POR</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,15)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>54:15</td>
-          <td>WAS</td>
-          <td>Corner Kick</td>
-          <td>
-              OFF: Christine Nairn<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,46)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>55:46</td>
-          <td>WAS</td>
-          <td>Offside</td>
-          <td>
-              OFF: Joanna Lohman<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,6)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>57:06</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Allie Long<br>
-              DEF: Laura del Rio<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,18)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>57:18</td>
-          <td>POR</td>
-          <td>Caution</td>
-          <td>
-              OFF: Allie Long<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,55)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>57:55</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Christine Nairn<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,42)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>58:42</td>
-          <td>WAS</td>
-          <td>Foul</td>
-          <td>
-              OFF: Amanda Da Costa<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,57)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>59:57</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Crystal Dunn<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,16)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>61:16</td>
-          <td>WAS</td>
-          <td>Foul</td>
-          <td>
-              OFF: Estelle Johnson<br>
-              DEF: Allie Long<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,31)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>61:31</td>
-          <td>WAS</td>
-          <td>Caution</td>
-          <td>
-              OFF: Estelle Johnson<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,52)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>61:52</td>
-          <td>POR</td>
-          <td>Caution</td>
-          <td>
-              OFF: Kat Williamson<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,46)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>62:46</td>
-          <td>POR</td>
-          <td>Shot</td>
-          <td>
-              OFF: Meleana Shim<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,37)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>63:37</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Sinead Farrelly<br>
-              DEF: Katherine Reynolds<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,37)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>67:37</td>
-          <td>POR</td>
-          <td>Substitution</td>
-          <td>
-              OFF: Sarah Jackson<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,43)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>68:43</td>
-          <td>WAS</td>
-          <td>Foul</td>
-          <td>
-              OFF: Katherine Reynolds<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,3)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>69:03</td>
-          <td>POR</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Meleana Shim<br>
-              DEF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,12)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>71:12</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Sinead Farrelly<br>
-              DEF: Laura del Rio<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,18)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>71:18</td>
-          <td>POR</td>
-          <td>Caution</td>
-          <td>
-              OFF: Sinead Farrelly<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,42)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>72:42</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Sarah Jackson<br>
-              DEF: Megan Oyster<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,50)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>72:50</td>
-          <td>POR</td>
-          <td>Caution</td>
-          <td>
-              OFF: Sarah Jackson<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,8)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>75:08</td>
-          <td>WAS</td>
-          <td>Substitution</td>
-          <td>
-              OFF: Caprice Dydasco<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,55)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>77:55</td>
-          <td>POR</td>
-          <td>Corner Kick</td>
-          <td>
-              OFF: Allie Long<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,30)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>78:30</td>
-          <td>WAS</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,22)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>79:22</td>
-          <td>WAS</td>
-          <td>Shot</td>
-          <td>
-              OFF: Crystal Dunn<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,39)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>80:39</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Laura del Rio<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,19)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>81:19</td>
-          <td>POR</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Meleana Shim<br>
-              DEF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,52)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>81:52</td>
-          <td>WAS</td>
-          <td>Foul</td>
-          <td>
-              OFF: Crystal Dunn<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,0)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>82:00</td>
-          <td>WAS</td>
-          <td>Substitution</td>
-          <td>
-              OFF: Alex Singer<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,50)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>82:50</td>
-          <td>WAS</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,38)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>83:38</td>
-          <td>POR</td>
-          <td>Substitution</td>
-          <td>
-              OFF: Alyssa Kleiner<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,20)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>88:20</td>
-          <td>POR</td>
-          <td>Foul</td>
-          <td>
-              OFF: Alyssa Kleiner<br>
-              DEF: Angela Salem<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,56)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>88:56</td>
-          <td>POR</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,32)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>89:32</td>
-          <td>WAS</td>
-          <td>Shot on Goal</td>
-          <td>
-              OFF: Crystal Dunn<br>
-              DEF: Michelle Betos<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,58)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>89:58</td>
-          <td>WAS</td>
-          <td>Corner Kick</td>
-          <td>
-              OFF: Christine Nairn<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,18)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>91:18</td>
-          <td>WAS</td>
-          <td>Substitution</td>
-          <td>
-              OFF: Tiffany Weimer<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,47)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>92:47</td>
-          <td>POR</td>
-          <td>Shot</td>
-          <td>
-              OFF: Ayo Anonma<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,55)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>92:55</td>
-          <td>WAS</td>
-          <td>Goal Kick</td>
-          <td>
-              OFF: Kelsey Wys<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,40)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>93:40</td>
-          <td>WAS</td>
-          <td>Foul</td>
-          <td>
-              OFF: Estelle Johnson<br>
-              DEF: Allie Long<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,33)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>94:33</td>
-          <td>POR</td>
-          <td>Corner Kick</td>
-          <td>
-              OFF: Allie Long<br>
-          </td>
-        </tr>
-        <tr onclick="seek(2,7)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>95:07</td>
-          <td>WAS</td>
-          <td>Half Over</td>
-          <td>
-          </td>
-        </tr>
-        <tr onclick="seek(2,7)"
-          style = "cursor: pointer;"
-          onMouseOver="this.style.backgroundColor='silver'"
-          onMouseOut="this.style.backgroundColor='transparent'" >
-          <td>95:07</td>
-          <td>WAS</td>
-          <td>Game Over</td>
-          <td>
-          </td>
-        </tr>
+    <tbody>
+      <tr onclick="seek(1,0);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>00:00</td>
+        <td>WAS</td>
+        <td>Start Half</td>
+        <td>
+        </td>
+      </tr>
+      <tr onclick="seek(1,149);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>02:29</td>
+        <td>POR</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,184);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>03:04</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Crystal Dunn<br>
+          DEF: Kat Williamson<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,255);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>04:15</td>
+        <td>WAS</td>
+        <td>Corner Kick</td>
+        <td>
+          OFF: Angela Salem<br>
+          DEF: Taylor Comeau<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,262);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>04:22</td>
+        <td>POR</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,299);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>04:59</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Sinead Farrelly<br>
+          DEF: Amanda Da Costa<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,336);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>05:36</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Kelsey Haycook<br>
+          DEF: Angela Salem<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,433);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>07:13</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Joanna Lohman<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,516);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>08:36</td>
+        <td>POR</td>
+        <td>Shot</td>
+        <td>
+          OFF: Kelsey Haycook<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,538);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>08:58</td>
+        <td>WAS</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,605);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>10:05</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Allie Long<br>
+          DEF: Laura del Rio<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,649);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>10:49</td>
+        <td>POR</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,877);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>14:37</td>
+        <td>WAS</td>
+        <td>Foul</td>
+        <td>
+          OFF: Estelle Johnson<br>
+          DEF: Sinead Farrelly<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,901);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>15:01</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Kendall Johnson<br>
+          DEF: Amanda Da Costa<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,936);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>15:36</td>
+        <td>WAS</td>
+        <td>Foul</td>
+        <td>
+          OFF: Joanna Lohman<br>
+          DEF: Sinead Farrelly<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1010);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>16:50</td>
+        <td>WAS</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1033);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>17:13</td>
+        <td>POR</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Ayo Anonma<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1034);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>17:14</td>
+        <td>POR</td>
+        <td>Goal</td>
+        <td>
+          OFF: Ayo Anonma<br>
+          AST: Allie Long
+        </td>
+      </tr>
+      <tr onclick="seek(1,1094);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>18:14</td>
+        <td>WAS</td>
+        <td>Shot</td>
+        <td>
+          OFF: Crystal Dunn<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1156);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>19:16</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Taylor Comeau<br>
+          DEF: Laura del Rio<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1317);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>21:57</td>
+        <td>POR</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1377);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>22:57</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: McCall Zerboni<br>
+          DEF: Joanna Lohman<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1414);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>23:34</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Christine Nairn<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1525);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>25:25</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Amanda Da Costa<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1526);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>25:26</td>
+        <td>WAS</td>
+        <td>Goal</td>
+        <td>
+          OFF: Amanda Da Costa<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1622);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>27:02</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Ayo Anonma<br>
+          DEF: Whitney Church<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1653);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>27:33</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Crystal Dunn<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1654);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>27:34</td>
+        <td>WAS</td>
+        <td>Goal</td>
+        <td>
+          OFF: Crystal Dunn<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1864);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>31:04</td>
+        <td>POR</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Sinead Farrelly<br>
+          DEF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1875);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>31:15</td>
+        <td>POR</td>
+        <td>Corner Kick</td>
+        <td>
+          OFF: Allie Long<br>
+          DEF: Angela Salem<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1918);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>31:58</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Ayo Anonma<br>
+          DEF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,1966);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>32:46</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Crystal Dunn<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,2016);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>33:36</td>
+        <td>WAS</td>
+        <td>Offside</td>
+        <td>
+          OFF: Crystal Dunn<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,2069);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>34:29</td>
+        <td>POR</td>
+        <td>Corner Kick</td>
+        <td>
+          OFF: Allie Long<br>
+          DEF: Megan Oyster<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,2324);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>38:44</td>
+        <td>WAS</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,2377);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>39:37</td>
+        <td>WAS</td>
+        <td>Foul</td>
+        <td>
+          OFF: Crystal Dunn<br>
+          DEF: Taylor Comeau<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,2470);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>41:10</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Laura del Rio<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,2585);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>43:05</td>
+        <td>POR</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(1,2738);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>1</td>
+        <td>45:38</td>
+        <td>WAS</td>
+        <td>Half Over</td>
+        <td>
+        </td>
+      </tr>
+      <tr onclick="seek(2,0);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>45:00</td>
+        <td>POR</td>
+        <td>Substitution</td>
+        <td>
+          OFF: Rachel Van Hollebeke<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,0);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>45:00</td>
+        <td>WAS</td>
+        <td>Start Half</td>
+        <td>
+        </td>
+      </tr>
+      <tr onclick="seek(2,177);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>47:57</td>
+        <td>WAS</td>
+        <td>Foul</td>
+        <td>
+          OFF: Amanda Da Costa<br>
+          DEF: Kendall Johnson<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,221);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>48:41</td>
+        <td>WAS</td>
+        <td>Offside</td>
+        <td>
+          OFF: Crystal Dunn<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,288);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>49:48</td>
+        <td>WAS</td>
+        <td>Corner Kick</td>
+        <td>
+          OFF: Angela Salem<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,354);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>50:54</td>
+        <td>POR</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,495);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>53:15</td>
+        <td>WAS</td>
+        <td>Corner Kick</td>
+        <td>
+          OFF: Christine Nairn<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,586);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>54:46</td>
+        <td>WAS</td>
+        <td>Offside</td>
+        <td>
+          OFF: Joanna Lohman<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,666);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>56:06</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Allie Long<br>
+          DEF: Laura del Rio<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,678);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>56:18</td>
+        <td>POR</td>
+        <td>Caution</td>
+        <td>
+          OFF: Allie Long<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,715);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>56:55</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Christine Nairn<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,762);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>57:42</td>
+        <td>WAS</td>
+        <td>Foul</td>
+        <td>
+          OFF: Amanda Da Costa<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,837);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>58:57</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Crystal Dunn<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,916);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>60:16</td>
+        <td>WAS</td>
+        <td>Foul</td>
+        <td>
+          OFF: Estelle Johnson<br>
+          DEF: Allie Long<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,931);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>60:31</td>
+        <td>WAS</td>
+        <td>Caution</td>
+        <td>
+          OFF: Estelle Johnson<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,952);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>60:52</td>
+        <td>POR</td>
+        <td>Caution</td>
+        <td>
+          OFF: Kat Williamson<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1006);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>61:46</td>
+        <td>POR</td>
+        <td>Shot</td>
+        <td>
+          OFF: Meleana Shim<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1057);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>62:37</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Sinead Farrelly<br>
+          DEF: Katherine Reynolds<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1297);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>66:37</td>
+        <td>POR</td>
+        <td>Substitution</td>
+        <td>
+          OFF: Sarah Jackson<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1363);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>67:43</td>
+        <td>WAS</td>
+        <td>Foul</td>
+        <td>
+          OFF: Katherine Reynolds<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1383);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>68:03</td>
+        <td>POR</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Meleana Shim<br>
+          DEF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1512);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>70:12</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Sinead Farrelly<br>
+          DEF: Laura del Rio<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1518);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>70:18</td>
+        <td>POR</td>
+        <td>Caution</td>
+        <td>
+          OFF: Sinead Farrelly<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1602);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>71:42</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Sarah Jackson<br>
+          DEF: Megan Oyster<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1610);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>71:50</td>
+        <td>POR</td>
+        <td>Caution</td>
+        <td>
+          OFF: Sarah Jackson<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1748);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>74:08</td>
+        <td>WAS</td>
+        <td>Substitution</td>
+        <td>
+          OFF: Caprice Dydasco<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1915);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>76:55</td>
+        <td>POR</td>
+        <td>Corner Kick</td>
+        <td>
+          OFF: Allie Long<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,1950);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>77:30</td>
+        <td>WAS</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2002);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>78:22</td>
+        <td>WAS</td>
+        <td>Shot</td>
+        <td>
+          OFF: Crystal Dunn<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2079);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>79:39</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Laura del Rio<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2119);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>80:19</td>
+        <td>POR</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Meleana Shim<br>
+          DEF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2152);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>80:52</td>
+        <td>WAS</td>
+        <td>Foul</td>
+        <td>
+          OFF: Crystal Dunn<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2160);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>81:00</td>
+        <td>WAS</td>
+        <td>Substitution</td>
+        <td>
+          OFF: Alex Singer<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2210);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>81:50</td>
+        <td>WAS</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2258);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>82:38</td>
+        <td>POR</td>
+        <td>Substitution</td>
+        <td>
+          OFF: Alyssa Kleiner<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2540);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>87:20</td>
+        <td>POR</td>
+        <td>Foul</td>
+        <td>
+          OFF: Alyssa Kleiner<br>
+          DEF: Angela Salem<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2576);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>87:56</td>
+        <td>POR</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2612);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>88:32</td>
+        <td>WAS</td>
+        <td>Shot on Goal</td>
+        <td>
+          OFF: Crystal Dunn<br>
+          DEF: Michelle Betos<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2638);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>88:58</td>
+        <td>WAS</td>
+        <td>Corner Kick</td>
+        <td>
+          OFF: Christine Nairn<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2718);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>90:18</td>
+        <td>WAS</td>
+        <td>Substitution</td>
+        <td>
+          OFF: Tiffany Weimer<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2807);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>91:47</td>
+        <td>POR</td>
+        <td>Shot</td>
+        <td>
+          OFF: Ayo Anonma<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2815);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>91:55</td>
+        <td>WAS</td>
+        <td>Goal Kick</td>
+        <td>
+          OFF: Kelsey Wys<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2860);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>92:40</td>
+        <td>WAS</td>
+        <td>Foul</td>
+        <td>
+          OFF: Estelle Johnson<br>
+          DEF: Allie Long<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2913);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>93:33</td>
+        <td>POR</td>
+        <td>Corner Kick</td>
+        <td>
+          OFF: Allie Long<br>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2947);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>94:07</td>
+        <td>WAS</td>
+        <td>Half Over</td>
+        <td>
+        </td>
+      </tr>
+      <tr onclick="seek(2,2947);"
+        style = "cursor: pointer;"
+        onMouseOver="this.style.backgroundColor='silver'"
+        onMouseOut="this.style.backgroundColor='transparent'" >
+        <td>2</td>
+        <td>94:07</td>
+        <td>WAS</td>
+        <td>Game Over</td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
   </table>
 </div>
+<br>
+<div>
+  <p>Debug info ->
+    First Half: 422 /
+    Second Half: 4175 /
+    Video URL: TsbfUGTnSYE
+  </p>
+</div>
+
+<script src="../../../javascripts/play_by_play.js" type="text/javascript"></script>
 
     </div>
 
-    <footer class="Footer h6 compact mt4">
-  <div class="container px2 sm-px3" style="max-width:64rem;">
-    <div class="py3 border-top">
-      <div class="flex flex-wrap flex-baseline mxn1">
-        <a href="//github.com/cynicalfooty/" title="GitHub Source" class="btn compact btn-link p1">GitHub</a>
-        <div class="flex-auto"></div>
-        <a href="//dannypage.github.io" title="Made by Danny Page" class="btn compact btn-link p1">Made by Danny Page</a>
-        <a href="//twitter.com/dannypage" title="Twitter" class="btn compact btn-link p1">Twitter</a>
-      </div>
+    <div class="container px2 sm-px3" style="max-width:64rem;">
+  <div class="m1 border-top">
+    <div class="flex flex-wrap flex-baseline mxn1">
+      <a href="//github.com/cynicalfooty/" title="GitHub Source" class="btn compact btn-link p1">GitHub</a>
+      <div class="flex-auto"></div>
+      <a href="//dannypage.github.io" title="Made by Danny Page" class="btn compact btn-link p1">Made by Danny Page</a>
+      <a href="//twitter.com/dannypage" title="Twitter" class="btn compact btn-link p1">Twitter</a>
     </div>
   </div>
-</footer>
+</div>
 
   </body>
 </html>
